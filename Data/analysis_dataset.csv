@@ -1,0 +1,1521 @@
+volume,clinic,tag_year,action,action_date,action_year,action_month,address,city,zip
+1000.0,Southern Animal Foundation,2015,Delivered,2014-12-12 00:00:00,2014.0,12.0,1823 Magazine Street,New Orleans,70130.0
+200.0,Banfield 1023 (Elmwood),2015,Delivered,2014-12-13 00:00:00,2014.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+100.0,Animal Care Center,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,313 David Dr.,Metairie,70003.0
+-83.0,Animal Care Center,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,313 David Dr.,Metairie,70003.0
+100.0,Allstar Animal Clinic,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+1000.0,Metairie Small Animal Hospital,2015,Delivered,2014-12-18 00:00:00,2014.0,12.0,101 Metairie Rd,Metairie,70005.0
+-48.0,Metairie Small Animal Hospital,2015,Returned,2015-01-13 00:00:00,2015.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Crescent City Veterinary Hospital,2015,Delivered,2014-12-18 00:00:00,2014.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Algiers Animal Clinic,2015,Delivered,2014-12-26 00:00:00,2014.0,12.0,3807 General DeGaulle,Algiers,70114.0
+200.0,Animal Medical & Surgical Hospital,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+30.0,At Home Veterinary Care,2015,Delivered,2015-02-04 00:00:00,2015.0,2.0,PO Box 231145,Harahan,70123.0
+50.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-28 00:00:00,2015.0,3.0,,,
+100.0,Aurora Animal Hospital,2015,Delivered,2015-01-05 00:00:00,2015.0,1.0,565 Holmes Blvd,Gretna,70056.0
+100.0,House Calls!,2015,Delivered,2015-01-07 00:00:00,2015.0,1.0,,,
+-85.0,House Calls!,2015,Returned,2016-02-02 00:00:00,2016.0,2.0,,,
+100.0,Banfield 1175 (Veterans),2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+200.0,Canal Street Veterinary Hospital,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,4022 Canal St,New Orleans,70119.0
+100.0,Villalobos,2015,Delivered,2015-11-04 00:00:00,2015.0,11.0,,,
+100.0,Chateau Veterinary Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,704 W. Esplanade Ave ,Kenner,70065.0
+-98.0,Chateau Veterinary Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,704 W. Esplanade Ave ,Kenner,70065.0
+-2.0,Chateau Veterinary Hospital,2015,Returned,2015-11-15 00:00:00,2015.0,11.0,704 W. Esplanade Ave ,Kenner,70065.0
+100.0,"Manhattan Animal Clinic, LLC",2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,,,
+58.0,"Manhattan Animal Clinic, LLC",2015,Delivered,2015-12-27 00:00:00,2015.0,12.0,,,
+100.0,Natural Pet Care,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+200.0,Banfield 1034 (West Bank),2015,Delivered,2014-12-26 00:00:00,2014.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Banfield 1175 (Veterans),2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+300.0,Carrollton Veterinary Hospital,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+100.0,Clearview Veterinary Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,4713 Trenton Street,Metairie,70006.0
+-28.0,Clearview Veterinary Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,4713 Trenton Street,Metairie,70006.0
+100.0,Convenient Home Veterinary Care,2015,Delivered,2015-01-05 00:00:00,2015.0,1.0,P.O. Box 1242,Harvey,70059.0
+-54.0,Convenient Home Veterinary Care,2015,Returned,2016-03-23 00:00:00,2016.0,3.0,P.O. Box 1242,Harvey,70059.0
+500.0,Maple Small Animal Clinic,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,7608 Maple St,New Orleans,70118.0
+200.0,Desoto Park Veterinary Clinic,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,2659 Desoto St,New Orleans,70119.0
+300.0,Doskey Mobile Veterinary Care,2015,Delivered,2015-01-06 00:00:00,2015.0,1.0,,,
+500.0,Elysian Fields Animal Clinic,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-10.0,Fur De Lis Vet Services,2015,Returned,2015-01-25 00:00:00,2015.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+100.0,Fur De Lis Vet Services,2015,Delivered,2015-01-27 00:00:00,2015.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+100.0,Gretna Animal Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,714 Kepler St,Gretna,70053.0
+100.0,Hickory Knoll Veterinary Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,1625 Hickory Ave,Harahan,70123.0
+100.0,Home Veterinary Services,2015,Delivered,2015-02-13 00:00:00,2015.0,2.0,"PO Box 11120, Jefferson, 10181-1120",,
+-1.0,Home Veterinary Services,2015,Returned,2015-11-15 00:00:00,2015.0,11.0,"PO Box 11120, Jefferson, 10181-1120",,
+-3.0,Home Veterinary Services,2015,Returned,2015-11-15 00:00:00,2015.0,11.0,"PO Box 11120, Jefferson, 10181-1120",,
+-70.0,Home Veterinary Services,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+100.0,Jester Veterinarian Clinic,2015,Delivered,2014-12-26 00:00:00,2014.0,12.0,4 Westbank Expressway,,
+200.0,Lake Animal Hospital,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+300.0,Midcity Veterinary Hospital,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Lakeview Veterinary Hospital,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Magazine Street Animal Clinic,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,NOLA Animal Clinic,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Pet Care Center,2015,Delivered,2014-12-26 00:00:00,2014.0,12.0,2212 David Drive,Metairie,70003.0
+50.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-26 00:00:00,2015.0,3.0,,,
+50.0,W. Esplanade Vet Clinic,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,3640 W. Esplanade Ave,Metairie,70002.0
+-34.0,W. Esplanade Vet Clinic,2015,Returned,Unknown,Unknown,Unknown,3640 W. Esplanade Ave,Metairie,70002.0
+100.0,Terry Parkway Animal Clinic,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-43.0,Terry Parkway Animal Clinic,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,636 Terry Parkway,Terrytown,70056.0
+100.0,Southshore Animal Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,213 Live Oak St,Metairie,70005.0
+100.0,Terrytown Veterinary Clinic,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,867 Terry Parkway,Terrytown,70056.0
+-51.0,Terrytown Veterinary Clinic,2015,Returned,2015-12-29 00:00:00,2015.0,12.0,867 Terry Parkway,Terrytown,70056.0
+100.0,The Cat Hospital of Metairie,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,Prytania Veterinary Hospital,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,The Cat Practice,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,1809 Magazine St,New Orleans,70130.0
+100.0,Pets R Our World,2015,Delivered,2015-01-08 00:00:00,2015.0,1.0,PO Box 9055,Metairie,70055.0
+44.0,Lakeview Veterinary Hospital,2015,Delivered,2015-12-20 00:00:00,2015.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+-44.0,Villalobos,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+90.0,Villalobos,2015,Delivered,2015-11-04 00:00:00,2015.0,11.0,,,
+10.0,Vet-a-GoGo,2015,Delivered,2015-09-24 00:00:00,2015.0,9.0,3517 Chartres St,New Orleans,70117.0
+100.0,Uptown Veterinary Hospital,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,731 Nashville Ave,New Orleans,70115.0
+200.0,VCA Airline Animal Hospital,2015,Delivered,2014-12-29 00:00:00,2014.0,12.0,5105 Airline Drive,Metairie,70001.0
+-80.0,VCA Airline Animal Hospital,2015,Returned,2015-12-28 00:00:00,2015.0,12.0,5105 Airline Drive,Metairie,70001.0
+500.0,The French Quarter Vet,2015,Delivered,2015-01-06 00:00:00,2015.0,1.0,3041 N Rampart St,New Orleans,70116.0
+200.0,VCA Causeway Animal Hospital,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+100.0,Allstar Animal Clinic,2015,Delivered,2015-08-17 00:00:00,2015.0,8.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Vet Relief Foundation,2015,Delivered,2015-09-10 00:00:00,2015.0,9.0,2611 Florida St ,,
+500.0,Vetco @ Petco Mobile Clinic,2015,Delivered,2014-12-27 00:00:00,2014.0,12.0,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,Banfield 1034 (West Bank),2015,Delivered,1941-09-01 00:00:00,1941.0,9.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-25 00:00:00,2015.0,3.0,,,
+-10.0,Annual Rabies Vaccination Drive,2015,Returned,2015-03-30 00:00:00,2015.0,3.0,,,
+10.0,Gretna Animal Hospital,2015,Delivered,2015-12-08 00:00:00,2015.0,12.0,714 Kepler St,Gretna,70053.0
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-10-07 00:00:00,2015.0,10.0,,,
+100.0,Lake Animal Hospital,2015,Delivered,2015-10-07 00:00:00,2015.0,10.0,604 Veterans Memorial Blvd,Metairie,70005.0
+100.0,Desoto Park Veterinary Clinic,2015,Delivered,2015-05-07 00:00:00,2015.0,5.0,2659 Desoto St,New Orleans,70119.0
+-20.0,Desoto Park Veterinary Clinic,2015,Returned,2015-12-28 00:00:00,2015.0,12.0,2659 Desoto St,New Orleans,70119.0
+200.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-26 00:00:00,2015.0,3.0,,,
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+-19.0,Annual Rabies Vaccination Drive,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+100.0,River Ridge Veterinary Clinic,2015,Delivered,2015-05-06 00:00:00,2015.0,5.0,9019 Jefferson Hwy,River Ridge,70123.0
+500.0,Louisiana SPCA,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,,,
+500.0,Louisiana SPCA,2015,Delivered,2014-12-24 00:00:00,2014.0,12.0,,,
+500.0,Louisiana SPCA,2015,Delivered,2015-01-02 00:00:00,2015.0,1.0,,,
+-18.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-12.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-25.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-25.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-25.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+500.0,Louisiana SPCA,2015,Delivered,2015-02-06 00:00:00,2015.0,2.0,,,
+500.0,Prytania Veterinary Hospital,2015,Delivered,2015-02-28 00:00:00,2015.0,2.0,201 Nashville Ave.,New Orleans,70115.0
+300.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-28 00:00:00,2015.0,3.0,,,
+35.0,Banfield 1034 (West Bank),2015,Delivered,2015-12-07 00:00:00,2015.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+-143.0,Annual Rabies Vaccination Drive,2015,Returned,2015-08-11 00:00:00,2015.0,8.0,,,
+75.0,The SULA Foundation,2015,Delivered,2014-11-17 00:00:00,2014.0,11.0,,,
+25.0,Natural Pet Care,2015,Delivered,2015-11-11 00:00:00,2015.0,11.0,3825 Hessmer Ave,Metairie,70002.0
+-20.0,Natural Pet Care,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+300.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-24 00:00:00,2015.0,3.0,,,
+76.0,Allstar Animal Clinic,2015,Delivered,2015-10-21 00:00:00,2015.0,10.0,4701 S Carrollton Ave,New Orleans,70119.0
+50.0,Chalmette Pet Wellness Clinic & Hospital,2015,Delivered,2015-09-17 00:00:00,2015.0,9.0,705 E. Judge Perez Drive,Chalmette,70043.0
+200.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-24 00:00:00,2015.0,3.0,,,
+-69.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+-16.0,Chalmette Pet Wellness Clinic & Hospital,2015,Returned,2016-01-28 00:00:00,2016.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-53.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+50.0,Hickory Knoll Veterinary Hospital,2015,Delivered,2015-09-15 00:00:00,2015.0,9.0,1625 Hickory Ave,Harahan,70123.0
+300.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-25 00:00:00,2015.0,3.0,,,
+-25.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+50.0,Prytania Veterinary Hospital,2015,Delivered,2015-12-02 00:00:00,2015.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+50.0,"Dog Day Afternoon, LLC",2015,Delivered,2015-11-30 00:00:00,2015.0,11.0,831 Bordeaux St,New Orleans,70115.0
+-24.0,"Dog Day Afternoon, LLC",2015,Returned,2016-01-05 00:00:00,2016.0,1.0,831 Bordeaux St,New Orleans,70115.0
+300.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-24 00:00:00,2015.0,3.0,,,
+-5.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+100.0,Banfield 1175 (Veterans),2015,Delivered,2015-05-07 00:00:00,2015.0,5.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-21 00:00:00,2015.0,4.0,,,
+200.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-28 00:00:00,2015.0,3.0,,,
+-23.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+100.0,The SULA Foundation,2015,Delivered,2015-05-08 00:00:00,2015.0,5.0,,,
+400.0,Annual Rabies Vaccination Drive,2015,Delivered,2015-03-26 00:00:00,2015.0,3.0,,,
+-45.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+100.0,Banfield 1175 (Veterans),2015,Delivered,2015-05-07 00:00:00,2015.0,5.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-100.0,Annual Rabies Vaccination Drive,2015,Returned,2015-04-20 00:00:00,2015.0,4.0,,,
+100.0,Marrero Veterinary Clinic,2015,Delivered,2015-04-24 00:00:00,2015.0,4.0,4001 Lapalco Blvd,Harvey,70058.0
+200.0,Lake Animal Hospital,2015,Delivered,2015-05-13 00:00:00,2015.0,5.0,604 Veterans Memorial Blvd,Metairie,70005.0
+200.0,Southshore Animal Hospital,2015,Delivered,2015-05-16 00:00:00,2015.0,5.0,213 Live Oak St,Metairie,70005.0
+500.0,Maple Small Animal Clinic,2015,Delivered,2015-03-12 00:00:00,2015.0,3.0,7608 Maple St,New Orleans,70118.0
+-64.0,Marrero Veterinary Clinic,2015,Returned,2016-03-04 00:00:00,2016.0,3.0,4001 Lapalco Blvd,Harvey,70058.0
+500.0,Midcity Veterinary Hospital,2015,Delivered,2015-03-12 00:00:00,2015.0,3.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Carrollton Veterinary Hospital,2015,Delivered,2015-03-12 00:00:00,2015.0,3.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Lakeview Veterinary Hospital,2015,Delivered,2015-03-17 00:00:00,2015.0,3.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Magazine Street Animal Clinic,2015,Delivered,2015-03-18 00:00:00,2015.0,3.0,3458 Magazine St,New Orleans,70115.0
+200.0,Banfield 1034 (West Bank),2015,Delivered,2015-03-17 00:00:00,2015.0,3.0,1321 Manhattan Blvd,Harvey,70058.0
+300.0,Ark Animal Hospital,2015,Delivered,2015-03-19 00:00:00,2015.0,3.0,4025 Jefferson Hwy,Jefferson,70121.0
+200.0,VCA Causeway Animal Hospital,2015,Delivered,2015-03-24 00:00:00,2015.0,3.0,1315 N. Causeway Blvd,Metairie,70001.0
+100.0,Allstar Animal Clinic,2015,Delivered,2015-04-01 00:00:00,2015.0,4.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Canal Street Veterinary Hospital,2015,Delivered,2015-04-02 00:00:00,2015.0,4.0,4022 Canal St,New Orleans,70119.0
+500.0,Louisiana SPCA,2015,Delivered,2015-03-24 00:00:00,2015.0,3.0,,,
+500.0,Crescent City Veterinary Hospital,2015,Delivered,2015-04-01 00:00:00,2015.0,4.0,524 Jefferson Ave,New Orleans,70115.0
+100.0,Uptown Veterinary Hospital,2015,Delivered,2015-04-03 00:00:00,2015.0,4.0,731 Nashville Ave,New Orleans,70115.0
+200.0,Banfield 1023 (Elmwood),2015,Delivered,2015-04-08 00:00:00,2015.0,4.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+100.0,Laplace Veterinary Hospital,2015,Delivered,2015-04-17 00:00:00,2015.0,4.0,2921 New Highway 51 ,La Place,70068.0
+100.0,Desoto Park Veterinary Clinic,2015,Delivered,2015-05-07 00:00:00,2015.0,5.0,2659 Desoto St,New Orleans,70119.0
+500.0,NOLA Animal Clinic,2015,Delivered,2015-04-03 00:00:00,2015.0,4.0,4554 Downman Rd,New Orleans,70126.0
+1000.0,Southern Animal Foundation,2015,Delivered,2015-04-08 00:00:00,2015.0,4.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Louisiana SPCA,2015,Delivered,2015-04-10 00:00:00,2015.0,4.0,,,
+500.0,Pet Care Center,2015,Delivered,2015-04-13 00:00:00,2015.0,4.0,2212 David Drive,Metairie,70003.0
+500.0,Algiers Animal Clinic,2015,Delivered,2015-04-29 00:00:00,2015.0,4.0,3807 General DeGaulle,Algiers,70114.0
+1000.0,Metairie Small Animal Hospital,2015,Delivered,2015-05-04 00:00:00,2015.0,5.0,101 Metairie Rd,Metairie,70005.0
+500.0,Prytania Veterinary Hospital,2015,Delivered,2015-05-11 00:00:00,2015.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Louisiana SPCA,2015,Delivered,2015-05-19 00:00:00,2015.0,5.0,,,
+500.0,Maple Small Animal Clinic,2015,Delivered,2015-05-29 00:00:00,2015.0,5.0,7608 Maple St,New Orleans,70118.0
+500.0,Magazine Street Animal Clinic,2015,Delivered,2015-05-29 00:00:00,2015.0,5.0,3458 Magazine St,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2015,Delivered,2015-05-29 00:00:00,2015.0,5.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Lakeview Veterinary Hospital,2015,Delivered,2015-06-05 00:00:00,2015.0,6.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,NOLA Animal Clinic,2015,Delivered,2015-06-05 00:00:00,2015.0,6.0,4554 Downman Rd,New Orleans,70126.0
+200.0,Canal Street Veterinary Hospital,2015,Delivered,2015-06-05 00:00:00,2015.0,6.0,4022 Canal St,New Orleans,70119.0
+100.0,Allstar Animal Clinic,2015,Delivered,2015-06-12 00:00:00,2015.0,6.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Gretna Animal Hospital,2015,Delivered,2015-06-25 00:00:00,2015.0,6.0,714 Kepler St,Gretna,70053.0
+500.0,Midcity Veterinary Hospital,2015,Delivered,2015-06-20 00:00:00,2015.0,6.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Prytania Veterinary Hospital,2015,Delivered,2015-06-30 00:00:00,2015.0,6.0,201 Nashville Ave.,New Orleans,70115.0
+200.0,Uptown Veterinary Hospital,2015,Delivered,2015-06-30 00:00:00,2015.0,6.0,731 Nashville Ave,New Orleans,70115.0
+200.0,Banfield 1023 (Elmwood),2015,Delivered,2015-07-16 00:00:00,2015.0,7.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+100.0,The Cat Hospital of Metairie,2015,Delivered,2015-07-30 00:00:00,2015.0,7.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,Elysian Fields Animal Clinic,2015,Delivered,2015-07-09 00:00:00,2015.0,7.0,4237 Elysian Fields Ave,New Orleans,70122.0
+1000.0,Southern Animal Foundation,2015,Delivered,2015-07-15 00:00:00,2015.0,7.0,1823 Magazine Street,New Orleans,70130.0
+500.0,The Cat Practice,2015,Delivered,2015-07-15 00:00:00,2015.0,7.0,1809 Magazine St,New Orleans,70130.0
+-26.0,The Cat Practice,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,1809 Magazine St,New Orleans,70130.0
+-8.0,The Cat Practice,2015,Returned,2015-01-04 00:00:00,2015.0,1.0,1809 Magazine St,New Orleans,70130.0
+-10.0,The Cat Practice,2015,Returned,2016-01-06 00:00:00,2016.0,1.0,1809 Magazine St,New Orleans,70130.0
+-11.0,The Cat Practice,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,1809 Magazine St,New Orleans,70130.0
+-28.0,The Cat Practice,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,1809 Magazine St,New Orleans,70130.0
+200.0,Animal Medical & Surgical Hospital,2015,Delivered,2015-07-20 00:00:00,2015.0,7.0,3001 North Causeway Blvd,Metairie,70002.0
+-100.0,Animal Medical & Surgical Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,3001 North Causeway Blvd,Metairie,70002.0
+-100.0,Animal Medical & Surgical Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,3001 North Causeway Blvd,Metairie,70002.0
+200.0,VCA Causeway Animal Hospital,2015,Delivered,2015-07-22 00:00:00,2015.0,7.0,1315 N. Causeway Blvd,Metairie,70001.0
+-96.0,VCA Causeway Animal Hospital,2015,Returned,2015-01-05 00:00:00,2015.0,1.0,1315 N. Causeway Blvd,Metairie,70001.0
+100.0,Lakeview Veterinary Hospital,2015,Delivered,2015-08-11 00:00:00,2015.0,8.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Louisiana SPCA,2015,Delivered,2015-07-23 00:00:00,2015.0,7.0,,,
+400.0,Vetco @ Petco Mobile Clinic,2015,Delivered,2015-07-31 00:00:00,2015.0,7.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-11.0,Vetco @ Petco Mobile Clinic,2015,Returned,2015-01-11 00:00:00,2015.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Vetco @ Petco Mobile Clinic,2015,Returned,2015-01-11 00:00:00,2015.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+200.0,Canal Street Veterinary Hospital,2015,Delivered,2015-07-29 00:00:00,2015.0,7.0,4022 Canal St,New Orleans,70119.0
+400.0,Maple Small Animal Clinic,2015,Delivered,2015-07-30 00:00:00,2015.0,7.0,7608 Maple St,New Orleans,70118.0
+500.0,Louisiana SPCA,2015,Delivered,2015-08-03 00:00:00,2015.0,8.0,,,
+500.0,Magazine Street Animal Clinic,2015,Delivered,2015-08-06 00:00:00,2015.0,8.0,3458 Magazine St,New Orleans,70115.0
+500.0,Algiers Animal Clinic,2015,Delivered,2015-08-07 00:00:00,2015.0,8.0,3807 General DeGaulle,Algiers,70114.0
+200.0,Crescent City Veterinary Hospital,2015,Delivered,2015-08-10 00:00:00,2015.0,8.0,524 Jefferson Ave,New Orleans,70115.0
+100.0,Lakeview Veterinary Hospital,2015,Delivered,2015-08-11 00:00:00,2015.0,8.0,6245 Memphis Ave,New Orleans,70124.0
+100.0,Pet Care Center,2015,Delivered,2015-08-10 00:00:00,2015.0,8.0,2212 David Drive,Metairie,70003.0
+100.0,Dr. Mike's Animal House,2015,Delivered,2015-08-31 00:00:00,2015.0,8.0,1120 N. Rampart Street,New Orleans,
+-100.0,Dr. Mike's Animal House,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,1120 N. Rampart Street,New Orleans,
+300.0,Pet Care Center,2015,Delivered,2015-08-17 00:00:00,2015.0,8.0,2212 David Drive,Metairie,70003.0
+200.0,NOLA Animal Clinic,2015,Delivered,2015-08-21 00:00:00,2015.0,8.0,4554 Downman Rd,New Orleans,70126.0
+100.0,Midcity Veterinary Hospital,2015,Delivered,2015-09-17 00:00:00,2015.0,9.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Carrollton Veterinary Hospital,2015,Delivered,2015-09-21 00:00:00,2015.0,9.0,3501 S. Carrollton Ave,New Orleans,70118.0
+300.0,Lakeview Veterinary Hospital,2015,Delivered,2015-10-02 00:00:00,2015.0,10.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Prytania Veterinary Hospital,2015,Delivered,2015-09-25 00:00:00,2015.0,9.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Maple Small Animal Clinic,2015,Delivered,2015-09-29 00:00:00,2015.0,9.0,7608 Maple St,New Orleans,70118.0
+-100.0,Maple Small Animal Clinic,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,7608 Maple St,New Orleans,70118.0
+500.0,Crescent City Veterinary Hospital,2015,Delivered,2015-09-30 00:00:00,2015.0,9.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Metairie Small Animal Hospital,2015,Delivered,2015-09-30 00:00:00,2015.0,9.0,101 Metairie Rd,Metairie,70005.0
+-35.0,Metairie Small Animal Hospital,2015,Returned,2015-01-13 00:00:00,2015.0,1.0,101 Metairie Rd,Metairie,70005.0
+-76.0,Metairie Small Animal Hospital,2015,Returned,2015-01-13 00:00:00,2015.0,1.0,101 Metairie Rd,Metairie,70005.0
+-100.0,Metairie Small Animal Hospital,2015,Returned,2015-01-13 00:00:00,2015.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Louisiana SPCA,2015,Delivered,1900-04-14 00:00:00,1900.0,4.0,,,
+200.0,Canal Street Veterinary Hospital,2015,Delivered,2015-10-09 00:00:00,2015.0,10.0,4022 Canal St,New Orleans,70119.0
+200.0,Midcity Veterinary Hospital,2015,Delivered,2015-10-16 00:00:00,2015.0,10.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,NOLA Animal Clinic,2015,Delivered,2015-10-21 00:00:00,2015.0,10.0,4554 Downman Rd,New Orleans,70126.0
+200.0,Louisiana SPCA,2015,Delivered,2015-10-15 00:00:00,2015.0,10.0,,,
+200.0,Louisiana SPCA,2015,Delivered,2015-10-15 00:00:00,2015.0,10.0,,,
+-62.0,Louisiana SPCA,2015,Returned,2016-01-11 00:00:00,2016.0,1.0,,,
+-16.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+100.0,NOLA Animal Clinic,2015,Delivered,2015-10-21 00:00:00,2015.0,10.0,4554 Downman Rd,New Orleans,70126.0
+100.0,The French Quarter Vet,2015,Delivered,2015-10-21 00:00:00,2015.0,10.0,3041 N Rampart St,New Orleans,70116.0
+400.0,Magazine Street Animal Clinic,2015,Delivered,2015-10-28 00:00:00,2015.0,10.0,3458 Magazine St,New Orleans,70115.0
+-100.0,Magazine Street Animal Clinic,2015,Returned,2015-12-21 00:00:00,2015.0,12.0,3458 Magazine St,New Orleans,70115.0
+200.0,Pet Care Center,2015,Delivered,2015-11-02 00:00:00,2015.0,11.0,2212 David Drive,Metairie,70003.0
+-91.0,Pet Care Center,2015,Returned,2016-02-01 00:00:00,2016.0,2.0,2212 David Drive,Metairie,70003.0
+200.0,Southern Animal Foundation,2015,Delivered,2015-11-09 00:00:00,2015.0,11.0,1823 Magazine Street,New Orleans,70130.0
+100.0,Banfield 1023 (Elmwood),2015,Delivered,2015-11-13 00:00:00,2015.0,11.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+300.0,Louisiana SPCA,2015,Delivered,2015-11-18 00:00:00,2015.0,11.0,,,
+100.0,Midcity Veterinary Hospital,2015,Delivered,2015-11-23 00:00:00,2015.0,11.0,3821 Orleans Ave,New Orleans,70119.0
+-20.0,Midcity Veterinary Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,3821 Orleans Ave,New Orleans,70119.0
+-11.0,Midcity Veterinary Hospital,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,3821 Orleans Ave,New Orleans,70119.0
+200.0,NOLA Animal Clinic,2015,Delivered,2015-11-27 00:00:00,2015.0,11.0,4554 Downman Rd,New Orleans,70126.0
+100.0,Prytania Veterinary Hospital,2015,Delivered,2015-12-02 00:00:00,2015.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+200.0,Southern Animal Foundation,2015,Delivered,2015-12-03 00:00:00,2015.0,12.0,1823 Magazine Street,New Orleans,70130.0
+50.0,Lakeview Veterinary Hospital,2015,Delivered,2015-12-07 00:00:00,2015.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+50.0,The French Quarter Vet,2015,Delivered,2015-12-15 00:00:00,2015.0,12.0,3041 N Rampart St,New Orleans,70116.0
+2500.0,Louisiana SPCA,2015,Delivered,2015-01-15 00:00:00,2015.0,1.0,,,
+-67.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-200.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-200.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-500.0,Louisiana SPCA,2015,Returned,2016-01-05 00:00:00,2016.0,1.0,,,
+-6.0,Pet Care Center,2015,Returned,2016-04-06 00:00:00,2016.0,4.0,2212 David Drive,Metairie,70003.0
+-34.0,Pet Care Center,2015,Returned,2016-02-01 00:00:00,2016.0,2.0,2212 David Drive,Metairie,70003.0
+-28.0,Vetco @ Petco Mobile Clinic,2015,Returned,2015-01-11 00:00:00,2015.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Pet Care Center,2015,Returned,2016-03-29 00:00:00,2016.0,3.0,2212 David Drive,Metairie,70003.0
+1000.0,Southern Animal Foundation,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Prytania Veterinary Hospital,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,NOLA Animal Clinic,2016,Delivered,2015-12-22 00:00:00,2015.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Midcity Veterinary Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Canal Street Veterinary Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,4022 Canal St,New Orleans,70119.0
+500.0,Crescent City Veterinary Hospital,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Carrollton Veterinary Hospital,2016,Delivered,2015-12-24 00:00:00,2015.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Doskey Mobile Veterinary Care,2016,Delivered,2015-12-30 00:00:00,2015.0,12.0,,,
+500.0,Elysian Fields Animal Clinic,2016,Delivered,2015-12-22 00:00:00,2015.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Magazine Street Animal Clinic,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,Maple Small Animal Clinic,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,7608 Maple St,New Orleans,70118.0
+1000.0,Metairie Small Animal Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,101 Metairie Rd,Metairie,70005.0
+-11.0,Metairie Small Animal Hospital,2016,Returned,2017-01-23 00:00:00,2017.0,1.0,101 Metairie Rd,Metairie,70005.0
+-13.0,Metairie Small Animal Hospital,2016,Returned,2017-01-23 00:00:00,2017.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Lakeview Veterinary Hospital,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,The Cat Practice,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,1809 Magazine St,New Orleans,70130.0
+500.0,VCA Causeway Animal Hospital,2016,Delivered,2015-12-22 00:00:00,2015.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+600.0,Pet Care Center,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,2212 David Drive,Metairie,70003.0
+300.0,Desoto Park Veterinary Clinic,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,2659 Desoto St,New Orleans,70119.0
+100.0,Convenient Home Veterinary Care,2016,Delivered,2016-01-12 00:00:00,2016.0,1.0,P.O. Box 1242,Harvey,70059.0
+300.0,Lake Animal Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+200.0,Animal Medical & Surgical Hospital,2016,Delivered,2015-12-22 00:00:00,2015.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-27.0,Animal Medical & Surgical Hospital,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+200.0,Banfield 1175 (Veterans),2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+200.0,"Dog Day Afternoon, LLC",2016,Delivered,2015-12-29 00:00:00,2015.0,12.0,831 Bordeaux St,New Orleans,70115.0
+100.0,Allstar Animal Clinic,2016,Delivered,2016-02-05 00:00:00,2016.0,2.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Terrytown Veterinary Clinic,2016,Delivered,2015-12-29 00:00:00,2015.0,12.0,867 Terry Parkway,Terrytown,70056.0
+100.0,Animal Care Center,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,313 David Dr.,Metairie,70003.0
+-83.0,Animal Care Center,2016,Returned,2016-12-27 00:00:00,2016.0,12.0,313 David Dr.,Metairie,70003.0
+100.0,Unknown,2016,Delivered,2016-02-17 00:00:00,2016.0,2.0,,,
+-66.0,Unknown,2016,Returned,2017-02-20 00:00:00,2017.0,2.0,,,
+100.0,Banfield 1034 (West Bank),2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Ark Animal Hospital,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+100.0,Banfield 1023 (Elmwood),2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+100.0,Hickory Knoll Veterinary Hospital,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,1625 Hickory Ave,Harahan,70123.0
+100.0,Gretna Animal Hospital,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,714 Kepler St,Gretna,70053.0
+100.0,Healthy Paws,2016,Delivered,2016-01-12 00:00:00,2016.0,1.0,P.O. Box 6545,Metairie,70009.0
+100.0,Dr. Mike's Animal House,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,1120 N. Rampart Street,New Orleans,
+-41.0,Dr. Mike's Animal House,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,1120 N. Rampart Street,New Orleans,
+100.0,Jester Veterinarian Clinic,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,4 Westbank Expressway,,
+100.0,Natural Pet Care,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+100.0,VCA Airline Animal Hospital,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,5105 Airline Drive,Metairie,70001.0
+100.0,The Cat Hospital of Metairie,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+100.0,Terry Parkway Animal Clinic,2016,Delivered,2015-12-29 00:00:00,2015.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-53.0,Terry Parkway Animal Clinic,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,636 Terry Parkway,Terrytown,70056.0
+50.0,At Home Veterinary Care,2016,Delivered,2015-12-30 00:00:00,2015.0,12.0,PO Box 231145,Harahan,70123.0
+50.0,Chateau Veterinary Hospital,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,704 W. Esplanade Ave ,Kenner,70065.0
+50.0,Avian & Exotic Animal Hospital of Louisiana,2016,Delivered,2016-01-20 00:00:00,2016.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+-41.0,Avian & Exotic Animal Hospital of Louisiana,2016,Returned,2017-01-15 00:00:00,2017.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+50.0,Home Veterinary Services,2016,Delivered,2015-12-29 00:00:00,2015.0,12.0,"PO Box 11120, Jefferson, 10181-1120",,
+-23.0,Home Veterinary Services,2016,Returned,2017-01-22 00:00:00,2017.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+100.0,Acadiana West Animal Clinic,2016,Delivered,2016-01-25 00:00:00,2016.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-81.0,Acadiana West Animal Clinic,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+100.0,Allstar Animal Clinic,2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Fur De Lis Vet Services,2016,Delivered,2016-01-06 00:00:00,2016.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+500.0,The French Quarter Vet,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,3041 N Rampart St,New Orleans,70116.0
+200.0,The SULA Foundation,2016,Delivered,2015-12-29 00:00:00,2015.0,12.0,,,
+-81.0,The SULA Foundation,2016,Returned,2017-02-22 00:00:00,2017.0,2.0,,,
+100.0,Uptown Veterinary Hospital,2016,Delivered,2015-12-21 00:00:00,2015.0,12.0,731 Nashville Ave,New Orleans,70115.0
+100.0,Southshore Animal Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,213 Live Oak St,Metairie,70005.0
+100.0,Clearview Veterinary Hospital,2016,Delivered,2015-12-23 00:00:00,2015.0,12.0,4713 Trenton Street,Metairie,70006.0
+-54.0,Clearview Veterinary Hospital,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,4713 Trenton Street,Metairie,70006.0
+500.0,Vetco @ Petco Mobile Clinic,2016,Delivered,2015-12-26 00:00:00,2015.0,12.0,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,"Manhattan Animal Clinic, LLC",2016,Delivered,2015-12-28 00:00:00,2015.0,12.0,,,
+100.0,Uptown Veterinary Hospital,2016,Delivered,2016-05-01 00:00:00,2016.0,5.0,731 Nashville Ave,New Orleans,70115.0
+50.0,Chalmette Pet Wellness Clinic & Hospital,2016,Delivered,2016-01-28 00:00:00,2016.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-30.0,Chalmette Pet Wellness Clinic & Hospital,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+50.0,House Calls!,2016,Delivered,2016-02-02 00:00:00,2016.0,2.0,,,
+-34.0,House Calls!,2016,Returned,2017-01-24 00:00:00,2017.0,1.0,,,
+200.0,Banfield 1023 (Elmwood),2016,Delivered,2016-02-02 00:00:00,2016.0,2.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+500.0,Louisiana SPCA,2016,Delivered,2015-12-31 00:00:00,2015.0,12.0,,,
+500.0,Louisiana SPCA,2016,Delivered,2015-12-31 00:00:00,2015.0,12.0,,,
+-35.0,Louisiana SPCA,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,,,
+500.0,Louisiana SPCA,2016,Delivered,2015-12-31 00:00:00,2015.0,12.0,,,
+500.0,Louisiana SPCA,2016,Delivered,2016-01-05 00:00:00,2016.0,1.0,,,
+-17.0,Louisiana SPCA,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,,,
+-25.0,Louisiana SPCA,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,,,
+-50.0,Louisiana SPCA,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,,,
+-100.0,Louisiana SPCA,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,,,
+500.0,Louisiana SPCA,2016,Delivered,2016-02-12 00:00:00,2016.0,2.0,,,
+50.0,Benson Veterinary Care LLC,2016,Delivered,2016-03-08 00:00:00,2016.0,3.0,328 Octavia St.,New Orleans,70115.0
+25.0,Gretna Animal Hospital,2016,Delivered,2016-10-31 00:00:00,2016.0,10.0,714 Kepler St,Gretna,70053.0
+25.0,Vet-a-GoGo,2016,Delivered,2016-03-01 00:00:00,2016.0,3.0,3517 Chartres St,New Orleans,70117.0
+100.0,Marrero Veterinary Clinic,2016,Delivered,2016-03-02 00:00:00,2016.0,3.0,4001 Lapalco Blvd,Harvey,70058.0
+100.0,"Dog Day Afternoon, LLC",2016,Delivered,2016-03-08 00:00:00,2016.0,3.0,831 Bordeaux St,New Orleans,70115.0
+200.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-17 00:00:00,2016.0,3.0,,,
+-100.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+100.0,Gretna Animal Hospital,2016,Delivered,2016-05-31 00:00:00,2016.0,5.0,714 Kepler St,Gretna,70053.0
+-12.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+500.0,Prytania Veterinary Hospital,2016,Delivered,2016-03-04 00:00:00,2016.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Lakeview Veterinary Hospital,2016,Delivered,2016-03-04 00:00:00,2016.0,3.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Magazine Street Animal Clinic,2016,Delivered,2016-03-07 00:00:00,2016.0,3.0,3458 Magazine St,New Orleans,70115.0
+500.0,Maple Small Animal Clinic,2016,Delivered,2016-03-09 00:00:00,2016.0,3.0,7608 Maple St,New Orleans,70118.0
+300.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-14 00:00:00,2016.0,3.0,,,
+63.0,"Dog Day Afternoon, LLC",2016,Delivered,2016-11-14 00:00:00,2016.0,11.0,831 Bordeaux St,New Orleans,70115.0
+-63.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+-20.0,"Dog Day Afternoon, LLC",2016,Returned,2017-06-15 00:00:00,2017.0,6.0,831 Bordeaux St,New Orleans,70115.0
+200.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-17 00:00:00,2016.0,3.0,,,
+-39.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+39.0,VCA Airline Animal Hospital,2016,Delivered,2016-11-02 00:00:00,2016.0,11.0,5105 Airline Drive,Metairie,70001.0
+-100.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+100.0,The Cat Hospital of Metairie,2016,Delivered,2016-05-03 00:00:00,2016.0,5.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+300.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-18 00:00:00,2016.0,3.0,,,
+-56.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+50.0,Natural Pet Care,2016,Delivered,2016-09-09 00:00:00,2016.0,9.0,3825 Hessmer Ave,Metairie,70002.0
+-36.0,Natural Pet Care,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-2.0,Natural Pet Care,2016,Returned,2017-01-19 00:00:00,2017.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+200.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-16 00:00:00,2016.0,3.0,,,
+-67.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+66.0,Hickory Knoll Veterinary Hospital,2016,Delivered,2016-09-22 00:00:00,2016.0,9.0,1625 Hickory Ave,Harahan,70123.0
+-37.0,Hickory Knoll Veterinary Hospital,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,1625 Hickory Ave,Harahan,70123.0
+300.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-15 00:00:00,2016.0,3.0,,,
+27.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-23 00:00:00,2016.0,3.0,,,
+26.0,Healthy Paws,2016,Delivered,2016-11-07 00:00:00,2016.0,11.0,P.O. Box 6545,Metairie,70009.0
+100.0,Allstar Animal Clinic,2016,Delivered,2016-04-21 00:00:00,2016.0,4.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-23 00:00:00,2016.0,3.0,,,
+300.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-18 00:00:00,2016.0,3.0,,,
+-13.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+-100.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+100.0,Vet-a-GoGo,2016,Delivered,2016-05-31 00:00:00,2016.0,5.0,3517 Chartres St,New Orleans,70117.0
+-26.0,Vet-a-GoGo,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,3517 Chartres St,New Orleans,70117.0
+300.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-14 00:00:00,2016.0,3.0,,,
+37.0,Allstar Animal Clinic,2016,Delivered,2016-11-14 00:00:00,2016.0,11.0,4701 S Carrollton Ave,New Orleans,70119.0
+-37.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+100.0,Allstar Animal Clinic,2016,Delivered,2016-04-21 00:00:00,2016.0,4.0,4701 S Carrollton Ave,New Orleans,70119.0
+-100.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+400.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-16 00:00:00,2016.0,3.0,,,
+-82.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+200.0,Annual Rabies Vaccination Drive,2016,Delivered,2016-03-16 00:00:00,2016.0,3.0,,,
+-54.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+-100.0,Annual Rabies Vaccination Drive,2016,Returned,2016-03-23 00:00:00,2016.0,3.0,,,
+100.0,Lake Animal Hospital,2016,Delivered,2016-06-08 00:00:00,2016.0,6.0,604 Veterans Memorial Blvd,Metairie,70005.0
+500.0,The French Quarter Vet,2016,Delivered,2016-03-18 00:00:00,2016.0,3.0,3041 N Rampart St,New Orleans,70116.0
+500.0,NOLA Animal Clinic,2016,Delivered,2016-03-19 00:00:00,2016.0,3.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Louisiana SPCA,2016,Delivered,2016-03-21 00:00:00,2016.0,3.0,,,
+500.0,Crescent City Veterinary Hospital,2016,Delivered,2016-03-25 00:00:00,2016.0,3.0,524 Jefferson Ave,New Orleans,70115.0
+200.0,Banfield 1034 (West Bank),2016,Delivered,2016-04-01 00:00:00,2016.0,4.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Southshore Animal Hospital,2016,Delivered,2016-04-01 00:00:00,2016.0,4.0,213 Live Oak St,Metairie,70005.0
+-34.0,Southshore Animal Hospital,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,213 Live Oak St,Metairie,70005.0
+100.0,Ark Animal Hospital,2016,Delivered,2016-06-27 00:00:00,2016.0,6.0,4025 Jefferson Hwy,Jefferson,70121.0
+500.0,Louisiana SPCA,2016,Delivered,2016-04-13 00:00:00,2016.0,4.0,,,
+1000.0,Southern Animal Foundation,2016,Delivered,2016-04-15 00:00:00,2016.0,4.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Pet Care Center,2016,Delivered,2016-04-18 00:00:00,2016.0,4.0,2212 David Drive,Metairie,70003.0
+500.0,Algiers Animal Clinic,2016,Delivered,2016-04-07 00:00:00,2016.0,4.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Midcity Veterinary Hospital,2016,Delivered,2016-04-08 00:00:00,2016.0,4.0,3821 Orleans Ave,New Orleans,70119.0
+200.0,Banfield 1175 (Veterans),2016,Delivered,2016-04-30 00:00:00,2016.0,4.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+300.0,Banfield 1023 (Elmwood),2016,Delivered,2016-06-02 00:00:00,2016.0,6.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+1000.0,Metairie Small Animal Hospital,2016,Delivered,2016-05-04 00:00:00,2016.0,5.0,101 Metairie Rd,Metairie,70005.0
+500.0,Prytania Veterinary Hospital,2016,Delivered,2016-05-04 00:00:00,2016.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2016,Delivered,2016-05-13 00:00:00,2016.0,5.0,3458 Magazine St,New Orleans,70115.0
+500.0,Lakeview Veterinary Hospital,2016,Delivered,2016-05-27 00:00:00,2016.0,5.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,NOLA Animal Clinic,2016,Delivered,2016-05-25 00:00:00,2016.0,5.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Canal Street Veterinary Hospital,2016,Delivered,2016-05-28 00:00:00,2016.0,5.0,4022 Canal St,New Orleans,70119.0
+500.0,Maple Small Animal Clinic,2016,Delivered,2016-06-02 00:00:00,2016.0,6.0,7608 Maple St,New Orleans,70118.0
+500.0,Crescent City Veterinary Hospital,2016,Delivered,2016-06-21 00:00:00,2016.0,6.0,524 Jefferson Ave,New Orleans,70115.0
+200.0,Banfield 1034 (West Bank),2016,Delivered,2016-06-06 00:00:00,2016.0,6.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Uptown Veterinary Hospital,2016,Delivered,2016-06-15 00:00:00,2016.0,6.0,731 Nashville Ave,New Orleans,70115.0
+100.0,Midcity Veterinary Hospital,2016,Delivered,2016-06-21 00:00:00,2016.0,6.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Louisiana SPCA,2016,Delivered,2016-06-20 00:00:00,2016.0,6.0,,,
+300.0,The Cat Practice,2016,Delivered,2016-06-22 00:00:00,2016.0,6.0,1809 Magazine St,New Orleans,70130.0
+300.0,Midcity Veterinary Hospital,2016,Delivered,2016-06-21 00:00:00,2016.0,6.0,3821 Orleans Ave,New Orleans,70119.0
+300.0,Elysian Fields Animal Clinic,2016,Delivered,2016-06-24 00:00:00,2016.0,6.0,4237 Elysian Fields Ave,New Orleans,70122.0
+100.0,Southshore Animal Hospital,2016,Delivered,2016-06-28 00:00:00,2016.0,6.0,213 Live Oak St,Metairie,70005.0
+10.0,Louisiana SPCA,2016,Delivered,2016-06-23 00:00:00,2016.0,6.0,,,
+100.0,Allstar Animal Clinic,2016,Delivered,2016-07-08 00:00:00,2016.0,7.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Desoto Park Veterinary Clinic,2016,Delivered,2016-07-21 00:00:00,2016.0,7.0,2659 Desoto St,New Orleans,70119.0
+200.0,VCA Causeway Animal Hospital,2016,Delivered,2016-08-17 00:00:00,2016.0,8.0,1315 N. Causeway Blvd,Metairie,70001.0
+-116.0,VCA Causeway Animal Hospital,2016,Returned,Unknown,Unknown,Unknown,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,Algiers Animal Clinic,2016,Delivered,2016-06-29 00:00:00,2016.0,6.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Prytania Veterinary Hospital,2016,Delivered,2016-06-30 00:00:00,2016.0,6.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Louisiana SPCA,2016,Delivered,2016-07-05 00:00:00,2016.0,7.0,,,
+500.0,Carrollton Veterinary Hospital,2016,Delivered,2016-07-12 00:00:00,2016.0,7.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Magazine Street Animal Clinic,2016,Delivered,2016-07-15 00:00:00,2016.0,7.0,3458 Magazine St,New Orleans,70115.0
+1000.0,Southern Animal Foundation,2016,Delivered,2016-07-25 00:00:00,2016.0,7.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Lakeview Veterinary Hospital,2016,Delivered,2016-07-28 00:00:00,2016.0,7.0,6245 Memphis Ave,New Orleans,70124.0
+200.0,The Cat Practice,2016,Delivered,2016-07-28 00:00:00,2016.0,7.0,1809 Magazine St,New Orleans,70130.0
+-33.0,The Cat Practice,2016,Returned,2017-01-15 00:00:00,2017.0,1.0,1809 Magazine St,New Orleans,70130.0
+-58.0,The Cat Practice,2016,Returned,2017-01-15 00:00:00,2017.0,1.0,1809 Magazine St,New Orleans,70130.0
+100.0,Louisiana SPCA,2016,Delivered,2016-07-29 00:00:00,2016.0,7.0,,,
+200.0,VCA Causeway Animal Hospital,2016,Delivered,2016-08-17 00:00:00,2016.0,8.0,1315 N. Causeway Blvd,Metairie,70001.0
+-200.0,VCA Causeway Animal Hospital,2016,Returned,Unknown,Unknown,Unknown,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,Maple Small Animal Clinic,2016,Delivered,2016-08-02 00:00:00,2016.0,8.0,7608 Maple St,New Orleans,70118.0
+500.0,Crescent City Veterinary Hospital,2016,Delivered,2016-08-04 00:00:00,2016.0,8.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Pet Care Center,2016,Delivered,2016-08-17 00:00:00,2016.0,8.0,2212 David Drive,Metairie,70003.0
+-98.0,Pet Care Center,2016,Returned,2016-12-29 00:00:00,2016.0,12.0,2212 David Drive,Metairie,70003.0
+-87.0,Pet Care Center,2016,Returned,2016-12-29 00:00:00,2016.0,12.0,2212 David Drive,Metairie,70003.0
+100.0,Allstar Animal Clinic,2016,Delivered,2016-08-19 00:00:00,2016.0,8.0,4701 S Carrollton Ave,New Orleans,70119.0
+400.0,Louisiana SPCA,2016,Delivered,2016-08-26 00:00:00,2016.0,8.0,,,
+500.0,Midcity Veterinary Hospital,2016,Delivered,2016-08-25 00:00:00,2016.0,8.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Louisiana SPCA,2016,Delivered,2016-08-21 00:00:00,2016.0,8.0,,,
+300.0,Vetco @ Petco Mobile Clinic,2016,Delivered,2016-09-02 00:00:00,2016.0,9.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-77.0,Vetco @ Petco Mobile Clinic,2016,Returned,2017-02-23 00:00:00,2017.0,2.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-55.0,Vetco @ Petco Mobile Clinic,2016,Returned,2017-02-23 00:00:00,2017.0,2.0,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,Fur De Lis Vet Services,2016,Delivered,2016-09-20 00:00:00,2016.0,9.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+-68.0,Fur De Lis Vet Services,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+100.0,Uptown Veterinary Hospital,2016,Delivered,2016-10-20 00:00:00,2016.0,10.0,731 Nashville Ave,New Orleans,70115.0
+500.0,NOLA Animal Clinic,2016,Delivered,2016-09-07 00:00:00,2016.0,9.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Magazine Street Animal Clinic,2016,Delivered,2016-09-09 00:00:00,2016.0,9.0,3458 Magazine St,New Orleans,70115.0
+500.0,Metairie Small Animal Hospital,2016,Delivered,2016-09-15 00:00:00,2016.0,9.0,101 Metairie Rd,Metairie,70005.0
+-69.0,Metairie Small Animal Hospital,2016,Returned,2017-01-23 00:00:00,2017.0,1.0,101 Metairie Rd,Metairie,70005.0
+-41.0,Metairie Small Animal Hospital,2016,Returned,2017-01-23 00:00:00,2017.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Prytania Veterinary Hospital,2016,Delivered,2016-09-20 00:00:00,2016.0,9.0,201 Nashville Ave.,New Orleans,70115.0
+200.0,Banfield 1023 (Elmwood),2016,Delivered,2016-10-05 00:00:00,2016.0,10.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+-99.0,Banfield 1023 (Elmwood),2016,Returned,2017-03-27 00:00:00,2017.0,3.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+300.0,Banfield - Remote,2016,Delivered,2016-10-07 00:00:00,2016.0,10.0,,,
+25.0,Allstar Animal Clinic,2016,Delivered,2016-12-12 00:00:00,2016.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+-100.0,Banfield - Remote,2016,Returned,2016-11-01 00:00:00,2016.0,11.0,,,
+-3.0,Banfield - Remote,2016,Returned,2017-02-01 00:00:00,2017.0,2.0,,,
+25.0,Gretna Animal Hospital,2016,Delivered,2016-12-12 00:00:00,2016.0,12.0,714 Kepler St,Gretna,70053.0
+50.0,Canal Street Veterinary Hospital,2016,Delivered,2016-12-22 00:00:00,2016.0,12.0,4022 Canal St,New Orleans,70119.0
+-78.0,Banfield - Remote,2016,Returned,2016-11-01 00:00:00,2016.0,11.0,,,
+65.0,Lake Animal Hospital,2016,Delivered,2016-11-22 00:00:00,2016.0,11.0,604 Veterans Memorial Blvd,Metairie,70005.0
+500.0,Maple Small Animal Clinic,2016,Delivered,2016-10-07 00:00:00,2016.0,10.0,7608 Maple St,New Orleans,70118.0
+-99.0,VCA Causeway Animal Hospital,2016,Returned,2017-01-04 00:00:00,2017.0,1.0,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,Louisiana SPCA,2016,Delivered,2016-10-20 00:00:00,2016.0,10.0,,,
+100.0,Banfield 1034 (West Bank),2016,Delivered,2016-10-27 00:00:00,2016.0,10.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Elysian Fields Animal Clinic,2016,Delivered,2016-10-21 00:00:00,2016.0,10.0,4237 Elysian Fields Ave,New Orleans,70122.0
+400.0,Crescent City Veterinary Hospital,2016,Delivered,2016-11-01 00:00:00,2016.0,11.0,524 Jefferson Ave,New Orleans,70115.0
+300.0,NOLA Animal Clinic,2016,Delivered,2016-11-14 00:00:00,2016.0,11.0,4554 Downman Rd,New Orleans,70126.0
+200.0,Lakeview Veterinary Hospital,2016,Delivered,2016-11-18 00:00:00,2016.0,11.0,6245 Memphis Ave,New Orleans,70124.0
+300.0,Magazine Street Animal Clinic,2016,Delivered,2016-11-18 00:00:00,2016.0,11.0,3458 Magazine St,New Orleans,70115.0
+200.0,Algiers Animal Clinic,2016,Delivered,2016-11-21 00:00:00,2016.0,11.0,3807 General DeGaulle,Algiers,70114.0
+-79.0,Algiers Animal Clinic,2016,Returned,2017-01-19 00:00:00,2017.0,1.0,3807 General DeGaulle,Algiers,70114.0
+200.0,Louisiana SPCA,2016,Delivered,2016-11-28 00:00:00,2016.0,11.0,,,
+-13.0,Louisiana SPCA,2016,Returned,2016-12-30 00:00:00,2016.0,12.0,,,
+100.0,Midcity Veterinary Hospital,2016,Delivered,2016-12-01 00:00:00,2016.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+200.0,Southern Animal Foundation,2016,Delivered,2016-12-12 00:00:00,2016.0,12.0,1823 Magazine Street,New Orleans,70130.0
+-131.0,Southern Animal Foundation,2016,Returned,2017-02-22 00:00:00,2017.0,2.0,1823 Magazine Street,New Orleans,70130.0
+200.0,Prytania Veterinary Hospital,2016,Delivered,2016-12-12 00:00:00,2016.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+-34.0,Prytania Veterinary Hospital,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,201 Nashville Ave.,New Orleans,70115.0
+-99.0,Prytania Veterinary Hospital,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,201 Nashville Ave.,New Orleans,70115.0
+100.0,Louisiana SPCA,2016,Delivered,2016-12-16 00:00:00,2016.0,12.0,,,
+-38.0,Louisiana SPCA,2016,Returned,2017-01-05 00:00:00,2017.0,1.0,,,
+50.0,Southshore Animal Hospital,2016,Delivered,2016-12-20 00:00:00,2016.0,12.0,213 Live Oak St,Metairie,70005.0
+-50.0,Southshore Animal Hospital,2016,Returned,2016-12-28 00:00:00,2016.0,12.0,213 Live Oak St,Metairie,70005.0
+50.0,Ark Animal Hospital,2016,Delivered,2016-12-20 00:00:00,2016.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+-39.0,Ark Animal Hospital,2016,Returned,2016-12-02 00:00:00,2016.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+100.0,Louisiana SPCA,2016,Delivered,2016-12-21 00:00:00,2016.0,12.0,,,
+-100.0,Louisiana SPCA,2016,Returned,2017-01-03 00:00:00,2017.0,1.0,,,
+500.0,Louisiana SPCA,2016,Delivered,2015-12-31 00:00:00,2015.0,12.0,,,
+50.0,Benson Veterinary Care LLC,2016,VOID,,,,328 Octavia St.,New Orleans,70115.0
+-1.0,Terry Parkway Animal Clinic,2016,Returned,2017-12-20 00:00:00,2017.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-4.0,Terry Parkway Animal Clinic,2016,Returned,2017-12-20 00:00:00,2017.0,12.0,636 Terry Parkway,Terrytown,70056.0
+50.0,Acadiana West Animal Clinic,2017,Delivered,2016-12-29 00:00:00,2016.0,12.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-24.0,Acadiana West Animal Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+500.0,Algiers Animal Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Algiers Animal Clinic,2017,Delivered,2017-04-14 00:00:00,2017.0,4.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Algiers Animal Clinic,2017,Delivered,2017-07-25 00:00:00,2017.0,7.0,3807 General DeGaulle,Algiers,70114.0
+25.0,All Cats Mobile Clinic,2017,Delivered,2017-01-24 00:00:00,2017.0,1.0,,,
+200.0,Allstar Animal Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+71.0,Allstar Animal Clinic,2017,Delivered,2017-11-10 00:00:00,2017.0,11.0,4701 S Carrollton Ave,New Orleans,70119.0
+-19.0,Allstar Animal Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Allstar Animal Clinic,2017,Delivered,2017-04-14 00:00:00,2017.0,4.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Allstar Animal Clinic,2017,Delivered,2017-07-19 00:00:00,2017.0,7.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Animal Care Center,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,313 David Dr.,Metairie,70003.0
+-90.0,Animal Care Center,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,313 David Dr.,Metairie,70003.0
+200.0,Animal Medical & Surgical Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-39.0,Animal Medical & Surgical Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+100.0,Ark Animal Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+100.0,Ark Animal Hospital,2017,Delivered,2017-06-19 00:00:00,2017.0,6.0,4025 Jefferson Hwy,Jefferson,70121.0
+-8.0,Ark Animal Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+50.0,At Home Veterinary Care,2017,Delivered,2017-01-09 00:00:00,2017.0,1.0,PO Box 231145,Harahan,70123.0
+100.0,Avenue Animal Wellness and Emergency,2017,Delivered,2017-05-31 00:00:00,2017.0,5.0,1401 St Charles Ave,New Orleans,70130.0
+-61.0,Avenue Animal Wellness and Emergency,2017,Returned,2018-01-03 00:00:00,2018.0,1.0,1401 St Charles Ave,New Orleans,70130.0
+50.0,Avian & Exotic Animal Hospital of Louisiana,2017,Delivered,2017-01-19 00:00:00,2017.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+200.0,Banfield 1023 (Elmwood),2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+300.0,Banfield 1023 (Elmwood),2017,Delivered,2017-03-27 00:00:00,2017.0,3.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+200.0,Banfield 1023 (Elmwood),2017,Delivered,2017-09-18 00:00:00,2017.0,9.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+200.0,Banfield 1034 (West Bank),2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Banfield 1034 (West Bank),2017,Delivered,2017-04-17 00:00:00,2017.0,4.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Banfield 1034 (West Bank),2017,Delivered,1902-10-08 00:00:00,1902.0,10.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Banfield 1034 (West Bank),2017,Delivered,2017-08-18 00:00:00,2017.0,8.0,1321 Manhattan Blvd,Harvey,70058.0
+-61.0,Banfield 1034 (West Bank),2017,Returned,2018-01-03 00:00:00,2018.0,1.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Banfield 1175 (Veterans),2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+100.0,Banfield 1175 (Veterans),2017,Delivered,2017-07-11 00:00:00,2017.0,7.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+100.0,Banfield 1175 (Veterans),2017,Delivered,2017-09-18 00:00:00,2017.0,9.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+100.0,Banfield 1175 (Veterans),2017,Delivered,2017-10-20 00:00:00,2017.0,10.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-69.0,Banfield 1175 (Veterans),2017,Returned,2017-12-28 00:00:00,2017.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+101.0,Banfield 1034 (West Bank),2017,Delivered,2017-10-27 00:00:00,2017.0,10.0,1321 Manhattan Blvd,Harvey,70058.0
+-64.0,Banfield 1034 (West Bank),2017,Returned,2018-01-03 00:00:00,2018.0,1.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Batt Veterinary Services,2017,Delivered,2017-06-13 00:00:00,2017.0,6.0,,,
+-1.0,Batt Veterinary Services,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-36.0,Batt Veterinary Services,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+50.0,Benson Veterinary Care LLC,2017,Delivered,2017-02-20 00:00:00,2017.0,2.0,328 Octavia St.,New Orleans,70115.0
+500.0,Canal Street Veterinary Hospital,2017,Delivered,2017-06-19 00:00:00,2017.0,6.0,4022 Canal St,New Orleans,70119.0
+500.0,Canal Street Veterinary Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,4022 Canal St,New Orleans,70119.0
+500.0,Carrollton Veterinary Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+200.0,Carrollton Veterinary Hospital,2017,Delivered,2017-08-01 00:00:00,2017.0,8.0,3501 S. Carrollton Ave,New Orleans,70118.0
+200.0,Carrollton Veterinary Hospital,2017,Delivered,2017-08-01 00:00:00,2017.0,8.0,3501 S. Carrollton Ave,New Orleans,70118.0
+100.0,Chalmette Pet Wellness Clinic & Hospital,2017,Delivered,2017-01-04 00:00:00,2017.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-11.0,Chalmette Pet Wellness Clinic & Hospital,2017,Returned,2017-12-02 00:00:00,2017.0,12.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-6.0,Chalmette Pet Wellness Clinic & Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-2.0,Chalmette Pet Wellness Clinic & Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,705 E. Judge Perez Drive,Chalmette,70043.0
+100.0,Clearview Veterinary Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,4713 Trenton Street,Metairie,70006.0
+-63.0,Clearview Veterinary Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,4713 Trenton Street,Metairie,70006.0
+15.0,Louisiana SPCA,2017,Delivered,2017-12-26 00:00:00,2017.0,12.0,,,
+-1.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-11.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-16.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+20.0,Louisiana SPCA,2017,Delivered,2017-12-26 00:00:00,2017.0,12.0,,,
+25.0,Louisiana SPCA,2017,Delivered,2017-12-22 00:00:00,2017.0,12.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2016-12-30 00:00:00,2016.0,12.0,,,
+1000.0,Louisiana SPCA,2017,Delivered,2017-02-08 00:00:00,2017.0,2.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2017-03-22 00:00:00,2017.0,3.0,,,
+43.0,Louisiana SPCA,2017,Delivered,2017-12-12 00:00:00,2017.0,12.0,,,
+44.0,Louisiana SPCA,2017,Delivered,2017-12-31 00:00:00,2017.0,12.0,,,
+200.0,Louisiana SPCA,2017,Delivered,2017-06-26 00:00:00,2017.0,6.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2017-07-06 00:00:00,2017.0,7.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2017-08-21 00:00:00,2017.0,8.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2017-10-06 00:00:00,2017.0,10.0,,,
+200.0,Louisiana SPCA,2017,Delivered,2017-11-03 00:00:00,2017.0,11.0,,,
+400.0,Louisiana SPCA,2017,Delivered,2017-07-03 00:00:00,2017.0,7.0,,,
+-39.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-5.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-85.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-99.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+50.0,Convenient Home Veterinary Care,2017,Delivered,2017-01-05 00:00:00,2017.0,1.0,P.O. Box 1242,Harvey,70059.0
+500.0,Crescent City Veterinary Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+18.0,Crescent City Veterinary Hospital,2017,Delivered,2017-12-18 00:00:00,2017.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+32.0,Crescent City Veterinary Hospital,2017,Delivered,2017-12-18 00:00:00,2017.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2017,Delivered,2017-03-31 00:00:00,2017.0,3.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2017,Delivered,2017-05-30 00:00:00,2017.0,5.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2017,Delivered,2017-08-08 00:00:00,2017.0,8.0,524 Jefferson Ave,New Orleans,70115.0
+200.0,Crescent City Veterinary Hospital,2017,Delivered,2017-11-09 00:00:00,2017.0,11.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Desoto Park Veterinary Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,2659 Desoto St,New Orleans,70119.0
+-196.0,Desoto Park Veterinary Clinic,2017,Returned,2017-12-29 00:00:00,2017.0,12.0,2659 Desoto St,New Orleans,70119.0
+500.0,"Dog Day Afternoon, LLC",2017,Delivered,2017-01-02 00:00:00,2017.0,1.0,831 Bordeaux St,New Orleans,70115.0
+500.0,Dr. Mike's Animal House,2017,Delivered,2017-01-04 00:00:00,2017.0,1.0,1120 N. Rampart Street,New Orleans,
+-100.0,Dr. Mike's Animal House,2017,Returned,2018-01-11 00:00:00,2018.0,1.0,1120 N. Rampart Street,New Orleans,
+-51.0,Dr. Mike's Animal House,2017,Returned,2018-01-11 00:00:00,2018.0,1.0,1120 N. Rampart Street,New Orleans,
+-300.0,Dr. Mike's Animal House,2017,Returned,2018-01-11 00:00:00,2018.0,1.0,1120 N. Rampart Street,New Orleans,
+200.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-07 00:00:00,2017.0,4.0,,,
+300.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-07 00:00:00,2017.0,4.0,,,
+-3.0,Annual Rabies Vaccination Drive,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+200.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-06 00:00:00,2017.0,4.0,,,
+300.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-05 00:00:00,2017.0,4.0,,,
+200.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-07 00:00:00,2017.0,4.0,,,
+300.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-05 00:00:00,2017.0,4.0,,,
+300.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-09 00:00:00,2017.0,4.0,,,
+300.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-09 00:00:00,2017.0,4.0,,,
+400.0,Annual Rabies Vaccination Drive,2017,Delivered,2017-04-05 00:00:00,2017.0,4.0,,,
+500.0,Elysian Fields Animal Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Elysian Fields Animal Clinic,2017,Delivered,2017-05-30 00:00:00,2017.0,5.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-90.0,Elysian Fields Animal Clinic,2017,Returned,2018-06-01 00:00:00,2018.0,6.0,4237 Elysian Fields Ave,New Orleans,70122.0
+200.0,Fur De Lis Vet Services,2017,Delivered,2017-01-10 00:00:00,2017.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+-52.0,Fur De Lis Vet Services,2017,Returned,2018-02-22 00:00:00,2018.0,2.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+25.0,Geaux Nola Pets Mobile,2017,Delivered,2017-11-13 00:00:00,2017.0,11.0,2111 General Pershing,New Orleans,70115.0
+200.0,Gretna Animal Hospital,2017,Delivered,2016-12-29 00:00:00,2016.0,12.0,714 Kepler St,Gretna,70053.0
+10.0,Gretna Animal Hospital,2017,Delivered,2017-12-22 00:00:00,2017.0,12.0,714 Kepler St,Gretna,70053.0
+-25.0,Gretna Animal Hospital,2017,Returned,Unknown,Unknown,Unknown,714 Kepler St,Gretna,70053.0
+100.0,Gretna Animal Hospital,2017,Delivered,2017-06-07 00:00:00,2017.0,6.0,714 Kepler St,Gretna,70053.0
+100.0,Healthy Paws,2017,Delivered,1945-02-01 00:00:00,1945.0,2.0,P.O. Box 6545,Metairie,70009.0
+75.0,Healthy Paws,2017,Delivered,2017-08-14 00:00:00,2017.0,8.0,P.O. Box 6545,Metairie,70009.0
+200.0,Hickory Knoll Veterinary Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,1625 Hickory Ave,Harahan,70123.0
+-79.0,Hickory Knoll Veterinary Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,1625 Hickory Ave,Harahan,70123.0
+50.0,Home Veterinary Services,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,"PO Box 11120, Jefferson, 10181-1120",,
+-27.0,Home Veterinary Services,2017,Returned,2018-01-03 00:00:00,2018.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+25.0,House Calls!,2017,Delivered,2017-01-24 00:00:00,2017.0,1.0,,,
+200.0,Jester Veterinarian Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,4 Westbank Expressway,,
+-26.0,Jester Veterinarian Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,4 Westbank Expressway,,
+200.0,Lake Animal Hospital,2017,Delivered,2017-12-26 00:00:00,2017.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+200.0,Lake Animal Hospital,2017,Delivered,2017-05-12 00:00:00,2017.0,5.0,604 Veterans Memorial Blvd,Metairie,70005.0
+100.0,Lake Animal Hospital,2017,Delivered,2017-10-23 00:00:00,2017.0,10.0,604 Veterans Memorial Blvd,Metairie,70005.0
+-38.0,Lake Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+500.0,Lakeview Veterinary Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+1000.0,Lakeview Veterinary Hospital,2017,Delivered,2017-02-22 00:00:00,2017.0,2.0,6245 Memphis Ave,New Orleans,70124.0
+800.0,Lakeview Veterinary Hospital,2017,Delivered,2017-08-01 00:00:00,2017.0,8.0,6245 Memphis Ave,New Orleans,70124.0
+-100.0,Lakeview Veterinary Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+-100.0,Lakeview Veterinary Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+400.0,Louisiana SPCA,2017,Delivered,2017-04-17 00:00:00,2017.0,4.0,,,
+50.0,Louisiana SPCA,2017,Delivered,2017-12-10 00:00:00,2017.0,12.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2016-12-20 00:00:00,2016.0,12.0,,,
+100.0,Louisiana SPCA,2017,Delivered,2017-05-08 00:00:00,2017.0,5.0,,,
+60.0,Louisiana SPCA,2017,Delivered,2017-12-10 00:00:00,2017.0,12.0,,,
+400.0,Louisiana SPCA,2017,Delivered,2017-05-08 00:00:00,2017.0,5.0,,,
+95.0,Louisiana SPCA,2017,Delivered,2017-12-28 00:00:00,2017.0,12.0,,,
+-73.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+200.0,Louisiana SPCA,2017,Delivered,2017-09-07 00:00:00,2017.0,9.0,,,
+100.0,Louisiana SPCA,2017,Delivered,2017-11-03 00:00:00,2017.0,11.0,,,
+100.0,Louisiana SPCA,2017,Delivered,2017-11-20 00:00:00,2017.0,11.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2016-12-30 00:00:00,2016.0,12.0,,,
+500.0,Louisiana SPCA,2017,Delivered,2017-12-29 00:00:00,2017.0,12.0,,,
+-5.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-7.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-100.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-14.0,Louisiana SPCA,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+500.0,Low Cost Animal Medical Center,2017,Delivered,2017-03-01 00:00:00,2017.0,3.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2017,Delivered,2017-08-01 00:00:00,2017.0,8.0,4300 Washington Ave.,New Orleans,70125.0
+-100.0,Low Cost Animal Medical Center,2017,Returned,2018-03-15 00:00:00,2018.0,3.0,4300 Washington Ave.,New Orleans,70125.0
+-100.0,Low Cost Animal Medical Center,2017,Returned,2018-04-20 00:00:00,2018.0,4.0,4300 Washington Ave.,New Orleans,70125.0
+-89.0,Low Cost Animal Medical Center,2017,Returned,2018-03-15 00:00:00,2018.0,3.0,4300 Washington Ave.,New Orleans,70125.0
+-89.0,Low Cost Animal Medical Center,2017,Returned,2018-04-20 00:00:00,2018.0,4.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Magazine Street Animal Clinic,2017,Delivered,2017-06-26 00:00:00,2017.0,6.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2017,Delivered,2017-08-18 00:00:00,2017.0,8.0,3458 Magazine St,New Orleans,70115.0
+400.0,Magazine Street Animal Clinic,2017,Delivered,2017-11-02 00:00:00,2017.0,11.0,3458 Magazine St,New Orleans,70115.0
+-100.0,Magazine Street Animal Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2017,Delivered,2016-12-26 00:00:00,2016.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2017,Delivered,2017-02-27 00:00:00,2017.0,2.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2017,Delivered,2017-05-01 00:00:00,2017.0,5.0,3458 Magazine St,New Orleans,70115.0
+500.0,"Manhattan Animal Clinic, LLC",2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,,,
+-2.0,"Manhattan Animal Clinic, LLC",2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-46.0,"Manhattan Animal Clinic, LLC",2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+-400.0,"Manhattan Animal Clinic, LLC",2017,Returned,2017-12-27 00:00:00,2017.0,12.0,,,
+500.0,Maple Small Animal Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2017,Delivered,2017-03-17 00:00:00,2017.0,3.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2017,Delivered,2017-05-30 00:00:00,2017.0,5.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2017,Delivered,2017-08-01 00:00:00,2017.0,8.0,7608 Maple St,New Orleans,70118.0
+400.0,Maple Small Animal Clinic,2017,Delivered,2017-10-20 00:00:00,2017.0,10.0,7608 Maple St,New Orleans,70118.0
+200.0,Marrero Veterinary Clinic,2017,Delivered,2017-01-04 00:00:00,2017.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-19.0,Marrero Veterinary Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,4001 Lapalco Blvd,Harvey,70058.0
+-98.0,Marrero Veterinary Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,4001 Lapalco Blvd,Harvey,70058.0
+1000.0,Metairie Small Animal Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,101 Metairie Rd,Metairie,70005.0
+-59.0,Metairie Small Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2017,Delivered,2017-04-05 00:00:00,2017.0,4.0,101 Metairie Rd,Metairie,70005.0
+500.0,Metairie Small Animal Hospital,2017,Delivered,2017-08-08 00:00:00,2017.0,8.0,101 Metairie Rd,Metairie,70005.0
+500.0,Metairie Small Animal Hospital,2017,Delivered,2017-11-02 00:00:00,2017.0,11.0,101 Metairie Rd,Metairie,70005.0
+-45.0,Metairie Small Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+-73.0,Metairie Small Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+-100.0,Metairie Small Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+-89.0,Metairie Small Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+500.0,Midcity Veterinary Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+82.0,Midcity Veterinary Hospital,2017,Delivered,2017-11-30 00:00:00,2017.0,11.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2017,Delivered,2017-05-31 00:00:00,2017.0,5.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2017,Delivered,2017-09-07 00:00:00,2017.0,9.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Midcity Veterinary Hospital,2017,Delivered,2017-11-30 00:00:00,2017.0,11.0,3821 Orleans Ave,New Orleans,70119.0
+-49.0,Midcity Veterinary Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2017,Delivered,2017-03-29 00:00:00,2017.0,3.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Natural Pet Care,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-13.0,Natural Pet Care,2017,Returned,2018-12-26 00:00:00,2018.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+500.0,NOLA Animal Clinic,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,4554 Downman Rd,New Orleans,70126.0
+50.0,NOLA Animal Clinic,2017,Delivered,2017-12-22 00:00:00,2017.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2017,Delivered,2017-03-17 00:00:00,2017.0,3.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2017,Delivered,2017-06-06 00:00:00,2017.0,6.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2017,Delivered,2017-09-07 00:00:00,2017.0,9.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Pet Care Center,2017,Delivered,2016-12-22 00:00:00,2016.0,12.0,2212 David Drive,Metairie,70003.0
+500.0,Pet Care Center,2017,Delivered,2017-03-27 00:00:00,2017.0,3.0,2212 David Drive,Metairie,70003.0
+500.0,Pet Care Center,2017,Delivered,2017-06-06 00:00:00,2017.0,6.0,2212 David Drive,Metairie,70003.0
+300.0,Pet Care Center,2017,Delivered,2017-11-02 00:00:00,2017.0,11.0,2212 David Drive,Metairie,70003.0
+-300.0,Pet Care Center,2017,Returned,2018-04-01 00:00:00,2018.0,4.0,2212 David Drive,Metairie,70003.0
+-52.0,Pet Care Center,2017,Returned,2018-04-01 00:00:00,2018.0,4.0,2212 David Drive,Metairie,70003.0
+500.0,Prytania Veterinary Hospital,2017,Delivered,2016-12-26 00:00:00,2016.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2017,Delivered,2017-03-02 00:00:00,2017.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2017,Delivered,2017-05-07 00:00:00,2017.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+100.0,Prytania Veterinary Hospital,2017,Delivered,2017-12-06 00:00:00,2017.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2017,Delivered,2017-07-11 00:00:00,2017.0,7.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2017,Delivered,2017-09-29 00:00:00,2017.0,9.0,201 Nashville Ave.,New Orleans,70115.0
+50.0,Quality Pet Care,2017,Delivered,2017-02-06 00:00:00,2017.0,2.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+-33.0,Quality Pet Care,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+1000.0,Southern Animal Foundation,2017,Delivered,2016-12-26 00:00:00,2016.0,12.0,1823 Magazine Street,New Orleans,70130.0
+1000.0,Southern Animal Foundation,2017,Delivered,2017-04-26 00:00:00,2017.0,4.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Southern Animal Foundation,2017,Delivered,2017-09-01 00:00:00,2017.0,9.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Southern Animal Foundation,2017,Delivered,2017-11-02 00:00:00,2017.0,11.0,1823 Magazine Street,New Orleans,70130.0
+-200.0,Southern Animal Foundation,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,1823 Magazine Street,New Orleans,70130.0
+200.0,Southshore Animal Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,213 Live Oak St,Metairie,70005.0
+200.0,Southshore Animal Hospital,2017,Delivered,2017-06-01 00:00:00,2017.0,6.0,213 Live Oak St,Metairie,70005.0
+200.0,Southshore Animal Hospital,2017,Delivered,2017-09-11 00:00:00,2017.0,9.0,213 Live Oak St,Metairie,70005.0
+-95.0,Southshore Animal Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,213 Live Oak St,Metairie,70005.0
+100.0,Terry Parkway Animal Clinic,2017,Delivered,2016-12-29 00:00:00,2016.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-45.0,Terry Parkway Animal Clinic,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,636 Terry Parkway,Terrytown,70056.0
+200.0,The Cat Hospital of Metairie,2017,Delivered,2016-12-16 00:00:00,2016.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+100.0,The Cat Hospital of Metairie,2017,Delivered,2017-07-21 00:00:00,2017.0,7.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-80.0,The Cat Hospital of Metairie,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,The Cat Practice,2017,Delivered,2016-12-26 00:00:00,2016.0,12.0,1809 Magazine St,New Orleans,70130.0
+300.0,The Cat Practice,2017,Delivered,2017-07-03 00:00:00,2017.0,7.0,1809 Magazine St,New Orleans,70130.0
+300.0,The Cat Practice,2017,Delivered,2017-09-21 00:00:00,2017.0,9.0,1809 Magazine St,New Orleans,70130.0
+-66.0,The Cat Practice,2017,Returned,2018-04-20 00:00:00,2018.0,4.0,1809 Magazine St,New Orleans,70130.0
+-44.0,The Cat Practice,2017,Returned,2018-04-20 00:00:00,2018.0,4.0,1809 Magazine St,New Orleans,70130.0
+-100.0,The Cat Practice,2017,Returned,2018-04-20 00:00:00,2018.0,4.0,1809 Magazine St,New Orleans,70130.0
+500.0,The French Quarter Vet,2017,Delivered,2016-12-29 00:00:00,2016.0,12.0,3041 N Rampart St,New Orleans,70116.0
+-68.0,The French Quarter Vet,2017,Returned,2018-01-03 00:00:00,2018.0,1.0,3041 N Rampart St,New Orleans,70116.0
+-92.0,The French Quarter Vet,2017,Returned,2018-01-03 00:00:00,2018.0,1.0,3041 N Rampart St,New Orleans,70116.0
+500.0,The French Quarter Vet,2017,Delivered,2017-04-05 00:00:00,2017.0,4.0,3041 N Rampart St,New Orleans,70116.0
+500.0,Uptown Veterinary Hospital,2017,Delivered,2016-12-26 00:00:00,2016.0,12.0,731 Nashville Ave,New Orleans,70115.0
+-100.0,Uptown Veterinary Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,731 Nashville Ave,New Orleans,70115.0
+-79.0,Uptown Veterinary Hospital,2017,Returned,2017-12-27 00:00:00,2017.0,12.0,731 Nashville Ave,New Orleans,70115.0
+300.0,VCA Airline Animal Hospital,2017,Delivered,2016-12-27 00:00:00,2016.0,12.0,5105 Airline Drive,Metairie,70001.0
+-75.0,VCA Airline Animal Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,5105 Airline Drive,Metairie,70001.0
+500.0,VCA Causeway Animal Hospital,2017,Delivered,2016-12-28 00:00:00,2016.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,VCA Causeway Animal Hospital,2017,Delivered,2017-06-01 00:00:00,2017.0,6.0,1315 N. Causeway Blvd,Metairie,70001.0
+-24.0,VCA Causeway Animal Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+-36.0,VCA Causeway Animal Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+-400.0,VCA Causeway Animal Hospital,2017,Returned,2017-12-28 00:00:00,2017.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+25.0,Vet Pronto,2017,Delivered,2017-02-10 00:00:00,2017.0,2.0,,,
+100.0,Vet Relief Foundation,2017,Delivered,2017-03-09 00:00:00,2017.0,3.0,2611 Florida St ,,
+200.0,Vet-a-GoGo,2017,Delivered,2017-01-05 00:00:00,2017.0,1.0,3517 Chartres St,New Orleans,70117.0
+-71.0,Vet-a-GoGo,2017,Returned,2017-10-05 00:00:00,2017.0,10.0,3517 Chartres St,New Orleans,70117.0
+1000.0,Vetco @ Petco Mobile Clinic,2017,Delivered,2017-01-04 00:00:00,2017.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-48.0,Vetco @ Petco Mobile Clinic,2017,Returned,Unknown,Unknown,Unknown,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Vetco @ Petco Mobile Clinic,2017,Returned,Unknown,Unknown,Unknown,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Vetco @ Petco Mobile Clinic,2017,Returned,Unknown,Unknown,Unknown,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,Vetco @ Petco Mobile Clinic,2017,Delivered,2017-11-24 00:00:00,2017.0,11.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Vetco @ Petco Mobile Clinic,2017,Returned,Unknown,Unknown,Unknown,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,Unknown,2017,Delivered,2017-03-13 00:00:00,2017.0,3.0,,,
+100.0,Unknown,2017,Delivered,2017-04-27 00:00:00,2017.0,4.0,,,
+80.0,Unknown,2017,Delivered,2018-01-22 00:00:00,2018.0,1.0,,,
+200.0,Acadiana West Animal Clinic,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-72.0,Acadiana West Animal Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-100.0,Acadiana West Animal Clinic,2018,Returned,2019-01-02 00:00:00,2019.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+500.0,Algiers Animal Clinic,2018,Delivered,1903-05-13 00:00:00,1903.0,5.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Algiers Animal Clinic,2018,Delivered,2018-04-04 00:00:00,2018.0,4.0,3807 General DeGaulle,Algiers,70114.0
+-2.0,Algiers Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+-1.0,Algiers Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+-1.0,Algiers Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+-8.0,Algiers Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+-4.0,Algiers Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Allstar Animal Clinic,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+75.0,Allstar Animal Clinic,2018,Delivered,2018-12-11 00:00:00,2018.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+300.0,Allstar Animal Clinic,2018,Delivered,2018-08-02 00:00:00,2018.0,8.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Animal Care Center,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,313 David Dr.,Metairie,70003.0
+-89.0,Animal Care Center,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,313 David Dr.,Metairie,70003.0
+200.0,Animal Medical & Surgical Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-39.0,Animal Medical & Surgical Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+200.0,Ark Animal Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+-25.0,Ark Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+25.0,At Home Veterinary Care,2018,Delivered,2018-01-11 00:00:00,2018.0,1.0,PO Box 231145,Harahan,70123.0
+100.0,Avenue Animal Wellness and Emergency,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,1401 St Charles Ave,New Orleans,70130.0
+45.0,Avenue Animal Wellness and Emergency,2018,Delivered,2018-10-10 00:00:00,2018.0,10.0,1401 St Charles Ave,New Orleans,70130.0
+-29.0,Avenue Animal Wellness and Emergency,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,1401 St Charles Ave,New Orleans,70130.0
+26.0,Avian & Exotic Animal Hospital of Louisiana,2018,Delivered,2018-01-24 00:00:00,2018.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+-22.0,Avian & Exotic Animal Hospital of Louisiana,2018,Returned,2019-01-07 00:00:00,2019.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+200.0,Banfield 1023 (Elmwood),2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+164.0,Banfield 1023 (Elmwood),2018,Delivered,2018-08-10 00:00:00,2018.0,8.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+200.0,Banfield 1023 (Elmwood),2018,Delivered,2018-04-01 00:00:00,2018.0,4.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+-185.0,Banfield 1023 (Elmwood),2018,Returned,2018-12-26 00:00:00,2018.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+200.0,Banfield 1023 (Elmwood),2018,Delivered,2018-08-14 00:00:00,2018.0,8.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+100.0,Banfield 1023 (Elmwood),2018,Delivered,2018-11-02 00:00:00,2018.0,11.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+500.0,Banfield 1034 (West Bank),2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+50.0,Banfield 1034 (West Bank),2018,Delivered,2018-11-01 00:00:00,2018.0,11.0,1321 Manhattan Blvd,Harvey,70058.0
+-19.0,Banfield 1034 (West Bank),2018,Returned,2018-12-26 00:00:00,2018.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Banfield 1175 (Veterans),2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+174.0,Banfield 1175 (Veterans),2018,Delivered,2018-06-02 00:00:00,2018.0,6.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-58.0,Banfield 1175 (Veterans),2018,Returned,2018-12-26 00:00:00,2018.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+100.0,Banfield 1175 (Veterans),2018,Delivered,2018-11-01 00:00:00,2018.0,11.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+100.0,Batt Veterinary Services,2018,Delivered,2018-01-04 00:00:00,2018.0,1.0,,,
+200.0,Batt Veterinary Services,2018,Delivered,2018-05-08 00:00:00,2018.0,5.0,,,
+75.0,Benson Veterinary Care LLC,2018,Delivered,2018-03-01 00:00:00,2018.0,3.0,328 Octavia St.,New Orleans,70115.0
+500.0,Canal Street Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,4022 Canal St,New Orleans,70119.0
+500.0,Canal Street Veterinary Hospital,2018,Delivered,2018-05-29 00:00:00,2018.0,5.0,4022 Canal St,New Orleans,70119.0
+500.0,Carrollton Veterinary Hospital,2018,Delivered,2017-12-27 00:00:00,2017.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+400.0,Carrollton Veterinary Hospital,2018,Delivered,2018-09-24 00:00:00,2018.0,9.0,3501 S. Carrollton Ave,New Orleans,70118.0
+-100.0,Carrollton Veterinary Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+-31.0,Carrollton Veterinary Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+-100.0,Carrollton Veterinary Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+100.0,Chalmette Pet Wellness Clinic & Hospital,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-21.0,Chalmette Pet Wellness Clinic & Hospital,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+100.0,Clearview Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,4713 Trenton Street,Metairie,70006.0
+-48.0,Clearview Veterinary Hospital,2018,Returned,2019-01-23 00:00:00,2019.0,1.0,4713 Trenton Street,Metairie,70006.0
+1000.0,Louisiana SPCA,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,,,
+-7.0,Louisiana SPCA,2018,Returned,2018-02-23 00:00:00,2018.0,2.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-03-28 00:00:00,2018.0,3.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-05-08 00:00:00,2018.0,5.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-06-18 00:00:00,2018.0,6.0,,,
+100.0,Louisiana SPCA,2018,Delivered,2018-08-04 00:00:00,2018.0,8.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-08-06 00:00:00,2018.0,8.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-09-06 00:00:00,2018.0,9.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-12-05 00:00:00,2018.0,12.0,,,
+-62.0,Louisiana SPCA,2018,Returned,2019-01-02 00:00:00,2019.0,1.0,,,
+-82.0,Louisiana SPCA,2018,Returned,2019-01-02 00:00:00,2019.0,1.0,,,
+-4.0,Louisiana SPCA,2018,Returned,2019-01-02 00:00:00,2019.0,1.0,,,
+-100.0,Louisiana SPCA,2018,Returned,2019-01-03 00:00:00,2019.0,1.0,,,
+50.0,Convenient Home Veterinary Care,2018,Delivered,2018-01-05 00:00:00,2018.0,1.0,P.O. Box 1242,Harvey,70059.0
+500.0,Crescent City Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2018,Delivered,2018-03-15 00:00:00,2018.0,3.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2018,Delivered,2018-06-04 00:00:00,2018.0,6.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2018,Delivered,2018-08-01 00:00:00,2018.0,8.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2018,Delivered,2018-10-26 00:00:00,2018.0,10.0,524 Jefferson Ave,New Orleans,70115.0
+-200.0,Crescent City Veterinary Hospital,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Desoto Park Veterinary Clinic,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,2659 Desoto St,New Orleans,70119.0
+-187.0,Desoto Park Veterinary Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,2659 Desoto St,New Orleans,70119.0
+200.0,"Dog Day Afternoon, LLC",2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,831 Bordeaux St,New Orleans,70115.0
+-9.0,"Dog Day Afternoon, LLC",2018,Returned,2018-12-27 00:00:00,2018.0,12.0,831 Bordeaux St,New Orleans,70115.0
+100.0,Dr. Mike's Animal House,2018,Delivered,2018-01-08 00:00:00,2018.0,1.0,1120 N. Rampart Street,New Orleans,
+200.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-146.0,Annual Rabies Vaccination Drive,2018,Returned,1900-07-18 00:00:00,1900.0,7.0,,,
+300.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-88.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+200.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-153.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+300.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-55.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+200.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-102.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+300.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-158.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+300.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-94.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+300.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-164.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+500.0,Elysian Fields Animal Clinic,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Elysian Fields Animal Clinic,2018,Delivered,2018-06-05 00:00:00,2018.0,6.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-100.0,Elysian Fields Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-64.0,Elysian Fields Animal Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Elysian Fields Animal Clinic,2018,Delivered,2018-11-12 00:00:00,2018.0,11.0,4237 Elysian Fields Ave,New Orleans,70122.0
+100.0,Fur De Lis Vet Services,2018,Delivered,2018-02-18 00:00:00,2018.0,2.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+55.0,Fur De Lis Vet Services,2018,Delivered,1900-04-17 00:00:00,1900.0,4.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+-19.0,Fur De Lis Vet Services,2018,Returned,2018-12-28 00:00:00,2018.0,12.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+200.0,Gretna Animal Hospital,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,714 Kepler St,Gretna,70053.0
+102.0,Gretna Animal Hospital,2018,Delivered,2018-06-14 00:00:00,2018.0,6.0,714 Kepler St,Gretna,70053.0
+200.0,Hickory Knoll Veterinary Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,1625 Hickory Ave,Harahan,70123.0
+-100.0,Hickory Knoll Veterinary Hospital,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,1625 Hickory Ave,Harahan,70123.0
+100.0,Hickory Knoll Veterinary Hospital,2018,Delivered,2018-11-09 00:00:00,2018.0,11.0,1625 Hickory Ave,Harahan,70123.0
+-90.0,Hickory Knoll Veterinary Hospital,2018,Returned,2019-01-04 00:00:00,2019.0,1.0,1625 Hickory Ave,Harahan,70123.0
+50.0,Home Veterinary Services,2018,Delivered,2018-01-03 00:00:00,2018.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+-37.0,Home Veterinary Services,2018,Returned,2019-01-09 00:00:00,2019.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+50.0,House Calls!,2018,Delivered,2018-01-03 00:00:00,2018.0,1.0,,,
+200.0,Jester Veterinarian Clinic,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,4 Westbank Expressway,,
+-124.0,Jester Veterinarian Clinic,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4 Westbank Expressway,,
+500.0,Lake Animal Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+-90.0,Lake Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+100.0,Lakeside Animal Hospital,2018,Delivered,2018-02-09 00:00:00,2018.0,2.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+100.0,Lakeside Animal Hospital,2018,Delivered,2018-09-13 00:00:00,2018.0,9.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+-80.0,Lakeside Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+1000.0,Lakeview Veterinary Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Lakeview Veterinary Hospital,2018,Delivered,2018-05-15 00:00:00,2018.0,5.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Lakeview Veterinary Hospital,2018,Delivered,2018-05-15 00:00:00,2018.0,5.0,6245 Memphis Ave,New Orleans,70124.0
+-100.0,Lakeview Veterinary Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+300.0,Lakeview Veterinary Hospital,2018,Delivered,2018-11-02 00:00:00,2018.0,11.0,6245 Memphis Ave,New Orleans,70124.0
+-100.0,Lakeview Veterinary Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+500.0,Louisiana SPCA,2018,Delivered,2018-06-15 00:00:00,2018.0,6.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-03-26 00:00:00,2018.0,3.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-10-04 00:00:00,2018.0,10.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,,,
+-61.0,Louisiana SPCA,2018,Returned,2019-01-04 00:00:00,2019.0,1.0,,,
+-500.0,Louisiana SPCA,2018,Returned,2019-01-04 00:00:00,2019.0,1.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-11-15 00:00:00,2018.0,11.0,,,
+500.0,Louisiana SPCA,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,,,
+-2.0,Louisiana SPCA,2018,Returned,2019-01-02 00:00:00,2019.0,1.0,,,
+-171.0,Louisiana SPCA,2018,Returned,2018-12-31 00:00:00,2018.0,12.0,,,
+200.0,Low Cost Animal Medical Center,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+800.0,Low Cost Animal Medical Center,2018,Delivered,2018-02-14 00:00:00,2018.0,2.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2018,Delivered,2018-05-02 00:00:00,2018.0,5.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2018,Delivered,2018-06-25 00:00:00,2018.0,6.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2018,Delivered,2018-09-17 00:00:00,2018.0,9.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2018,Delivered,2018-11-09 00:00:00,2018.0,11.0,4300 Washington Ave.,New Orleans,70125.0
+-300.0,Low Cost Animal Medical Center,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4300 Washington Ave.,New Orleans,70125.0
+-100.0,Low Cost Animal Medical Center,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4300 Washington Ave.,New Orleans,70125.0
+-108.0,Low Cost Animal Medical Center,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Magazine Street Animal Clinic,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2018,Delivered,2018-03-01 00:00:00,2018.0,3.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2018,Delivered,2018-07-10 00:00:00,2018.0,7.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2018,Delivered,2018-09-13 00:00:00,2018.0,9.0,3458 Magazine St,New Orleans,70115.0
+300.0,Magazine Street Animal Clinic,2018,Delivered,2018-11-28 00:00:00,2018.0,11.0,3458 Magazine St,New Orleans,70115.0
+200.0,"Manhattan Animal Clinic, LLC",2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,,,
+-152.0,"Manhattan Animal Clinic, LLC",2018,Returned,2019-01-05 00:00:00,2019.0,1.0,,,
+500.0,Maple Small Animal Clinic,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2018,Delivered,2018-03-15 00:00:00,2018.0,3.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2018,Delivered,2018-05-30 00:00:00,2018.0,5.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2018,Delivered,2018-08-01 00:00:00,2018.0,8.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2018,Delivered,2018-10-24 00:00:00,2018.0,10.0,7608 Maple St,New Orleans,70118.0
+-67.0,Maple Small Animal Clinic,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,7608 Maple St,New Orleans,70118.0
+-200.0,Maple Small Animal Clinic,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,7608 Maple St,New Orleans,70118.0
+100.0,Marrero Veterinary Clinic,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,4001 Lapalco Blvd,Harvey,70058.0
+-34.0,Marrero Veterinary Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+100.0,MedVet New Orleans,2018,Delivered,2018-09-24 00:00:00,2018.0,9.0,2315 N CAUSEWAY BLVD,METAIRIE,70001.0
+-98.0,MedVet New Orleans,2018,Returned,2019-05-25 00:00:00,2019.0,5.0,2315 N CAUSEWAY BLVD,METAIRIE,70001.0
+1000.0,Metairie Small Animal Hospital,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,101 Metairie Rd,Metairie,70005.0
+-67.0,Metairie Small Animal Hospital,2018,Returned,2019-01-23 00:00:00,2019.0,1.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2018,Delivered,2018-07-03 00:00:00,2018.0,7.0,101 Metairie Rd,Metairie,70005.0
+-100.0,Metairie Small Animal Hospital,2018,Returned,2019-12-23 00:00:00,2019.0,12.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2018,Delivered,2018-11-09 00:00:00,2018.0,11.0,101 Metairie Rd,Metairie,70005.0
+-24.0,Metairie Small Animal Hospital,2018,Returned,2019-12-23 00:00:00,2019.0,12.0,101 Metairie Rd,Metairie,70005.0
+-93.0,Metairie Small Animal Hospital,2018,Returned,2019-12-23 00:00:00,2019.0,12.0,101 Metairie Rd,Metairie,70005.0
+-183.0,Metairie Small Animal Hospital,2018,Returned,2019-12-23 00:00:00,2019.0,12.0,101 Metairie Rd,Metairie,70005.0
+-500.0,Metairie Small Animal Hospital,2018,Returned,2019-01-23 00:00:00,2019.0,1.0,101 Metairie Rd,Metairie,70005.0
+-15.0,Metairie Small Animal Hospital,2018,Returned,2019-01-23 00:00:00,2019.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Midcity Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2018,Delivered,2018-02-22 00:00:00,2018.0,2.0,3821 Orleans Ave,New Orleans,70119.0
+300.0,Midcity Veterinary Hospital,2018,Delivered,2018-05-04 00:00:00,2018.0,5.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2018,Delivered,2018-07-18 00:00:00,2018.0,7.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2018,Delivered,2018-09-26 00:00:00,2018.0,9.0,3821 Orleans Ave,New Orleans,70119.0
+-59.0,Midcity Veterinary Hospital,2018,Returned,2019-01-09 00:00:00,2019.0,1.0,3821 Orleans Ave,New Orleans,70119.0
+200.0,Natural Pet Care,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-24.0,Natural Pet Care,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-88.0,Natural Pet Care,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+100.0,New Orleans Animal Health,2018,Delivered,2018-01-08 00:00:00,2018.0,1.0,2372 St. Claude Ave,New Orleans,70117.0
+100.0,New Orleans Animal Health,2018,Delivered,2018-05-17 00:00:00,2018.0,5.0,2372 St. Claude Ave,New Orleans,70117.0
+100.0,New Orleans Animal Health,2018,Delivered,2018-11-16 00:00:00,2018.0,11.0,2372 St. Claude Ave,New Orleans,70117.0
+-87.0,New Orleans Animal Health,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,2372 St. Claude Ave,New Orleans,70117.0
+500.0,NOLA Animal Clinic,2018,Delivered,2017-12-22 00:00:00,2017.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2018,Delivered,2018-03-21 00:00:00,2018.0,3.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2018,Delivered,2018-06-05 00:00:00,2018.0,6.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2018,Delivered,2018-08-22 00:00:00,2018.0,8.0,4554 Downman Rd,New Orleans,70126.0
+70.0,NOLA Animal Clinic,2018,Delivered,2019-01-14 00:00:00,2019.0,1.0,4554 Downman Rd,New Orleans,70126.0
+400.0,Annual Rabies Vaccination Drive,2018,Delivered,2018-03-23 00:00:00,2018.0,3.0,,,
+-174.0,Annual Rabies Vaccination Drive,2018,Returned,2018-03-26 00:00:00,2018.0,3.0,,,
+1000.0,Pet Care Center,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,2212 David Drive,Metairie,70003.0
+500.0,Pet Care Center,2018,Delivered,2018-05-29 00:00:00,2018.0,5.0,2212 David Drive,Metairie,70003.0
+500.0,Pet Care Center,2018,Delivered,2018-07-18 00:00:00,2018.0,7.0,2212 David Drive,Metairie,70003.0
+-25.0,Pet Care Center,2018,Returned,2019-05-14 00:00:00,2019.0,5.0,2212 David Drive,Metairie,70003.0
+-200.0,Pet Care Center,2018,Returned,2019-02-25 00:00:00,2019.0,2.0,2212 David Drive,Metairie,70003.0
+-32.0,Pet Care Center,2018,Returned,Unknown,Unknown,Unknown,2212 David Drive,Metairie,70003.0
+-40.0,Pet Care Center,2018,Returned,Unknown,Unknown,Unknown,2212 David Drive,Metairie,70003.0
+-41.0,Pet Care Center,2018,Returned,Unknown,Unknown,Unknown,2212 David Drive,Metairie,70003.0
+500.0,Prytania Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2018,Delivered,2018-03-01 00:00:00,2018.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2018,Delivered,2018-05-17 00:00:00,2018.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2018,Delivered,2018-07-10 00:00:00,2018.0,7.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2018,Delivered,2018-10-05 00:00:00,2018.0,10.0,201 Nashville Ave.,New Orleans,70115.0
+-33.0,Prytania Veterinary Hospital,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+50.0,Quality Pet Care,2018,Delivered,2018-01-24 00:00:00,2018.0,1.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+-46.0,Quality Pet Care,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+1000.0,Southern Animal Foundation,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,1823 Magazine Street,New Orleans,70130.0
+1000.0,Southern Animal Foundation,2018,Delivered,2018-04-25 00:00:00,2018.0,4.0,1823 Magazine Street,New Orleans,70130.0
+1000.0,Southern Animal Foundation,2018,Delivered,2018-09-13 00:00:00,2018.0,9.0,1823 Magazine Street,New Orleans,70130.0
+-400.0,Southern Animal Foundation,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,1823 Magazine Street,New Orleans,70130.0
+-53.0,Southern Animal Foundation,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Southshore Animal Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,213 Live Oak St,Metairie,70005.0
+-85.0,Southshore Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,213 Live Oak St,Metairie,70005.0
+100.0,Terry Parkway Animal Clinic,2018,Delivered,2017-12-29 00:00:00,2017.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-62.0,Terry Parkway Animal Clinic,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,636 Terry Parkway,Terrytown,70056.0
+100.0,The Cat Hospital of Metairie,2018,Delivered,2018-06-12 00:00:00,2018.0,6.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-68.0,The Cat Hospital of Metairie,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+200.0,The Cat Hospital of Metairie,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-100.0,The Cat Hospital of Metairie,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+100.0,The Cat Hospital of Metairie,2018,Delivered,2018-06-12 00:00:00,2018.0,6.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,The Cat Practice,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,1809 Magazine St,New Orleans,70130.0
+500.0,The Cat Practice,2018,Delivered,2018-05-22 00:00:00,2018.0,5.0,1809 Magazine St,New Orleans,70130.0
+-29.0,The Cat Practice,2018,Returned,2019-03-14 00:00:00,2019.0,3.0,1809 Magazine St,New Orleans,70130.0
+-100.0,The Cat Practice,2018,Returned,2018-12-27 00:00:00,2018.0,12.0,1809 Magazine St,New Orleans,70130.0
+-62.0,The Cat Practice,2018,Returned,2019-03-14 00:00:00,2019.0,3.0,1809 Magazine St,New Orleans,70130.0
+500.0,The French Quarter Vet,2018,Delivered,2018-01-02 00:00:00,2018.0,1.0,3041 N Rampart St,New Orleans,70116.0
+-71.0,The French Quarter Vet,2018,Returned,2019-01-09 00:00:00,2019.0,1.0,3041 N Rampart St,New Orleans,70116.0
+300.0,Uptown Veterinary Hospital,2018,Delivered,2017-12-26 00:00:00,2017.0,12.0,731 Nashville Ave,New Orleans,70115.0
+-13.0,Uptown Veterinary Hospital,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,731 Nashville Ave,New Orleans,70115.0
+200.0,VCA Airline Animal Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,5105 Airline Drive,Metairie,70001.0
+-3.0,VCA Airline Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,5105 Airline Drive,Metairie,70001.0
+-63.0,VCA Airline Animal Hospital,2018,Returned,2018-12-26 00:00:00,2018.0,12.0,5105 Airline Drive,Metairie,70001.0
+500.0,VCA Causeway Animal Hospital,2018,Delivered,2017-12-28 00:00:00,2017.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+100.0,VCA Causeway Animal Hospital,2018,Delivered,2018-09-13 00:00:00,2018.0,9.0,1315 N. Causeway Blvd,Metairie,70001.0
+-50.0,VCA Causeway Animal Hospital,2018,Returned,2019-01-08 00:00:00,2019.0,1.0,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,Vetco @ Petco Mobile Clinic,2018,Delivered,2018-01-03 00:00:00,2018.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+500.0,Vetco @ Petco Mobile Clinic,2018,Delivered,2018-03-28 00:00:00,2018.0,3.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-500.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+500.0,Vetco @ Petco Mobile Clinic,2018,Delivered,2018-09-18 00:00:00,2018.0,9.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-17.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-42.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-33.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-94.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-89.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-83.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-23.0,Vetco @ Petco Mobile Clinic,2018,Returned,2019-01-11 00:00:00,2019.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+7.0,Louisiana SPCA,2018,Delivered,2018-02-24 00:00:00,2018.0,2.0,,,
+50.0,Westside Veterinary Hospital,2018,Delivered,2018-10-31 00:00:00,2018.0,10.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+-39.0,Westside Veterinary Hospital,2018,Returned,2019-01-05 00:00:00,2019.0,1.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+100.0,Westside Veterinary Hospital,2018,Delivered,2018-06-19 00:00:00,2018.0,6.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+25.0,Unknown,2018,Delivered,2018-01-22 00:00:00,2018.0,1.0,,,
+-19.0,Unknown,2018,Returned,2019-02-11 00:00:00,2019.0,2.0,,,
+200.0,Acadiana West Animal Clinic,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-188.0,Acadiana West Animal Clinic,2019,Returned,2020-01-13 00:00:00,2020.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+500.0,Algiers Animal Clinic,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,3807 General DeGaulle,Algiers,70114.0
+200.0,Algiers Animal Clinic,2019,Delivered,2019-05-21 00:00:00,2019.0,5.0,3807 General DeGaulle,Algiers,70114.0
+300.0,Algiers Animal Clinic,2019,Delivered,2019-07-11 00:00:00,2019.0,7.0,3807 General DeGaulle,Algiers,70114.0
+-160.0,Algiers Animal Clinic,2019,Returned,2020-12-30 00:00:00,2020.0,12.0,3807 General DeGaulle,Algiers,70114.0
+-10.0,Algiers Animal Clinic,2019,Returned,2020-01-01 00:00:00,2020.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-27.0,Algiers Animal Clinic,2019,Returned,2020-12-30 00:00:00,2020.0,12.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Allstar Animal Clinic,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+25.0,Allstar Animal Clinic,2019,Delivered,2019-12-20 00:00:00,2019.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Allstar Animal Clinic,2019,Delivered,2019-10-17 00:00:00,2019.0,10.0,4701 S Carrollton Ave,New Orleans,70119.0
+200.0,Allstar Animal Clinic,2019,Delivered,2019-06-10 00:00:00,2019.0,6.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Animal Care Center,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,313 David Dr.,Metairie,70003.0
+-95.0,Animal Care Center,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,313 David Dr.,Metairie,70003.0
+300.0,Animal Medical & Surgical Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-39.0,Animal Medical & Surgical Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-15.0,Animal Medical & Surgical Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+-80.0,Animal Medical & Surgical Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+200.0,Ark Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,4025 Jefferson Hwy,Jefferson,70121.0
+25.0,At Home Veterinary Care,2019,Delivered,2019-01-24 00:00:00,2019.0,1.0,PO Box 231145,Harahan,70123.0
+100.0,Avenue Animal Wellness and Emergency,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,1401 St Charles Ave,New Orleans,70130.0
+100.0,Avenue Animal Wellness and Emergency,2019,Delivered,2019-05-15 00:00:00,2019.0,5.0,1401 St Charles Ave,New Orleans,70130.0
+200.0,Avenue Animal Wellness and Emergency,2019,Delivered,2019-09-27 00:00:00,2019.0,9.0,1401 St Charles Ave,New Orleans,70130.0
+-1.0,Avenue Animal Wellness and Emergency,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,1401 St Charles Ave,New Orleans,70130.0
+-46.0,Avenue Animal Wellness and Emergency,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,1401 St Charles Ave,New Orleans,70130.0
+25.0,Avian & Exotic Animal Hospital of Louisiana,2019,Delivered,2019-01-07 00:00:00,2019.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+-8.0,Avian & Exotic Animal Hospital of Louisiana,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+200.0,Banfield 1023 (Elmwood),2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+300.0,Banfield 1023 (Elmwood),2019,Delivered,2019-04-11 00:00:00,2019.0,4.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+30.0,Banfield 1023 (Elmwood),2019,Delivered,2019-12-20 00:00:00,2019.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+200.0,Banfield 1023 (Elmwood),2019,Delivered,2019-10-19 00:00:00,2019.0,10.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+500.0,Banfield 1034 (West Bank),2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+300.0,Banfield 1034 (West Bank),2019,Delivered,2019-06-10 00:00:00,2019.0,6.0,1321 Manhattan Blvd,Harvey,70058.0
+-300.0,Banfield 1034 (West Bank),2019,Returned,2019-12-30 00:00:00,2019.0,12.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Banfield 1034 (West Bank),2019,Delivered,2019-09-27 00:00:00,2019.0,9.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Banfield 1034 (West Bank),2019,Delivered,2019-11-04 00:00:00,2019.0,11.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Banfield 1175 (Veterans),2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+200.0,Banfield 1175 (Veterans),2019,Delivered,2019-05-02 00:00:00,2019.0,5.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+200.0,Batt Veterinary Services,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,,,
+200.0,Batt Veterinary Services,2019,Delivered,2019-04-23 00:00:00,2019.0,4.0,,,
+500.0,Batt Veterinary Services,2019,Delivered,2019-07-18 00:00:00,2019.0,7.0,,,
+-58.0,Batt Veterinary Services,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,,,
+-44.0,Batt Veterinary Services,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,,,
+10.0,Benson Veterinary Care LLC,2019,Delivered,2019-02-06 00:00:00,2019.0,2.0,328 Octavia St.,New Orleans,70115.0
+500.0,Canal Street Veterinary Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,4022 Canal St,New Orleans,70119.0
+500.0,Canal Street Veterinary Hospital,2019,Delivered,2019-05-21 00:00:00,2019.0,5.0,4022 Canal St,New Orleans,70119.0
+-80.0,Canal Street Veterinary Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,4022 Canal St,New Orleans,70119.0
+500.0,Carrollton Veterinary Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Carrollton Veterinary Hospital,2019,Delivered,2019-08-07 00:00:00,2019.0,8.0,3501 S. Carrollton Ave,New Orleans,70118.0
+100.0,Chalmette Pet Wellness Clinic & Hospital,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-44.0,Chalmette Pet Wellness Clinic & Hospital,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+100.0,Clearview Veterinary Hospital,2019,Delivered,2019-01-23 00:00:00,2019.0,1.0,4713 Trenton Street,Metairie,70006.0
+-26.0,Clearview Veterinary Hospital,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,4713 Trenton Street,Metairie,70006.0
+1000.0,Louisiana SPCA,2019,Delivered,2018-12-31 00:00:00,2018.0,12.0,,,
+400.0,Louisiana SPCA,2019,Delivered,2019-04-04 00:00:00,2019.0,4.0,,,
+-144.0,Louisiana SPCA,2019,Returned,2020-12-30 00:00:00,2020.0,12.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2019-05-02 00:00:00,2019.0,5.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2019-07-06 00:00:00,2019.0,7.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2019-08-22 00:00:00,2019.0,8.0,,,
+400.0,Louisiana SPCA,2019,Delivered,2019-10-07 00:00:00,2019.0,10.0,,,
+300.0,Louisiana SPCA,2019,Delivered,2019-11-20 00:00:00,2019.0,11.0,,,
+100.0,Louisiana SPCA,2019,Delivered,2019-12-19 00:00:00,2019.0,12.0,,,
+-14.0,Louisiana SPCA,2019,Returned,2020-01-30 00:00:00,2020.0,1.0,,,
+50.0,Convenient Home Veterinary Care,2019,Delivered,2019-01-02 00:00:00,2019.0,1.0,P.O. Box 1242,Harvey,70059.0
+-20.0,Convenient Home Veterinary Care,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,P.O. Box 1242,Harvey,70059.0
+500.0,Crescent City Veterinary Hospital,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2019,Delivered,2019-03-20 00:00:00,2019.0,3.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2019,Delivered,2019-05-15 00:00:00,2019.0,5.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Crescent City Veterinary Hospital,2019,Delivered,2019-07-30 00:00:00,2019.0,7.0,524 Jefferson Ave,New Orleans,70115.0
+300.0,Crescent City Veterinary Hospital,2019,Delivered,2019-11-11 00:00:00,2019.0,11.0,524 Jefferson Ave,New Orleans,70115.0
+50.0,Crescent City Veterinary Hospital,2019,Delivered,2019-01-06 00:00:00,2019.0,1.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Desoto Park Veterinary Clinic,2019,Delivered,2019-12-27 00:00:00,2019.0,12.0,2659 Desoto St,New Orleans,70119.0
+-100.0,Desoto Park Veterinary Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,2659 Desoto St,New Orleans,70119.0
+-79.0,Desoto Park Veterinary Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,2659 Desoto St,New Orleans,70119.0
+100.0,"Dog Day Afternoon, LLC",2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,831 Bordeaux St,New Orleans,70115.0
+48.0,"Dog Day Afternoon, LLC",2019,Delivered,2019-08-16 00:00:00,2019.0,8.0,831 Bordeaux St,New Orleans,70115.0
+170.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-11 00:00:00,2019.0,4.0,,,
+51.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-12 00:00:00,2019.0,4.0,,,
+173.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-12 00:00:00,2019.0,4.0,,,
+67.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-09 00:00:00,2019.0,4.0,,,
+165.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-09 00:00:00,2019.0,4.0,,,
+16.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-08 00:00:00,2019.0,4.0,,,
+100.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-08 00:00:00,2019.0,4.0,,,
+124.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-10 00:00:00,2019.0,4.0,,,
+150.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-10 00:00:00,2019.0,4.0,,,
+113.0,Annual Rabies Vaccination Drive,2019,Delivered,2019-04-08 00:00:00,2019.0,4.0,,,
+500.0,Elysian Fields Animal Clinic,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Elysian Fields Animal Clinic,2019,Delivered,2019-04-01 00:00:00,2019.0,4.0,4237 Elysian Fields Ave,New Orleans,70122.0
+200.0,Fur De Lis Vet Services,2019,Delivered,2019-01-02 00:00:00,2019.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+200.0,Fur De Lis Vet Services,2019,Delivered,2019-07-23 00:00:00,2019.0,7.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+-52.0,Fur De Lis Vet Services,2019,Returned,2020-01-21 00:00:00,2020.0,1.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+200.0,Gretna Animal Hospital,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,714 Kepler St,Gretna,70053.0
+100.0,Gretna Animal Hospital,2019,Delivered,2019-10-09 00:00:00,2019.0,10.0,714 Kepler St,Gretna,70053.0
+-80.0,Gretna Animal Hospital,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,714 Kepler St,Gretna,70053.0
+100.0,Hickory Knoll Veterinary Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,1625 Hickory Ave,Harahan,70123.0
+25.0,Home Veterinary Services,2019,Delivered,2019-01-07 00:00:00,2019.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+-12.0,Home Veterinary Services,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,"PO Box 11120, Jefferson, 10181-1120",,
+200.0,Jester Veterinarian Clinic,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,4 Westbank Expressway,,
+-35.0,Jester Veterinarian Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,4 Westbank Expressway,,
+500.0,Lake Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+-50.0,Lake Animal Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+100.0,Lakeside Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+100.0,Lakeside Animal Hospital,2019,Delivered,2019-07-25 00:00:00,2019.0,7.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+-49.0,Lakeside Animal Hospital,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+1000.0,Lakeview Veterinary Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+1000.0,Lakeview Veterinary Hospital,2019,Delivered,2019-05-15 00:00:00,2019.0,5.0,6245 Memphis Ave,New Orleans,70124.0
+300.0,Lakeview Veterinary Hospital,2019,Delivered,2019-11-21 00:00:00,2019.0,11.0,6245 Memphis Ave,New Orleans,70124.0
+-200.0,Lakeview Veterinary Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+100.0,Levy Veterinary Hospital,2019,Delivered,2019-05-16 00:00:00,2019.0,5.0,2305 W Esplanade Ave Ste. W,Kenner,70065.0
+-97.0,Levy Veterinary Hospital,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,2305 W Esplanade Ave Ste. W,Kenner,70065.0
+500.0,Louisiana SPCA,2019,Delivered,2018-12-31 00:00:00,2018.0,12.0,,,
+400.0,Louisiana SPCA,2019,Delivered,2019-04-12 00:00:00,2019.0,4.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2019-07-17 00:00:00,2019.0,7.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2019-10-07 00:00:00,2019.0,10.0,,,
+-146.0,Louisiana SPCA,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2018-12-31 00:00:00,2018.0,12.0,,,
+-98.0,Louisiana SPCA,2019,Returned,2020-01-15 00:00:00,2020.0,1.0,,,
+500.0,Louisiana SPCA,2019,Delivered,2018-12-21 00:00:00,2018.0,12.0,,,
+-14.0,Louisiana SPCA,2019,Returned,2020-01-30 00:00:00,2020.0,1.0,,,
+-200.0,Louisiana SPCA,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,,,
+1000.0,Low Cost Animal Medical Center,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,4300 Washington Ave.,New Orleans,70125.0
+1000.0,Low Cost Animal Medical Center,2019,Delivered,2019-04-10 00:00:00,2019.0,4.0,4300 Washington Ave.,New Orleans,70125.0
+1000.0,Low Cost Animal Medical Center,2019,Delivered,2019-08-01 00:00:00,2019.0,8.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Low Cost Animal Medical Center,2019,Delivered,2019-09-05 00:00:00,2019.0,9.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Magazine Street Animal Clinic,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2019,Delivered,2019-02-25 00:00:00,2019.0,2.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2019,Delivered,2019-05-13 00:00:00,2019.0,5.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2019,Delivered,2019-07-01 00:00:00,2019.0,7.0,3458 Magazine St,New Orleans,70115.0
+500.0,Magazine Street Animal Clinic,2019,Delivered,2019-09-05 00:00:00,2019.0,9.0,3458 Magazine St,New Orleans,70115.0
+300.0,Magazine Street Animal Clinic,2019,Delivered,2019-11-25 00:00:00,2019.0,11.0,3458 Magazine St,New Orleans,70115.0
+-49.0,Magazine Street Animal Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3458 Magazine St,New Orleans,70115.0
+100.0,"Manhattan Animal Clinic, LLC",2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,,,
+500.0,Maple Small Animal Clinic,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2019,Delivered,2019-02-20 00:00:00,2019.0,2.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2019,Delivered,2019-05-29 00:00:00,2019.0,5.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2019,Delivered,2019-07-19 00:00:00,2019.0,7.0,7608 Maple St,New Orleans,70118.0
+500.0,Maple Small Animal Clinic,2019,Delivered,2019-09-27 00:00:00,2019.0,9.0,7608 Maple St,New Orleans,70118.0
+-300.0,Maple Small Animal Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,7608 Maple St,New Orleans,70118.0
+100.0,Marrero Veterinary Clinic,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-1.0,Marrero Veterinary Clinic,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-14.0,Marrero Veterinary Clinic,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+25.0,MedVet New Orleans,2019,Delivered,2019-06-04 00:00:00,2019.0,6.0,2315 N CAUSEWAY BLVD,METAIRIE,70001.0
+1000.0,Metairie Small Animal Hospital,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,101 Metairie Rd,Metairie,70005.0
+-61.0,Metairie Small Animal Hospital,2019,Returned,2020-01-13 00:00:00,2020.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Metairie Small Animal Hospital,2019,Delivered,2019-03-15 00:00:00,2019.0,3.0,101 Metairie Rd,Metairie,70005.0
+500.0,Metairie Small Animal Hospital,2019,Delivered,2019-03-15 00:00:00,2019.0,3.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2019,Delivered,2019-06-10 00:00:00,2019.0,6.0,101 Metairie Rd,Metairie,70005.0
+1000.0,Metairie Small Animal Hospital,2019,Delivered,2019-08-30 00:00:00,2019.0,8.0,101 Metairie Rd,Metairie,70005.0
+-25.0,Metairie Small Animal Hospital,2019,Returned,2020-01-13 00:00:00,2020.0,1.0,101 Metairie Rd,Metairie,70005.0
+-77.0,Metairie Small Animal Hospital,2019,Returned,2019-01-13 00:00:00,2019.0,1.0,101 Metairie Rd,Metairie,70005.0
+-58.0,Metairie Small Animal Hospital,2019,Returned,2020-01-13 00:00:00,2020.0,1.0,101 Metairie Rd,Metairie,70005.0
+-195.0,Metairie Small Animal Hospital,2019,Returned,2020-01-13 00:00:00,2020.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Midcity Veterinary Hospital,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2019,Delivered,2019-03-12 00:00:00,2019.0,3.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2019,Delivered,2019-05-22 00:00:00,2019.0,5.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Midcity Veterinary Hospital,2019,Delivered,2019-07-22 00:00:00,2019.0,7.0,3821 Orleans Ave,New Orleans,70119.0
+400.0,Midcity Veterinary Hospital,2019,Delivered,2019-10-12 00:00:00,2019.0,10.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Midcity Veterinary Hospital,2019,Delivered,2019-12-06 00:00:00,2019.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+-58.0,Midcity Veterinary Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+-100.0,Unknown,2019,Returned,2020-01-14 00:00:00,2020.0,1.0,,,
+200.0,Natural Pet Care,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-13.0,Natural Pet Care,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+-100.0,Natural Pet Care,2019,Returned,2021-01-04 00:00:00,2021.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+-1.0,Natural Pet Care,2019,Returned,2021-01-04 00:00:00,2021.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+200.0,New Orleans Animal Health,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,2372 St. Claude Ave,New Orleans,70117.0
+200.0,New Orleans Animal Health,2019,Delivered,2019-06-25 00:00:00,2019.0,6.0,2372 St. Claude Ave,New Orleans,70117.0
+500.0,NOLA Animal Clinic,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2019,Delivered,2019-03-27 00:00:00,2019.0,3.0,4554 Downman Rd,New Orleans,70126.0
+600.0,NOLA Animal Clinic,2019,Delivered,2019-06-05 00:00:00,2019.0,6.0,4554 Downman Rd,New Orleans,70126.0
+500.0,NOLA Animal Clinic,2019,Delivered,2019-09-23 00:00:00,2019.0,9.0,4554 Downman Rd,New Orleans,70126.0
+-50.0,NOLA Animal Clinic,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,4554 Downman Rd,New Orleans,70126.0
+1000.0,Pet Care Center,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,2212 David Drive,Metairie,70003.0
+-23.0,Pet Care Center,2019,Returned,2020-02-18 00:00:00,2020.0,2.0,2212 David Drive,Metairie,70003.0
+-91.0,Pet Care Center,2019,Returned,2020-02-18 00:00:00,2020.0,2.0,2212 David Drive,Metairie,70003.0
+200.0,Pet Care Center,2019,Delivered,2019-06-04 00:00:00,2019.0,6.0,2212 David Drive,Metairie,70003.0
+500.0,Pet Care Center,2019,Delivered,2019-07-11 00:00:00,2019.0,7.0,2212 David Drive,Metairie,70003.0
+-54.0,Pet Care Center,2019,Returned,2020-02-18 00:00:00,2020.0,2.0,2212 David Drive,Metairie,70003.0
+-15.0,Pet Care Center,2019,Returned,2020-02-18 00:00:00,2020.0,2.0,2212 David Drive,Metairie,70003.0
+-1.0,Pet Care Center,2019,Returned,2020-02-18 00:00:00,2020.0,2.0,2212 David Drive,Metairie,70003.0
+100.0,Primary Veterinary Care,2019,Delivered,2019-09-05 00:00:00,2019.0,9.0,90 West Bank Expressway,Gretna,
+500.0,Prytania Veterinary Hospital,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2019,Delivered,2019-03-04 00:00:00,2019.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2019,Delivered,2019-05-13 00:00:00,2019.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2019,Delivered,2019-07-02 00:00:00,2019.0,7.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2019,Delivered,2019-09-27 00:00:00,2019.0,9.0,201 Nashville Ave.,New Orleans,70115.0
+100.0,Quality Pet Care,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+-92.0,Quality Pet Care,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+1000.0,Southern Animal Foundation,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,1823 Magazine Street,New Orleans,70130.0
+900.0,Southern Animal Foundation,2019,Delivered,2019-03-07 00:00:00,2019.0,3.0,1823 Magazine Street,New Orleans,70130.0
+1000.0,Southern Animal Foundation,2019,Delivered,2019-09-11 00:00:00,2019.0,9.0,1823 Magazine Street,New Orleans,70130.0
+-62.0,Southern Animal Foundation,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-400.0,Southern Animal Foundation,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Southshore Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,213 Live Oak St,Metairie,70005.0
+-100.0,Southshore Animal Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,213 Live Oak St,Metairie,70005.0
+200.0,Terry Parkway Animal Clinic,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,636 Terry Parkway,Terrytown,70056.0
+-154.0,Terry Parkway Animal Clinic,2019,Returned,2020-01-02 00:00:00,2020.0,1.0,636 Terry Parkway,Terrytown,70056.0
+200.0,The Cat Hospital of Metairie,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+200.0,The Cat Hospital of Metairie,2019,Delivered,2019-08-22 00:00:00,2019.0,8.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-85.0,The Cat Hospital of Metairie,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-100.0,The Cat Hospital of Metairie,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+200.0,The Cat Hospital of Metairie,2019,Delivered,2019-07-02 00:00:00,2019.0,7.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,The Cat Practice,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,1809 Magazine St,New Orleans,70130.0
+500.0,The Cat Practice,2019,Delivered,2019-06-17 00:00:00,2019.0,6.0,1809 Magazine St,New Orleans,70130.0
+-35.0,The Cat Practice,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1809 Magazine St,New Orleans,70130.0
+-100.0,The Cat Practice,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1809 Magazine St,New Orleans,70130.0
+-23.0,The Cat Practice,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1809 Magazine St,New Orleans,70130.0
+-100.0,The Cat Practice,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,1809 Magazine St,New Orleans,70130.0
+500.0,The French Quarter Vet,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,3041 N Rampart St,New Orleans,70116.0
+200.0,The French Quarter Vet,2019,Delivered,2019-06-04 00:00:00,2019.0,6.0,3041 N Rampart St,New Orleans,70116.0
+-18.0,The French Quarter Vet,2019,Returned,2020-01-03 00:00:00,2020.0,1.0,3041 N Rampart St,New Orleans,70116.0
+-2.0,The Inner Pup,2019,Returned,2020-01-21 00:00:00,2020.0,1.0,,,
+-41.0,The Inner Pup,2019,Returned,2020-01-21 00:00:00,2020.0,1.0,,,
+50.0,The Inner Pup,2019,Delivered,2019-10-16 00:00:00,2019.0,10.0,,,
+100.0,Thrive Affordable Vet Care (Midcity),2019,Delivered,2019-03-12 00:00:00,2019.0,3.0,,,
+200.0,Thrive Affordable Vet Care (Midcity),2019,Delivered,2019-10-02 00:00:00,2019.0,10.0,,,
+-100.0,Thrive Affordable Vet Care (Midcity),2019,Returned,2019-12-30 00:00:00,2019.0,12.0,,,
+500.0,Thrive Affordable Vet Care (Vets),2019,Delivered,2019-07-03 00:00:00,2019.0,7.0,3520 Veterans Memorial Blvd.,Metairie,70002.0
+-100.0,Thrive Affordable Vet Care (Vets),2019,Returned,2019-12-30 00:00:00,2019.0,12.0,3520 Veterans Memorial Blvd.,Metairie,70002.0
+300.0,Uptown Veterinary Hospital,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,731 Nashville Ave,New Orleans,70115.0
+-66.0,Uptown Veterinary Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,731 Nashville Ave,New Orleans,70115.0
+200.0,VCA Airline Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,5105 Airline Drive,Metairie,70001.0
+-2.0,VCA Airline Animal Hospital,2019,Returned,2020-01-09 00:00:00,2020.0,1.0,5105 Airline Drive,Metairie,70001.0
+-74.0,VCA Airline Animal Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,5105 Airline Drive,Metairie,70001.0
+500.0,VCA Causeway Animal Hospital,2019,Delivered,2018-12-26 00:00:00,2018.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+-9.0,VCA Causeway Animal Hospital,2019,Returned,2020-01-08 00:00:00,2020.0,1.0,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,Vetco @ Petco Mobile Clinic,2019,Delivered,2018-12-27 00:00:00,2018.0,12.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-35.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-66.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+500.0,Vetco @ Petco Mobile Clinic,2019,Delivered,2019-07-22 00:00:00,2019.0,7.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-92.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-74.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-98.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-16.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-100.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-3.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-22.0,Vetco @ Petco Mobile Clinic,2019,Returned,2020-01-07 00:00:00,2020.0,1.0,17485 Opportunity Ave,Baton Rouge,70817.0
+100.0,Westside Veterinary Hospital,2019,Delivered,2018-12-28 00:00:00,2018.0,12.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+100.0,Westside Veterinary Hospital,2019,Delivered,2019-05-21 00:00:00,2019.0,5.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+100.0,Westside Veterinary Hospital,2019,Delivered,2019-08-22 00:00:00,2019.0,8.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+-6.0,Westside Veterinary Hospital,2019,Returned,2019-12-30 00:00:00,2019.0,12.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+65.0,Unknown,2019,Delivered,2019-02-11 00:00:00,2019.0,2.0,,,
+-61.0,Unknown,2019,Returned,2019-01-31 00:00:00,2019.0,1.0,,,
+1000.0,Southern Animal Foundation,2020,Delivered,2019-12-19 00:00:00,2019.0,12.0,1823 Magazine Street,New Orleans,70130.0
+500.0,Crescent City Veterinary Hospital,2020,Delivered,2019-12-01 00:00:00,2019.0,12.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,The Cat Practice,2020,Delivered,2019-12-19 00:00:00,2019.0,12.0,1809 Magazine St,New Orleans,70130.0
+200.0,Banfield 1023 (Elmwood),2020,Delivered,2019-12-20 00:00:00,2019.0,12.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+300.0,Allstar Animal Clinic,2020,Delivered,2019-12-20 00:00:00,2019.0,12.0,4701 S Carrollton Ave,New Orleans,70119.0
+1000.0,Low Cost Animal Medical Center,2020,Delivered,2019-12-20 00:00:00,2019.0,12.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Louisiana SPCA,2020,Delivered,2019-12-20 00:00:00,2019.0,12.0,,,
+-2.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-1.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-1.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-400.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+200.0,Louisiana SPCA,2020,Delivered,2019-12-02 00:00:00,2019.0,12.0,,,
+100.0,Big Easy Animal Rescue,2020,Delivered,2020-01-21 00:00:00,2020.0,1.0,839 Spain St,New Orleans,70117.0
+700.0,Louisiana SPCA,2020,Delivered,2020-03-09 00:00:00,2020.0,3.0,,,
+500.0,Louisiana SPCA,2020,Delivered,2019-12-20 00:00:00,2019.0,12.0,,,
+500.0,Canal Street Veterinary Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,4022 Canal St,New Orleans,70119.0
+1000.0,Lakeview Veterinary Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,6245 Memphis Ave,New Orleans,70124.0
+1000.0,Pet Care Center,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,2212 David Drive,Metairie,70003.0
+500.0,Southshore Animal Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,213 Live Oak St,Metairie,70005.0
+-47.0,Southshore Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,213 Live Oak St,Metairie,70005.0
+500.0,Maple Small Animal Clinic,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,7608 Maple St,New Orleans,70118.0
+500.0,Midcity Veterinary Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Algiers Animal Clinic,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,3807 General DeGaulle,Algiers,70114.0
+500.0,VCA Causeway Animal Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,1315 N. Causeway Blvd,Metairie,70001.0
+500.0,NOLA Animal Clinic,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Elysian Fields Animal Clinic,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,4237 Elysian Fields Ave,New Orleans,70122.0
+500.0,Prytania Veterinary Hospital,2020,Delivered,2019-12-24 00:00:00,2019.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+1000.0,Metairie Small Animal Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,101 Metairie Rd,Metairie,70005.0
+-89.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+200.0,Banfield 1175 (Veterans),2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+300.0,Banfield 1023 (Elmwood),2020,Delivered,2020-05-01 00:00:00,2020.0,5.0,1000 S Clearview Prkwy Ste 1050,Harahan,70123.0
+500.0,Carrollton Veterinary Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Desoto Park Veterinary Clinic,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,2659 Desoto St,New Orleans,70119.0
+-100.0,Desoto Park Veterinary Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,2659 Desoto St,New Orleans,70119.0
+-80.0,Desoto Park Veterinary Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,2659 Desoto St,New Orleans,70119.0
+500.0,Lake Animal Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,604 Veterans Memorial Blvd,Metairie,70005.0
+-26.0,Lake Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,604 Veterans Memorial Blvd,Metairie,70005.0
+500.0,Louisiana SPCA,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,,,
+500.0,Magazine Street Animal Clinic,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,3458 Magazine St,New Orleans,70115.0
+-1.0,Magazine Street Animal Clinic,2020,Returned,2021-02-24 00:00:00,2021.0,2.0,3458 Magazine St,New Orleans,70115.0
+200.0,The Cat Hospital of Metairie,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+-31.0,The Cat Hospital of Metairie,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+300.0,Animal Medical & Surgical Hospital,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,3001 North Causeway Blvd,Metairie,70002.0
+500.0,Thrive Affordable Vet Care (Midcity),2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,,,
+500.0,Vetco @ Petco Mobile Clinic,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-9.0,Vetco @ Petco Mobile Clinic,2020,Returned,2021-02-09 00:00:00,2021.0,2.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-300.0,Vetco @ Petco Mobile Clinic,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,17485 Opportunity Ave,Baton Rouge,70817.0
+-300.0,Vetco @ Petco Mobile Clinic,2020,Returned,2021-02-09 00:00:00,2021.0,2.0,17485 Opportunity Ave,Baton Rouge,70817.0
+300.0,Banfield 1034 (West Bank),2020,Delivered,2020-02-17 00:00:00,2020.0,2.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Acadiana West Animal Clinic,2020,Delivered,2020-01-13 00:00:00,2020.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+-71.0,Acadiana West Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,2600 Barataria Boulevard Suite E,Marrero,70072.0
+100.0,"Dog Day Afternoon, LLC",2020,Delivered,2020-02-27 00:00:00,2020.0,2.0,831 Bordeaux St,New Orleans,70115.0
+300.0,Uptown Veterinary Hospital,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,731 Nashville Ave,New Orleans,70115.0
+-38.0,Uptown Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,731 Nashville Ave,New Orleans,70115.0
+200.0,The French Quarter Vet,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,3041 N Rampart St,New Orleans,70116.0
+500.0,Thrive Affordable Vet Care (Vets),2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,3520 Veterans Memorial Blvd.,Metairie,70002.0
+-200.0,Thrive Affordable Vet Care (Vets),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3520 Veterans Memorial Blvd.,Metairie,70002.0
+-34.0,Thrive Affordable Vet Care (Vets),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3520 Veterans Memorial Blvd.,Metairie,70002.0
+200.0,Ark Animal Hospital,2020,Delivered,2020-02-03 00:00:00,2020.0,2.0,4025 Jefferson Hwy,Jefferson,70121.0
+-53.0,Ark Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4025 Jefferson Hwy,Jefferson,70121.0
+-200.0,Banfield 1175 (Veterans),2020,Returned,2019-12-30 00:00:00,2019.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+200.0,Banfield 1175 (Veterans),2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+25.0,Home Veterinary Services,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,"PO Box 11120, Jefferson, 10181-1120",,
+-13.0,Home Veterinary Services,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,"PO Box 11120, Jefferson, 10181-1120",,
+200.0,Batt Veterinary Services,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,,,
+200.0,Fur De Lis Vet Services,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+-20.0,Fur De Lis Vet Services,2020,Returned,2021-03-11 00:00:00,2021.0,3.0,P.O. Box 791715   -   5045 Hastings Street,New Orleans - Metairie,
+200.0,Gretna Animal Hospital,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,714 Kepler St,Gretna,70053.0
+200.0,Jester Veterinarian Clinic,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,4 Westbank Expressway,,
+-7.0,Jester Veterinarian Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4 Westbank Expressway,,
+-41.0,Jester Veterinarian Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4 Westbank Expressway,,
+-100.0,Jester Veterinarian Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4 Westbank Expressway,,
+100.0,Natural Pet Care,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,3825 Hessmer Ave,Metairie,70002.0
+-23.0,Natural Pet Care,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3825 Hessmer Ave,Metairie,70002.0
+200.0,New Orleans Animal Health,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,2372 St. Claude Ave,New Orleans,70117.0
+200.0,Terry Parkway Animal Clinic,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,636 Terry Parkway,Terrytown,70056.0
+-31.0,Terry Parkway Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,636 Terry Parkway,Terrytown,70056.0
+-100.0,Terry Parkway Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,636 Terry Parkway,Terrytown,70056.0
+200.0,Batt Veterinary Services,2020,Delivered,2020-04-07 00:00:00,2020.0,4.0,,,
+200.0,VCA Airline Animal Hospital,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,5105 Airline Drive,Metairie,70001.0
+-59.0,VCA Airline Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,5105 Airline Drive,Metairie,70001.0
+100.0,Animal Care Center,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,313 David Dr.,Metairie,70003.0
+100.0,Avenue Animal Wellness and Emergency,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,1401 St Charles Ave,New Orleans,70130.0
+100.0,Chalmette Pet Wellness Clinic & Hospital,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-1.0,Chalmette Pet Wellness Clinic & Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+-2.0,Chalmette Pet Wellness Clinic & Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,705 E. Judge Perez Drive,Chalmette,70043.0
+100.0,Clearview Veterinary Hospital,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,4713 Trenton Street,Metairie,70006.0
+-31.0,Clearview Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4713 Trenton Street,Metairie,70006.0
+100.0,Hickory Knoll Veterinary Hospital,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,1625 Hickory Ave,Harahan,70123.0
+100.0,Lakeside Animal Hospital,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+100.0,Levy Veterinary Hospital,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,2305 W Esplanade Ave Ste. W,Kenner,70065.0
+-88.0,Levy Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,2305 W Esplanade Ave Ste. W,Kenner,70065.0
+100.0,"Manhattan Animal Clinic, LLC",2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,,,
+-39.0,"Manhattan Animal Clinic, LLC",2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+100.0,Dr. Mike's Animal House,2020,Delivered,2020-01-09 00:00:00,2020.0,1.0,1120 N. Rampart Street,New Orleans,
+100.0,Marrero Veterinary Clinic,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+-18.0,Marrero Veterinary Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4001 Lapalco Blvd,Harvey,70058.0
+100.0,Westside Veterinary Hospital,2020,Delivered,2020-04-21 00:00:00,2020.0,4.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+100.0,Quality Pet Care,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+-96.0,Quality Pet Care,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1600-B Belle Chasse Hwy,Gretna,70056.0
+100.0,Westside Veterinary Hospital,2020,Delivered,2019-12-27 00:00:00,2019.0,12.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+100.0,Avenue Animal Wellness and Emergency,2020,Delivered,2020-06-16 00:00:00,2020.0,6.0,1401 St Charles Ave,New Orleans,70130.0
+65.0,Unknown,2020,Delivered,2019-12-26 00:00:00,2019.0,12.0,,,
+-59.0,Unknown,2020,Returned,2021-01-20 00:00:00,2021.0,1.0,,,
+-9.0,Avian & Exotic Animal Hospital of Louisiana,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+25.0,Avian & Exotic Animal Hospital of Louisiana,2020,Delivered,2019-12-30 00:00:00,2019.0,12.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+-5.0,Avian & Exotic Animal Hospital of Louisiana,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+25.0,At Home Veterinary Care,2020,Delivered,2020-01-06 00:00:00,2020.0,1.0,PO Box 231145,Harahan,70123.0
+25.0,Hickory Knoll Veterinary Hospital,2020,Delivered,2020-10-07 00:00:00,2020.0,10.0,1625 Hickory Ave,Harahan,70123.0
+-1.0,Hickory Knoll Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1625 Hickory Ave,Harahan,70123.0
+50.0,Benson Veterinary Care LLC,2020,Delivered,2020-01-03 00:00:00,2020.0,1.0,328 Octavia St.,New Orleans,70115.0
+-48.0,Benson Veterinary Care LLC,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,328 Octavia St.,New Orleans,70115.0
+50.0,Convenient Home Veterinary Care,2020,Delivered,2020-01-03 00:00:00,2020.0,1.0,P.O. Box 1242,Harvey,70059.0
+-25.0,Convenient Home Veterinary Care,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,P.O. Box 1242,Harvey,70059.0
+50.0,Hickory Knoll Veterinary Hospital,2020,Delivered,2020-12-15 00:00:00,2020.0,12.0,1625 Hickory Ave,Harahan,70123.0
+-50.0,Hickory Knoll Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1625 Hickory Ave,Harahan,70123.0
+-24.0,Unknown,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,,,
+25.0,Avian & Exotic Animal Hospital of Louisiana,2020,Delivered,2020-08-17 00:00:00,2020.0,8.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+-24.0,Avian & Exotic Animal Hospital of Louisiana,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3635 N I-10 Service Rd. W.,Metairie,70002.0
+50.0,The Street Dog Coalition,2020,Delivered,2021-10-20 00:00:00,2021.0,10.0,,,
+-37.0,The Street Dog Coalition,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,,,
+900.0,Metairie Small Animal Hospital,2020,Delivered,2020-01-02 00:00:00,2020.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Crescent City Veterinary Hospital,2020,Delivered,2020-02-26 00:00:00,2020.0,2.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Maple Small Animal Clinic,2020,Delivered,2020-03-03 00:00:00,2020.0,3.0,7608 Maple St,New Orleans,70118.0
+500.0,Magazine Street Animal Clinic,2020,Delivered,2020-03-03 00:00:00,2020.0,3.0,3458 Magazine St,New Orleans,70115.0
+-1.0,Magazine Street Animal Clinic,2020,Returned,2021-02-24 00:00:00,2021.0,2.0,3458 Magazine St,New Orleans,70115.0
+500.0,Louisiana SPCA,2020,Delivered,2020-03-03 00:00:00,2020.0,3.0,,,
+-87.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-52.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-200.0,Louisiana SPCA,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,,,
+500.0,Prytania Veterinary Hospital,2020,Delivered,2020-03-06 00:00:00,2020.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Midcity Veterinary Hospital,2020,Delivered,2020-03-14 00:00:00,2020.0,3.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,NOLA Animal Clinic,2020,Delivered,2020-03-24 00:00:00,2020.0,3.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Louisiana SPCA,2020,Delivered,2020-03-26 00:00:00,2020.0,3.0,,,
+1000.0,Low Cost Animal Medical Center,2020,Delivered,2020-04-14 00:00:00,2020.0,4.0,4300 Washington Ave.,New Orleans,70125.0
+-91.0,Unknown,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+300.0,Banfield 1034 (West Bank),2020,Delivered,2020-04-28 00:00:00,2020.0,4.0,1321 Manhattan Blvd,Harvey,70058.0
+200.0,Batt Veterinary Services,2020,Delivered,2020-06-05 00:00:00,2020.0,6.0,,,
+500.0,Crescent City Veterinary Hospital,2020,Delivered,2020-05-08 00:00:00,2020.0,5.0,524 Jefferson Ave,New Orleans,70115.0
+1000.0,Metairie Small Animal Hospital,2020,Delivered,2020-05-08 00:00:00,2020.0,5.0,101 Metairie Rd,Metairie,70005.0
+500.0,Allstar Animal Clinic,2020,Delivered,2020-05-08 00:00:00,2020.0,5.0,4701 S Carrollton Ave,New Orleans,70119.0
+500.0,Thrive Affordable Vet Care (Midcity),2020,Delivered,2020-05-13 00:00:00,2020.0,5.0,,,
+500.0,NOLA Animal Clinic,2020,Delivered,2020-05-13 00:00:00,2020.0,5.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Midcity Veterinary Hospital,2020,Delivered,2020-05-18 00:00:00,2020.0,5.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,Magazine Street Animal Clinic,2020,Delivered,2020-05-18 00:00:00,2020.0,5.0,3458 Magazine St,New Orleans,70115.0
+500.0,Prytania Veterinary Hospital,2020,Delivered,2020-05-27 00:00:00,2020.0,5.0,201 Nashville Ave.,New Orleans,70115.0
+500.0,Maple Small Animal Clinic,2020,Delivered,2020-06-02 00:00:00,2020.0,6.0,7608 Maple St,New Orleans,70118.0
+500.0,Algiers Animal Clinic,2020,Delivered,2020-06-03 00:00:00,2020.0,6.0,3807 General DeGaulle,Algiers,70114.0
+1000.0,Lakeview Veterinary Hospital,2020,Delivered,2020-06-05 00:00:00,2020.0,6.0,6245 Memphis Ave,New Orleans,70124.0
+1000.0,Southern Animal Foundation,2020,Delivered,2020-06-16 00:00:00,2020.0,6.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-1.0,Southern Animal Foundation,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1823 Magazine Street,New Orleans,70130.0
+-69.0,The Cat Practice,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1809 Magazine St,New Orleans,70130.0
+500.0,The Cat Practice,2020,Delivered,2020-06-16 00:00:00,2020.0,6.0,1809 Magazine St,New Orleans,70130.0
+-22.0,The Cat Practice,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1809 Magazine St,New Orleans,70130.0
+-100.0,The Cat Practice,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1809 Magazine St,New Orleans,70130.0
+500.0,Louisiana SPCA,2020,Delivered,2021-06-17 00:00:00,2021.0,6.0,,,
+-56.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-93.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-500.0,Banfield 1034 (West Bank),2020,Returned,2020-06-22 00:00:00,2020.0,6.0,1321 Manhattan Blvd,Harvey,70058.0
+500.0,Banfield 1034 (West Bank),2020,Delivered,2020-06-22 00:00:00,2020.0,6.0,1321 Manhattan Blvd,Harvey,70058.0
+500.0,Canal Street Veterinary Hospital,2020,Delivered,2020-06-30 00:00:00,2020.0,6.0,4022 Canal St,New Orleans,70119.0
+500.0,Louisiana SPCA,2020,Delivered,2020-07-02 00:00:00,2020.0,7.0,,,
+500.0,Elysian Fields Animal Clinic,2020,Delivered,2021-07-07 00:00:00,2021.0,7.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-100.0,Elysian Fields Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-26.0,Elysian Fields Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4237 Elysian Fields Ave,New Orleans,70122.0
+-100.0,Elysian Fields Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4237 Elysian Fields Ave,New Orleans,70122.0
+200.0,Gretna Animal Hospital,2020,Delivered,2021-07-02 00:00:00,2021.0,7.0,714 Kepler St,Gretna,70053.0
+-10.0,Gretna Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,714 Kepler St,Gretna,70053.0
+-100.0,Gretna Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,714 Kepler St,Gretna,70053.0
+300.0,Westside Veterinary Hospital,2020,Delivered,2020-07-08 00:00:00,2020.0,7.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+-78.0,Westside Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+-1.0,Westside Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+500.0,Magazine Street Animal Clinic,2020,Delivered,2020-07-03 00:00:00,2020.0,7.0,3458 Magazine St,New Orleans,70115.0
+500.0,NOLA Animal Clinic,2020,Delivered,2020-07-08 00:00:00,2020.0,7.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Crescent City Veterinary Hospital,2020,Delivered,2020-07-08 00:00:00,2020.0,7.0,524 Jefferson Ave,New Orleans,70115.0
+100.0,Pet Care Center,2020,Delivered,2020-07-10 00:00:00,2020.0,7.0,2212 David Drive,Metairie,70003.0
+100.0,Lakeside Animal Hospital,2020,Delivered,2020-07-14 00:00:00,2020.0,7.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+-29.0,Lakeside Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3838 Veterans Mem. Blvd.,Metairie,70002.0
+200.0,Banfield 1175 (Veterans),2020,Delivered,2020-07-14 00:00:00,2020.0,7.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-45.0,Banfield 1175 (Veterans),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,6851 Veterans Memorial Blvd,Metairie,70003.0
+-200.0,The Cat Hospital of Metairie,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+200.0,The Cat Hospital of Metairie,2020,Delivered,2020-07-14 00:00:00,2020.0,7.0,1500 Veterans Memorial Blvd.,Metairie,70005.0
+500.0,Midcity Veterinary Hospital,2020,Delivered,2020-07-22 00:00:00,2020.0,7.0,3821 Orleans Ave,New Orleans,70119.0
+100.0,Big Easy Animal Rescue,2020,Delivered,2020-07-16 00:00:00,2020.0,7.0,839 Spain St,New Orleans,70117.0
+200.0,Batt Veterinary Services,2020,Delivered,2020-08-18 00:00:00,2020.0,8.0,,,
+100.0,"Dog Day Afternoon, LLC",2020,Delivered,2020-08-18 00:00:00,2020.0,8.0,831 Bordeaux St,New Orleans,70115.0
+100.0,Avenue Animal Wellness and Emergency,2020,Delivered,2020-09-01 00:00:00,2020.0,9.0,1401 St Charles Ave,New Orleans,70130.0
+1000.0,Low Cost Animal Medical Center,2020,Delivered,2020-07-29 00:00:00,2020.0,7.0,4300 Washington Ave.,New Orleans,70125.0
+500.0,Prytania Veterinary Hospital,2020,Delivered,2020-07-29 00:00:00,2020.0,7.0,201 Nashville Ave.,New Orleans,70115.0
+1000.0,Metairie Small Animal Hospital,2020,Delivered,2020-07-30 00:00:00,2020.0,7.0,101 Metairie Rd,Metairie,70005.0
+500.0,Maple Small Animal Clinic,2020,Delivered,2020-08-18 00:00:00,2020.0,8.0,7608 Maple St,New Orleans,70118.0
+1000.0,Pet Care Center,2020,Delivered,2020-08-24 00:00:00,2020.0,8.0,2212 David Drive,Metairie,70003.0
+500.0,Magazine Street Animal Clinic,2020,Delivered,2020-08-27 00:00:00,2020.0,8.0,3458 Magazine St,New Orleans,70115.0
+-1.0,Magazine Street Animal Clinic,2020,Returned,2021-02-24 00:00:00,2021.0,2.0,3458 Magazine St,New Orleans,70115.0
+1000.0,Louisiana SPCA,2020,Delivered,2020-08-27 00:00:00,2020.0,8.0,,,
+-20.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+500.0,Carrollton Veterinary Hospital,2020,Delivered,2021-07-05 00:00:00,2021.0,7.0,3501 S. Carrollton Ave,New Orleans,70118.0
+-5.0,Carrollton Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3501 S. Carrollton Ave,New Orleans,70118.0
+-300.0,Carrollton Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3501 S. Carrollton Ave,New Orleans,70118.0
+500.0,Crescent City Veterinary Hospital,2020,Delivered,2020-09-04 00:00:00,2020.0,9.0,524 Jefferson Ave,New Orleans,70115.0
+500.0,Thrive Affordable Vet Care (Midcity),2020,Delivered,2020-09-09 00:00:00,2020.0,9.0,,,
+-62.0,Thrive Affordable Vet Care (Midcity),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-300.0,Thrive Affordable Vet Care (Midcity),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+500.0,Midcity Veterinary Hospital,2020,Delivered,2020-09-25 00:00:00,2020.0,9.0,3821 Orleans Ave,New Orleans,70119.0
+500.0,NOLA Animal Clinic,2020,Delivered,2020-09-28 00:00:00,2020.0,9.0,4554 Downman Rd,New Orleans,70126.0
+500.0,Prytania Veterinary Hospital,2020,Delivered,2020-02-28 00:00:00,2020.0,2.0,201 Nashville Ave.,New Orleans,70115.0
+-11.0,Prytania Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,201 Nashville Ave.,New Orleans,70115.0
+1000.0,Low Cost Animal Medical Center,2020,Delivered,2020-10-07 00:00:00,2020.0,10.0,4300 Washington Ave.,New Orleans,70125.0
+-69.0,Low Cost Animal Medical Center,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+-100.0,Low Cost Animal Medical Center,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+-100.0,Low Cost Animal Medical Center,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+1000.0,Metairie Small Animal Hospital,2020,Delivered,2020-10-08 00:00:00,2020.0,10.0,101 Metairie Rd,Metairie,70005.0
+-34.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+-3.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+-64.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+-100.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+-96.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+-200.0,Metairie Small Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,101 Metairie Rd,Metairie,70005.0
+500.0,Magazine Street Animal Clinic,2020,Delivered,2020-10-07 00:00:00,2020.0,10.0,3458 Magazine St,New Orleans,70115.0
+-1.0,Magazine Street Animal Clinic,2020,Returned,2021-02-24 00:00:00,2021.0,2.0,3458 Magazine St,New Orleans,70115.0
+-1.0,Magazine Street Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3458 Magazine St,New Orleans,70115.0
+-9.0,Magazine Street Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3458 Magazine St,New Orleans,70115.0
+-4.0,Magazine Street Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3458 Magazine St,New Orleans,70115.0
+100.0,VCA Causeway Animal Hospital,2020,Delivered,2020-10-12 00:00:00,2020.0,10.0,1315 N. Causeway Blvd,Metairie,70001.0
+-53.0,VCA Causeway Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1315 N. Causeway Blvd,Metairie,70001.0
+200.0,Batt Veterinary Services,2020,Delivered,2020-10-16 00:00:00,2020.0,10.0,,,
+-36.0,Batt Veterinary Services,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-99.0,Banfield 1034 (West Bank),2020,Returned,2021-01-04 00:00:00,2021.0,1.0,1321 Manhattan Blvd,Harvey,70058.0
+100.0,Banfield 1034 (West Bank),2020,Delivered,2020-10-22 00:00:00,2020.0,10.0,1321 Manhattan Blvd,Harvey,70058.0
+-100.0,Lake Animal Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,604 Veterans Memorial Blvd,Metairie,70005.0
+100.0,Lake Animal Hospital,2020,Delivered,2020-11-10 00:00:00,2020.0,11.0,604 Veterans Memorial Blvd,Metairie,70005.0
+500.0,Algiers Animal Clinic,2020,Delivered,2020-10-16 00:00:00,2020.0,10.0,3807 General DeGaulle,Algiers,70114.0
+-1.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-21.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+500.0,Prytania Veterinary Hospital,2020,Delivered,2020-12-21 00:00:00,2020.0,12.0,201 Nashville Ave.,New Orleans,70115.0
+-1.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-200.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+100.0,Allstar Animal Clinic,2020,Delivered,2020-11-16 00:00:00,2020.0,11.0,4701 S Carrollton Ave,New Orleans,70119.0
+300.0,Maple Small Animal Clinic,2020,Delivered,2020-11-16 00:00:00,2020.0,11.0,7608 Maple St,New Orleans,70118.0
+-93.0,Maple Small Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,7608 Maple St,New Orleans,70118.0
+-100.0,Maple Small Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,7608 Maple St,New Orleans,70118.0
+200.0,Lakeview Veterinary Hospital,2020,Delivered,2020-11-25 00:00:00,2020.0,11.0,6245 Memphis Ave,New Orleans,70124.0
+-1.0,Lakeview Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,6245 Memphis Ave,New Orleans,70124.0
+-49.0,Lakeview Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,6245 Memphis Ave,New Orleans,70124.0
+-100.0,Big Easy Animal Rescue,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,839 Spain St,New Orleans,70117.0
+100.0,Big Easy Animal Rescue,2020,Delivered,2020-12-21 00:00:00,2020.0,12.0,839 Spain St,New Orleans,70117.0
+300.0,Crescent City Veterinary Hospital,2020,Delivered,2021-11-19 00:00:00,2021.0,11.0,524 Jefferson Ave,New Orleans,70115.0
+-84.0,Crescent City Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,524 Jefferson Ave,New Orleans,70115.0
+-200.0,Crescent City Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,524 Jefferson Ave,New Orleans,70115.0
+-100.0,Allstar Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Allstar Animal Clinic,2020,Delivered,2021-01-04 00:00:00,2021.0,1.0,4701 S Carrollton Ave,New Orleans,70119.0
+100.0,Southern Animal Foundation,2020,Delivered,2020-12-14 00:00:00,2020.0,12.0,1823 Magazine Street,New Orleans,70130.0
+300.0,Midcity Veterinary Hospital,2020,Delivered,2020-12-08 00:00:00,2020.0,12.0,3821 Orleans Ave,New Orleans,70119.0
+-100.0,Midcity Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3821 Orleans Ave,New Orleans,70119.0
+-33.0,Midcity Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3821 Orleans Ave,New Orleans,70119.0
+-100.0,NOLA Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4554 Downman Rd,New Orleans,70126.0
+200.0,NOLA Animal Clinic,2020,Delivered,2020-12-28 00:00:00,2020.0,12.0,4554 Downman Rd,New Orleans,70126.0
+-200.0,Prytania Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,201 Nashville Ave.,New Orleans,70115.0
+-100.0,Prytania Veterinary Hospital,2020,Returned,2021-03-18 00:00:00,2021.0,3.0,201 Nashville Ave.,New Orleans,70115.0
+-57.0,Plaquemines,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-97.0,Plaquemines,2020,Returned,2021-02-13 00:00:00,2021.0,2.0,,,
+-300.0,Plaquemines,2020,Returned,2021-02-13 00:00:00,2021.0,2.0,,,
+-3.0,Low Cost Animal Medical Center,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+-8.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-3.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-21.0,Louisiana SPCA,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,,,
+-11.0,Westside Veterinary Hospital,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,91 Westbank Expressway Suite 540,Gretna,70053.0
+-33.0,Big Easy Animal Rescue,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,839 Spain St,New Orleans,70117.0
+-4.0,Low Cost Animal Medical Center,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4300 Washington Ave.,New Orleans,70125.0
+-1.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-17.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-39.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-15.0,Algiers Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,3807 General DeGaulle,Algiers,70114.0
+-51.0,NOLA Animal Clinic,2020,Returned,2021-01-04 00:00:00,2021.0,1.0,4554 Downman Rd,New Orleans,70126.0

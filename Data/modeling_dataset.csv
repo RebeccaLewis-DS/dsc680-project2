@@ -1,0 +1,1521 @@
+"volume","clinic","tag_year","action","action_date","action_year","action_month","address","city","zip"
+1000,"Southern Animal Foundation",2015,"Delivered",2014-12-12,"2014","12","1823 Magazine Street","New Orleans","70130"
+200,"Banfield 1023 (Elmwood)",2015,"Delivered",2014-12-13,"2014","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+100,"Animal Care Center",2015,"Delivered",2014-12-29,"2014","12","313 David Dr.","Metairie","70003"
+-83,"Animal Care Center",2015,"Returned",2016-01-05,"2016","1","313 David Dr.","Metairie","70003"
+100,"Allstar Animal Clinic",2015,"Delivered",2014-12-24,"2014","12","4701 S Carrollton Ave","New Orleans","70119"
+1000,"Metairie Small Animal Hospital",2015,"Delivered",2014-12-18,"2014","12","101 Metairie Rd","Metairie","70005"
+-48,"Metairie Small Animal Hospital",2015,"Returned",2015-01-13,"2015","1","101 Metairie Rd","Metairie","70005"
+500,"Crescent City Veterinary Hospital",2015,"Delivered",2014-12-18,"2014","12","524 Jefferson Ave","New Orleans","70115"
+500,"Algiers Animal Clinic",2015,"Delivered",2014-12-26,"2014","12","3807 General DeGaulle","Algiers","70114"
+200,"Animal Medical & Surgical Hospital",2015,"Delivered",2014-12-27,"2014","12","3001 North Causeway Blvd","Metairie","70002"
+30,"At Home Veterinary Care",2015,"Delivered",2015-02-04,"2015","2","PO Box 231145","Harahan","70123"
+50,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-28,"2015","3",NA,NA,NA
+100,"Aurora Animal Hospital",2015,"Delivered",2015-01-05,"2015","1","565 Holmes Blvd","Gretna","70056"
+100,"House Calls!",2015,"Delivered",2015-01-07,"2015","1",NA,NA,NA
+-85,"House Calls!",2015,"Returned",2016-02-02,"2016","2",NA,NA,NA
+100,"Banfield 1175 (Veterans)",2015,"Delivered",2014-12-29,"2014","12","6851 Veterans Memorial Blvd","Metairie","70003"
+200,"Canal Street Veterinary Hospital",2015,"Delivered",2014-12-24,"2014","12","4022 Canal St","New Orleans","70119"
+100,"Villalobos",2015,"Delivered",2015-11-04,"2015","11",NA,NA,NA
+100,"Chateau Veterinary Hospital",2015,"Delivered",2014-12-29,"2014","12","704 W. Esplanade Ave ","Kenner","70065"
+-98,"Chateau Veterinary Hospital",2015,"Returned",2016-01-05,"2016","1","704 W. Esplanade Ave ","Kenner","70065"
+-2,"Chateau Veterinary Hospital",2015,"Returned",2015-11-15,"2015","11","704 W. Esplanade Ave ","Kenner","70065"
+100,"Manhattan Animal Clinic, LLC",2015,"Delivered",2014-12-27,"2014","12",NA,"Harvey",NA
+58,"Manhattan Animal Clinic, LLC",2015,"Delivered",2015-12-27,"2015","12",NA,"Harvey",NA
+100,"Natural Pet Care",2015,"Delivered",2014-12-29,"2014","12","3825 Hessmer Ave","Metairie","70002"
+200,"Banfield 1034 (West Bank)",2015,"Delivered",2014-12-26,"2014","12","1321 Manhattan Blvd","Harvey","70058"
+100,"Banfield 1175 (Veterans)",2015,"Delivered",2014-12-29,"2014","12","6851 Veterans Memorial Blvd","Metairie","70003"
+300,"Carrollton Veterinary Hospital",2015,"Delivered",2014-12-24,"2014","12","3501 S. Carrollton Ave","New Orleans","70118"
+100,"Clearview Veterinary Hospital",2015,"Delivered",2014-12-29,"2014","12","4713 Trenton Street","Metairie","70006"
+-28,"Clearview Veterinary Hospital",2015,"Returned",2016-01-05,"2016","1","4713 Trenton Street","Metairie","70006"
+100,"Convenient Home Veterinary Care",2015,"Delivered",2015-01-05,"2015","1","P.O. Box 1242","Harvey","70059"
+-54,"Convenient Home Veterinary Care",2015,"Returned",2016-03-23,"2016","3","P.O. Box 1242","Harvey","70059"
+500,"Maple Small Animal Clinic",2015,"Delivered",2014-12-24,"2014","12","7608 Maple St","New Orleans","70118"
+200,"Desoto Park Veterinary Clinic",2015,"Delivered",2014-12-29,"2014","12","2659 Desoto St","New Orleans","70119"
+300,"Doskey Mobile Veterinary Care",2015,"Delivered",2015-01-06,"2015","1",NA,"Gretna",NA
+500,"Elysian Fields Animal Clinic",2015,"Delivered",2014-12-27,"2014","12","4237 Elysian Fields Ave","New Orleans","70122"
+-10,"Fur De Lis Vet Services",2015,"Returned",2015-01-25,"2015","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+100,"Fur De Lis Vet Services",2015,"Delivered",2015-01-27,"2015","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+100,"Gretna Animal Hospital",2015,"Delivered",2014-12-29,"2014","12","714 Kepler St","Gretna","70053"
+100,"Hickory Knoll Veterinary Hospital",2015,"Delivered",2014-12-29,"2014","12","1625 Hickory Ave","Harahan","70123"
+100,"Home Veterinary Services",2015,"Delivered",2015-02-13,"2015","2","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-1,"Home Veterinary Services",2015,"Returned",2015-11-15,"2015","11","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-3,"Home Veterinary Services",2015,"Returned",2015-11-15,"2015","11","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-70,"Home Veterinary Services",2015,"Returned",2016-01-05,"2016","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+100,"Jester Veterinarian Clinic",2015,"Delivered",2014-12-26,"2014","12","4 Westbank Expressway","Westwego",NA
+200,"Lake Animal Hospital",2015,"Delivered",2014-12-27,"2014","12","604 Veterans Memorial Blvd","Metairie","70005"
+300,"Midcity Veterinary Hospital",2015,"Delivered",2014-12-24,"2014","12","3821 Orleans Ave","New Orleans","70119"
+500,"Lakeview Veterinary Hospital",2015,"Delivered",2014-12-27,"2014","12","6245 Memphis Ave","New Orleans","70124"
+500,"Magazine Street Animal Clinic",2015,"Delivered",2014-12-24,"2014","12","3458 Magazine St","New Orleans","70115"
+500,"NOLA Animal Clinic",2015,"Delivered",2014-12-27,"2014","12","4554 Downman Rd","New Orleans","70126"
+500,"Pet Care Center",2015,"Delivered",2014-12-26,"2014","12","2212 David Drive","Metairie","70003"
+50,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-26,"2015","3",NA,NA,NA
+50,"W. Esplanade Vet Clinic",2015,"Delivered",2014-12-29,"2014","12","3640 W. Esplanade Ave","Metairie","70002"
+-34,"W. Esplanade Vet Clinic",2015,"Returned",NA,"Unkno","Unkno","3640 W. Esplanade Ave","Metairie","70002"
+100,"Terry Parkway Animal Clinic",2015,"Delivered",2014-12-29,"2014","12","636 Terry Parkway","Terrytown","70056"
+-43,"Terry Parkway Animal Clinic",2015,"Returned",2016-01-05,"2016","1","636 Terry Parkway","Terrytown","70056"
+100,"Southshore Animal Hospital",2015,"Delivered",2014-12-29,"2014","12","213 Live Oak St","Metairie","70005"
+100,"Terrytown Veterinary Clinic",2015,"Delivered",2014-12-29,"2014","12","867 Terry Parkway","Terrytown","70056"
+-51,"Terrytown Veterinary Clinic",2015,"Returned",2015-12-29,"2015","12","867 Terry Parkway","Terrytown","70056"
+100,"The Cat Hospital of Metairie",2015,"Delivered",2014-12-27,"2014","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"Prytania Veterinary Hospital",2015,"Delivered",2014-12-24,"2014","12","201 Nashville Ave.","New Orleans","70115"
+500,"The Cat Practice",2015,"Delivered",2014-12-29,"2014","12","1809 Magazine St","New Orleans","70130"
+100,"Pets R Our World",2015,"Delivered",2015-01-08,"2015","1","PO Box 9055","Metairie","70055"
+44,"Lakeview Veterinary Hospital",2015,"Delivered",2015-12-20,"2015","12","6245 Memphis Ave","New Orleans","70124"
+-44,"Villalobos",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+90,"Villalobos",2015,"Delivered",2015-11-04,"2015","11",NA,"New Orleans",NA
+10,"Vet-a-GoGo",2015,"Delivered",2015-09-24,"2015","9","3517 Chartres St","New Orleans","70117"
+100,"Uptown Veterinary Hospital",2015,"Delivered",2014-12-27,"2014","12","731 Nashville Ave","New Orleans","70115"
+200,"VCA Airline Animal Hospital",2015,"Delivered",2014-12-29,"2014","12","5105 Airline Drive","Metairie","70001"
+-80,"VCA Airline Animal Hospital",2015,"Returned",2015-12-28,"2015","12","5105 Airline Drive","Metairie","70001"
+500,"The French Quarter Vet",2015,"Delivered",2015-01-06,"2015","1","3041 N Rampart St","New Orleans","70116"
+200,"VCA Causeway Animal Hospital",2015,"Delivered",2014-12-27,"2014","12","1315 N. Causeway Blvd","Metairie","70001"
+100,"Allstar Animal Clinic",2015,"Delivered",2015-08-17,"2015","8","4701 S Carrollton Ave","New Orleans","70119"
+200,"Vet Relief Foundation",2015,"Delivered",2015-09-10,"2015","9","2611 Florida St ",NA,NA
+500,"Vetco @ Petco Mobile Clinic",2015,"Delivered",2014-12-27,"2014","12","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Banfield 1034 (West Bank)",2015,"Delivered",1941-09-01,"1941","9","1321 Manhattan Blvd","Harvey","70058"
+200,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-25,"2015","3",NA,NA,NA
+-10,"Annual Rabies Vaccination Drive",2015,"Returned",2015-03-30,"2015","3",NA,NA,NA
+10,"Gretna Animal Hospital",2015,"Delivered",2015-12-08,"2015","12","714 Kepler St","Gretna","70053"
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-10-07,"2015","10",NA,NA,NA
+100,"Lake Animal Hospital",2015,"Delivered",2015-10-07,"2015","10","604 Veterans Memorial Blvd","Metairie","70005"
+100,"Desoto Park Veterinary Clinic",2015,"Delivered",2015-05-07,"2015","5","2659 Desoto St","New Orleans","70119"
+-20,"Desoto Park Veterinary Clinic",2015,"Returned",2015-12-28,"2015","12","2659 Desoto St","New Orleans","70119"
+200,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-26,"2015","3",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+-19,"Annual Rabies Vaccination Drive",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+100,"River Ridge Veterinary Clinic",2015,"Delivered",2015-05-06,"2015","5","9019 Jefferson Hwy","River Ridge","70123"
+500,"Louisiana SPCA",2015,"Delivered",2014-12-24,"2014","12",NA,NA,NA
+500,"Louisiana SPCA",2015,"Delivered",2014-12-24,"2014","12",NA,"New Orleans",NA
+500,"Louisiana SPCA",2015,"Delivered",2015-01-02,"2015","1",NA,NA,NA
+-18,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+-12,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+-25,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+-25,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+-25,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+500,"Louisiana SPCA",2015,"Delivered",2015-02-06,"2015","2",NA,NA,NA
+500,"Prytania Veterinary Hospital",2015,"Delivered",2015-02-28,"2015","2","201 Nashville Ave.","New Orleans","70115"
+300,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-28,"2015","3",NA,NA,NA
+35,"Banfield 1034 (West Bank)",2015,"Delivered",2015-12-07,"2015","12","1321 Manhattan Blvd","Harvey","70058"
+-143,"Annual Rabies Vaccination Drive",2015,"Returned",2015-08-11,"2015","8",NA,NA,NA
+75,"The SULA Foundation",2015,"Delivered",2014-11-17,"2014","11",NA,NA,NA
+25,"Natural Pet Care",2015,"Delivered",2015-11-11,"2015","11","3825 Hessmer Ave","Metairie","70002"
+-20,"Natural Pet Care",2015,"Returned",2016-01-05,"2016","1","3825 Hessmer Ave","Metairie","70002"
+300,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-24,"2015","3",NA,NA,NA
+76,"Allstar Animal Clinic",2015,"Delivered",2015-10-21,"2015","10","4701 S Carrollton Ave","New Orleans","70119"
+50,"Chalmette Pet Wellness Clinic & Hospital",2015,"Delivered",2015-09-17,"2015","9","705 E. Judge Perez Drive","Chalmette","70043"
+200,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-24,"2015","3",NA,NA,NA
+-69,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+-16,"Chalmette Pet Wellness Clinic & Hospital",2015,"Returned",2016-01-28,"2016","1","705 E. Judge Perez Drive","Chalmette","70043"
+-53,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+50,"Hickory Knoll Veterinary Hospital",2015,"Delivered",2015-09-15,"2015","9","1625 Hickory Ave","Harahan","70123"
+300,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-25,"2015","3",NA,NA,NA
+-25,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+50,"Prytania Veterinary Hospital",2015,"Delivered",2015-12-02,"2015","12","201 Nashville Ave.","New Orleans","70115"
+50,"Dog Day Afternoon, LLC",2015,"Delivered",2015-11-30,"2015","11","831 Bordeaux St","New Orleans","70115"
+-24,"Dog Day Afternoon, LLC",2015,"Returned",2016-01-05,"2016","1","831 Bordeaux St","New Orleans","70115"
+300,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-24,"2015","3",NA,NA,NA
+-5,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+100,"Banfield 1175 (Veterans)",2015,"Delivered",2015-05-07,"2015","5","6851 Veterans Memorial Blvd","Metairie","70003"
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-21,"2015","4",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-28,"2015","3",NA,NA,NA
+-23,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+100,"The SULA Foundation",2015,"Delivered",2015-05-08,"2015","5",NA,NA,NA
+400,"Annual Rabies Vaccination Drive",2015,"Delivered",2015-03-26,"2015","3",NA,NA,NA
+-45,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+100,"Banfield 1175 (Veterans)",2015,"Delivered",2015-05-07,"2015","5","6851 Veterans Memorial Blvd","Metairie","70003"
+-100,"Annual Rabies Vaccination Drive",2015,"Returned",2015-04-20,"2015","4",NA,NA,NA
+100,"Marrero Veterinary Clinic",2015,"Delivered",2015-04-24,"2015","4","4001 Lapalco Blvd","Harvey","70058"
+200,"Lake Animal Hospital",2015,"Delivered",2015-05-13,"2015","5","604 Veterans Memorial Blvd","Metairie","70005"
+200,"Southshore Animal Hospital",2015,"Delivered",2015-05-16,"2015","5","213 Live Oak St","Metairie","70005"
+500,"Maple Small Animal Clinic",2015,"Delivered",2015-03-12,"2015","3","7608 Maple St","New Orleans","70118"
+-64,"Marrero Veterinary Clinic",2015,"Returned",2016-03-04,"2016","3","4001 Lapalco Blvd","Harvey","70058"
+500,"Midcity Veterinary Hospital",2015,"Delivered",2015-03-12,"2015","3","3821 Orleans Ave","New Orleans","70119"
+500,"Carrollton Veterinary Hospital",2015,"Delivered",2015-03-12,"2015","3","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Lakeview Veterinary Hospital",2015,"Delivered",2015-03-17,"2015","3","6245 Memphis Ave","New Orleans","70124"
+500,"Magazine Street Animal Clinic",2015,"Delivered",2015-03-18,"2015","3","3458 Magazine St","New Orleans","70115"
+200,"Banfield 1034 (West Bank)",2015,"Delivered",2015-03-17,"2015","3","1321 Manhattan Blvd","Harvey","70058"
+300,"Ark Animal Hospital",2015,"Delivered",2015-03-19,"2015","3","4025 Jefferson Hwy","Jefferson","70121"
+200,"VCA Causeway Animal Hospital",2015,"Delivered",2015-03-24,"2015","3","1315 N. Causeway Blvd","Metairie","70001"
+100,"Allstar Animal Clinic",2015,"Delivered",2015-04-01,"2015","4","4701 S Carrollton Ave","New Orleans","70119"
+200,"Canal Street Veterinary Hospital",2015,"Delivered",2015-04-02,"2015","4","4022 Canal St","New Orleans","70119"
+500,"Louisiana SPCA",2015,"Delivered",2015-03-24,"2015","3",NA,NA,NA
+500,"Crescent City Veterinary Hospital",2015,"Delivered",2015-04-01,"2015","4","524 Jefferson Ave","New Orleans","70115"
+100,"Uptown Veterinary Hospital",2015,"Delivered",2015-04-03,"2015","4","731 Nashville Ave","New Orleans","70115"
+200,"Banfield 1023 (Elmwood)",2015,"Delivered",2015-04-08,"2015","4","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+100,"Laplace Veterinary Hospital",2015,"Delivered",2015-04-17,"2015","4","2921 New Highway 51 ","La Place","70068"
+100,"Desoto Park Veterinary Clinic",2015,"Delivered",2015-05-07,"2015","5","2659 Desoto St","New Orleans","70119"
+500,"NOLA Animal Clinic",2015,"Delivered",2015-04-03,"2015","4","4554 Downman Rd","New Orleans","70126"
+1000,"Southern Animal Foundation",2015,"Delivered",2015-04-08,"2015","4","1823 Magazine Street","New Orleans","70130"
+500,"Louisiana SPCA",2015,"Delivered",2015-04-10,"2015","4",NA,NA,NA
+500,"Pet Care Center",2015,"Delivered",2015-04-13,"2015","4","2212 David Drive","Metairie","70003"
+500,"Algiers Animal Clinic",2015,"Delivered",2015-04-29,"2015","4","3807 General DeGaulle","Algiers","70114"
+1000,"Metairie Small Animal Hospital",2015,"Delivered",2015-05-04,"2015","5","101 Metairie Rd","Metairie","70005"
+500,"Prytania Veterinary Hospital",2015,"Delivered",2015-05-11,"2015","5","201 Nashville Ave.","New Orleans","70115"
+500,"Louisiana SPCA",2015,"Delivered",2015-05-19,"2015","5",NA,"New Orleans",NA
+500,"Maple Small Animal Clinic",2015,"Delivered",2015-05-29,"2015","5","7608 Maple St","New Orleans","70118"
+500,"Magazine Street Animal Clinic",2015,"Delivered",2015-05-29,"2015","5","3458 Magazine St","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2015,"Delivered",2015-05-29,"2015","5","524 Jefferson Ave","New Orleans","70115"
+500,"Lakeview Veterinary Hospital",2015,"Delivered",2015-06-05,"2015","6","6245 Memphis Ave","New Orleans","70124"
+500,"NOLA Animal Clinic",2015,"Delivered",2015-06-05,"2015","6","4554 Downman Rd","New Orleans","70126"
+200,"Canal Street Veterinary Hospital",2015,"Delivered",2015-06-05,"2015","6","4022 Canal St","New Orleans","70119"
+100,"Allstar Animal Clinic",2015,"Delivered",2015-06-12,"2015","6","4701 S Carrollton Ave","New Orleans","70119"
+200,"Gretna Animal Hospital",2015,"Delivered",2015-06-25,"2015","6","714 Kepler St","Gretna","70053"
+500,"Midcity Veterinary Hospital",2015,"Delivered",2015-06-20,"2015","6","3821 Orleans Ave","New Orleans","70119"
+500,"Prytania Veterinary Hospital",2015,"Delivered",2015-06-30,"2015","6","201 Nashville Ave.","New Orleans","70115"
+200,"Uptown Veterinary Hospital",2015,"Delivered",2015-06-30,"2015","6","731 Nashville Ave","New Orleans","70115"
+200,"Banfield 1023 (Elmwood)",2015,"Delivered",2015-07-16,"2015","7","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+100,"The Cat Hospital of Metairie",2015,"Delivered",2015-07-30,"2015","7","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"Elysian Fields Animal Clinic",2015,"Delivered",2015-07-09,"2015","7","4237 Elysian Fields Ave","New Orleans","70122"
+1000,"Southern Animal Foundation",2015,"Delivered",2015-07-15,"2015","7","1823 Magazine Street","New Orleans","70130"
+500,"The Cat Practice",2015,"Delivered",2015-07-15,"2015","7","1809 Magazine St","New Orleans","70130"
+-26,"The Cat Practice",2015,"Returned",2016-01-05,"2016","1","1809 Magazine St","New Orleans","70130"
+-8,"The Cat Practice",2015,"Returned",2015-01-04,"2015","1","1809 Magazine St","New Orleans","70130"
+-10,"The Cat Practice",2015,"Returned",2016-01-06,"2016","1","1809 Magazine St","New Orleans","70130"
+-11,"The Cat Practice",2015,"Returned",2016-01-05,"2016","1","1809 Magazine St","New Orleans","70130"
+-28,"The Cat Practice",2015,"Returned",2016-01-05,"2016","1","1809 Magazine St","New Orleans","70130"
+200,"Animal Medical & Surgical Hospital",2015,"Delivered",2015-07-20,"2015","7","3001 North Causeway Blvd","Metairie","70002"
+-100,"Animal Medical & Surgical Hospital",2015,"Returned",2016-01-05,"2016","1","3001 North Causeway Blvd","Metairie","70002"
+-100,"Animal Medical & Surgical Hospital",2015,"Returned",2016-01-05,"2016","1","3001 North Causeway Blvd","Metairie","70002"
+200,"VCA Causeway Animal Hospital",2015,"Delivered",2015-07-22,"2015","7","1315 N. Causeway Blvd","Metairie","70001"
+-96,"VCA Causeway Animal Hospital",2015,"Returned",2015-01-05,"2015","1","1315 N. Causeway Blvd","Metairie","70001"
+100,"Lakeview Veterinary Hospital",2015,"Delivered",2015-08-11,"2015","8","6245 Memphis Ave","New Orleans","70124"
+500,"Louisiana SPCA",2015,"Delivered",2015-07-23,"2015","7",NA,"New Orleans",NA
+400,"Vetco @ Petco Mobile Clinic",2015,"Delivered",2015-07-31,"2015","7","17485 Opportunity Ave","Baton Rouge","70817"
+-11,"Vetco @ Petco Mobile Clinic",2015,"Returned",2015-01-11,"2015","1","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Vetco @ Petco Mobile Clinic",2015,"Returned",2015-01-11,"2015","1","17485 Opportunity Ave","Baton Rouge","70817"
+200,"Canal Street Veterinary Hospital",2015,"Delivered",2015-07-29,"2015","7","4022 Canal St","New Orleans","70119"
+400,"Maple Small Animal Clinic",2015,"Delivered",2015-07-30,"2015","7","7608 Maple St","New Orleans","70118"
+500,"Louisiana SPCA",2015,"Delivered",2015-08-03,"2015","8",NA,"New Orleans",NA
+500,"Magazine Street Animal Clinic",2015,"Delivered",2015-08-06,"2015","8","3458 Magazine St","New Orleans","70115"
+500,"Algiers Animal Clinic",2015,"Delivered",2015-08-07,"2015","8","3807 General DeGaulle","Algiers","70114"
+200,"Crescent City Veterinary Hospital",2015,"Delivered",2015-08-10,"2015","8","524 Jefferson Ave","New Orleans","70115"
+100,"Lakeview Veterinary Hospital",2015,"Delivered",2015-08-11,"2015","8","6245 Memphis Ave","New Orleans","70124"
+100,"Pet Care Center",2015,"Delivered",2015-08-10,"2015","8","2212 David Drive","Metairie","70003"
+100,"Dr. Mike's Animal House",2015,"Delivered",2015-08-31,"2015","8","1120 N. Rampart Street","New Orleans",NA
+-100,"Dr. Mike's Animal House",2015,"Returned",2016-01-05,"2016","1","1120 N. Rampart Street","New Orleans",NA
+300,"Pet Care Center",2015,"Delivered",2015-08-17,"2015","8","2212 David Drive","Metairie","70003"
+200,"NOLA Animal Clinic",2015,"Delivered",2015-08-21,"2015","8","4554 Downman Rd","New Orleans","70126"
+100,"Midcity Veterinary Hospital",2015,"Delivered",2015-09-17,"2015","9","3821 Orleans Ave","New Orleans","70119"
+100,"Carrollton Veterinary Hospital",2015,"Delivered",2015-09-21,"2015","9","3501 S. Carrollton Ave","New Orleans","70118"
+300,"Lakeview Veterinary Hospital",2015,"Delivered",2015-10-02,"2015","10","6245 Memphis Ave","New Orleans","70124"
+500,"Prytania Veterinary Hospital",2015,"Delivered",2015-09-25,"2015","9","201 Nashville Ave.","New Orleans","70115"
+500,"Maple Small Animal Clinic",2015,"Delivered",2015-09-29,"2015","9","7608 Maple St","New Orleans","70118"
+-100,"Maple Small Animal Clinic",2015,"Returned",2016-01-05,"2016","1","7608 Maple St","New Orleans","70118"
+500,"Crescent City Veterinary Hospital",2015,"Delivered",2015-09-30,"2015","9","524 Jefferson Ave","New Orleans","70115"
+500,"Metairie Small Animal Hospital",2015,"Delivered",2015-09-30,"2015","9","101 Metairie Rd","Metairie","70005"
+-35,"Metairie Small Animal Hospital",2015,"Returned",2015-01-13,"2015","1","101 Metairie Rd","Metairie","70005"
+-76,"Metairie Small Animal Hospital",2015,"Returned",2015-01-13,"2015","1","101 Metairie Rd","Metairie","70005"
+-100,"Metairie Small Animal Hospital",2015,"Returned",2015-01-13,"2015","1","101 Metairie Rd","Metairie","70005"
+500,"Louisiana SPCA",2015,"Delivered",1900-04-14,"1900","4",NA,NA,NA
+200,"Canal Street Veterinary Hospital",2015,"Delivered",2015-10-09,"2015","10","4022 Canal St","New Orleans","70119"
+200,"Midcity Veterinary Hospital",2015,"Delivered",2015-10-16,"2015","10","3821 Orleans Ave","New Orleans","70119"
+100,"NOLA Animal Clinic",2015,"Delivered",2015-10-21,"2015","10","4554 Downman Rd","New Orleans","70126"
+200,"Louisiana SPCA",2015,"Delivered",2015-10-15,"2015","10",NA,NA,NA
+200,"Louisiana SPCA",2015,"Delivered",2015-10-15,"2015","10",NA,"New Orleans",NA
+-62,"Louisiana SPCA",2015,"Returned",2016-01-11,"2016","1",NA,NA,NA
+-16,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+100,"NOLA Animal Clinic",2015,"Delivered",2015-10-21,"2015","10","4554 Downman Rd","New Orleans","70126"
+100,"The French Quarter Vet",2015,"Delivered",2015-10-21,"2015","10","3041 N Rampart St","New Orleans","70116"
+400,"Magazine Street Animal Clinic",2015,"Delivered",2015-10-28,"2015","10","3458 Magazine St","New Orleans","70115"
+-100,"Magazine Street Animal Clinic",2015,"Returned",2015-12-21,"2015","12","3458 Magazine St","New Orleans","70115"
+200,"Pet Care Center",2015,"Delivered",2015-11-02,"2015","11","2212 David Drive","Metairie","70003"
+-91,"Pet Care Center",2015,"Returned",2016-02-01,"2016","2","2212 David Drive","Metairie","70003"
+200,"Southern Animal Foundation",2015,"Delivered",2015-11-09,"2015","11","1823 Magazine Street","New Orleans","70130"
+100,"Banfield 1023 (Elmwood)",2015,"Delivered",2015-11-13,"2015","11","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+300,"Louisiana SPCA",2015,"Delivered",2015-11-18,"2015","11",NA,NA,NA
+100,"Midcity Veterinary Hospital",2015,"Delivered",2015-11-23,"2015","11","3821 Orleans Ave","New Orleans","70119"
+-20,"Midcity Veterinary Hospital",2015,"Returned",2016-01-05,"2016","1","3821 Orleans Ave","New Orleans","70119"
+-11,"Midcity Veterinary Hospital",2015,"Returned",2016-01-05,"2016","1","3821 Orleans Ave","New Orleans","70119"
+200,"NOLA Animal Clinic",2015,"Delivered",2015-11-27,"2015","11","4554 Downman Rd","New Orleans","70126"
+100,"Prytania Veterinary Hospital",2015,"Delivered",2015-12-02,"2015","12","201 Nashville Ave.","New Orleans","70115"
+200,"Southern Animal Foundation",2015,"Delivered",2015-12-03,"2015","12","1823 Magazine Street","New Orleans","70130"
+50,"Lakeview Veterinary Hospital",2015,"Delivered",2015-12-07,"2015","12","6245 Memphis Ave","New Orleans","70124"
+50,"The French Quarter Vet",2015,"Delivered",2015-12-15,"2015","12","3041 N Rampart St","New Orleans","70116"
+2500,"Louisiana SPCA",2015,"Delivered",2015-01-15,"2015","1",NA,"New Orleans",NA
+-67,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+-200,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+-200,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,NA,NA
+-500,"Louisiana SPCA",2015,"Returned",2016-01-05,"2016","1",NA,"New Orleans",NA
+-6,"Pet Care Center",2015,"Returned",2016-04-06,"2016","4","2212 David Drive","Metairie","70003"
+-34,"Pet Care Center",2015,"Returned",2016-02-01,"2016","2","2212 David Drive","Metairie","70003"
+-28,"Vetco @ Petco Mobile Clinic",2015,"Returned",2015-01-11,"2015","1","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Pet Care Center",2015,"Returned",2016-03-29,"2016","3","2212 David Drive","Metairie","70003"
+1000,"Southern Animal Foundation",2016,"Delivered",2015-12-21,"2015","12","1823 Magazine Street","New Orleans","70130"
+500,"Prytania Veterinary Hospital",2016,"Delivered",2015-12-21,"2015","12","201 Nashville Ave.","New Orleans","70115"
+500,"NOLA Animal Clinic",2016,"Delivered",2015-12-22,"2015","12","4554 Downman Rd","New Orleans","70126"
+500,"Midcity Veterinary Hospital",2016,"Delivered",2015-12-23,"2015","12","3821 Orleans Ave","New Orleans","70119"
+500,"Canal Street Veterinary Hospital",2016,"Delivered",2015-12-23,"2015","12","4022 Canal St","New Orleans","70119"
+500,"Crescent City Veterinary Hospital",2016,"Delivered",2015-12-21,"2015","12","524 Jefferson Ave","New Orleans","70115"
+500,"Carrollton Veterinary Hospital",2016,"Delivered",2015-12-24,"2015","12","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Doskey Mobile Veterinary Care",2016,"Delivered",2015-12-30,"2015","12",NA,"Gretna",NA
+500,"Elysian Fields Animal Clinic",2016,"Delivered",2015-12-22,"2015","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Magazine Street Animal Clinic",2016,"Delivered",2015-12-21,"2015","12","3458 Magazine St","New Orleans","70115"
+500,"Maple Small Animal Clinic",2016,"Delivered",2015-12-21,"2015","12","7608 Maple St","New Orleans","70118"
+1000,"Metairie Small Animal Hospital",2016,"Delivered",2015-12-23,"2015","12","101 Metairie Rd","Metairie","70005"
+-11,"Metairie Small Animal Hospital",2016,"Returned",2017-01-23,"2017","1","101 Metairie Rd","Metairie","70005"
+-13,"Metairie Small Animal Hospital",2016,"Returned",2017-01-23,"2017","1","101 Metairie Rd","Metairie","70005"
+500,"Lakeview Veterinary Hospital",2016,"Delivered",2015-12-21,"2015","12","6245 Memphis Ave","New Orleans","70124"
+500,"The Cat Practice",2016,"Delivered",2015-12-21,"2015","12","1809 Magazine St","New Orleans","70130"
+500,"VCA Causeway Animal Hospital",2016,"Delivered",2015-12-22,"2015","12","1315 N. Causeway Blvd","Metairie","70001"
+600,"Pet Care Center",2016,"Delivered",2015-12-23,"2015","12","2212 David Drive","Metairie","70003"
+300,"Desoto Park Veterinary Clinic",2016,"Delivered",2015-12-28,"2015","12","2659 Desoto St","New Orleans","70119"
+100,"Convenient Home Veterinary Care",2016,"Delivered",2016-01-12,"2016","1","P.O. Box 1242","Harvey","70059"
+300,"Lake Animal Hospital",2016,"Delivered",2015-12-23,"2015","12","604 Veterans Memorial Blvd","Metairie","70005"
+200,"Animal Medical & Surgical Hospital",2016,"Delivered",2015-12-22,"2015","12","3001 North Causeway Blvd","Metairie","70002"
+-27,"Animal Medical & Surgical Hospital",2016,"Returned",2016-12-28,"2016","12","3001 North Causeway Blvd","Metairie","70002"
+200,"Banfield 1175 (Veterans)",2016,"Delivered",2015-12-23,"2015","12","6851 Veterans Memorial Blvd","Metairie","70003"
+200,"Dog Day Afternoon, LLC",2016,"Delivered",2015-12-29,"2015","12","831 Bordeaux St","New Orleans","70115"
+100,"Allstar Animal Clinic",2016,"Delivered",2016-02-05,"2016","2","4701 S Carrollton Ave","New Orleans","70119"
+100,"Terrytown Veterinary Clinic",2016,"Delivered",2015-12-29,"2015","12","867 Terry Parkway","Terrytown","70056"
+100,"Animal Care Center",2016,"Delivered",2015-12-28,"2015","12","313 David Dr.","Metairie","70003"
+-83,"Animal Care Center",2016,"Returned",2016-12-27,"2016","12","313 David Dr.","Metairie","70003"
+100,"Unknown",2016,"Delivered",2016-02-17,"2016","2",NA,NA,NA
+-66,"Unknown",2016,"Returned",2017-02-20,"2017","2",NA,NA,NA
+100,"Banfield 1034 (West Bank)",2016,"Delivered",2015-12-28,"2015","12","1321 Manhattan Blvd","Harvey","70058"
+100,"Ark Animal Hospital",2016,"Delivered",2015-12-28,"2015","12","4025 Jefferson Hwy","Jefferson","70121"
+100,"Banfield 1023 (Elmwood)",2016,"Delivered",2015-12-28,"2015","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+100,"Hickory Knoll Veterinary Hospital",2016,"Delivered",2015-12-28,"2015","12","1625 Hickory Ave","Harahan","70123"
+100,"Gretna Animal Hospital",2016,"Delivered",2015-12-28,"2015","12","714 Kepler St","Gretna","70053"
+100,"Healthy Paws",2016,"Delivered",2016-01-12,"2016","1","P.O. Box 6545","Metairie","70009"
+100,"Dr. Mike's Animal House",2016,"Delivered",2015-12-28,"2015","12","1120 N. Rampart Street","New Orleans",NA
+-41,"Dr. Mike's Animal House",2016,"Returned",2017-01-03,"2017","1","1120 N. Rampart Street","New Orleans",NA
+100,"Jester Veterinarian Clinic",2016,"Delivered",2015-12-28,"2015","12","4 Westbank Expressway","Westwego",NA
+100,"Natural Pet Care",2016,"Delivered",2015-12-23,"2015","12","3825 Hessmer Ave","Metairie","70002"
+100,"VCA Airline Animal Hospital",2016,"Delivered",2015-12-28,"2015","12","5105 Airline Drive","Metairie","70001"
+100,"The Cat Hospital of Metairie",2016,"Delivered",2015-12-23,"2015","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+100,"Terry Parkway Animal Clinic",2016,"Delivered",2015-12-29,"2015","12","636 Terry Parkway","Terrytown","70056"
+-53,"Terry Parkway Animal Clinic",2016,"Returned",2017-01-03,"2017","1","636 Terry Parkway","Terrytown","70056"
+50,"At Home Veterinary Care",2016,"Delivered",2015-12-30,"2015","12","PO Box 231145","Harahan","70123"
+50,"Chateau Veterinary Hospital",2016,"Delivered",2015-12-28,"2015","12","704 W. Esplanade Ave ","Kenner","70065"
+50,"Avian & Exotic Animal Hospital of Louisiana",2016,"Delivered",2016-01-20,"2016","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+-41,"Avian & Exotic Animal Hospital of Louisiana",2016,"Returned",2017-01-15,"2017","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+50,"Home Veterinary Services",2016,"Delivered",2015-12-29,"2015","12","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-23,"Home Veterinary Services",2016,"Returned",2017-01-22,"2017","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+100,"Acadiana West Animal Clinic",2016,"Delivered",2016-01-25,"2016","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+-81,"Acadiana West Animal Clinic",2016,"Returned",2017-01-03,"2017","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+100,"Allstar Animal Clinic",2016,"Delivered",2015-12-28,"2015","12","4701 S Carrollton Ave","New Orleans","70119"
+100,"Fur De Lis Vet Services",2016,"Delivered",2016-01-06,"2016","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+500,"The French Quarter Vet",2016,"Delivered",2015-12-23,"2015","12","3041 N Rampart St","New Orleans","70116"
+200,"The SULA Foundation",2016,"Delivered",2015-12-29,"2015","12",NA,"New Orleans",NA
+-81,"The SULA Foundation",2016,"Returned",2017-02-22,"2017","2",NA,NA,NA
+100,"Uptown Veterinary Hospital",2016,"Delivered",2015-12-21,"2015","12","731 Nashville Ave","New Orleans","70115"
+100,"Southshore Animal Hospital",2016,"Delivered",2015-12-23,"2015","12","213 Live Oak St","Metairie","70005"
+100,"Clearview Veterinary Hospital",2016,"Delivered",2015-12-23,"2015","12","4713 Trenton Street","Metairie","70006"
+-54,"Clearview Veterinary Hospital",2016,"Returned",2016-12-28,"2016","12","4713 Trenton Street","Metairie","70006"
+500,"Vetco @ Petco Mobile Clinic",2016,"Delivered",2015-12-26,"2015","12","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Manhattan Animal Clinic, LLC",2016,"Delivered",2015-12-28,"2015","12",NA,"Harvey",NA
+100,"Uptown Veterinary Hospital",2016,"Delivered",2016-05-01,"2016","5","731 Nashville Ave","New Orleans","70115"
+50,"Chalmette Pet Wellness Clinic & Hospital",2016,"Delivered",2016-01-28,"2016","1","705 E. Judge Perez Drive","Chalmette","70043"
+-30,"Chalmette Pet Wellness Clinic & Hospital",2016,"Returned",2017-01-03,"2017","1","705 E. Judge Perez Drive","Chalmette","70043"
+50,"House Calls!",2016,"Delivered",2016-02-02,"2016","2",NA,NA,NA
+-34,"House Calls!",2016,"Returned",2017-01-24,"2017","1",NA,NA,NA
+200,"Banfield 1023 (Elmwood)",2016,"Delivered",2016-02-02,"2016","2","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+500,"Louisiana SPCA",2016,"Delivered",2015-12-31,"2015","12",NA,NA,NA
+500,"Louisiana SPCA",2016,"Delivered",2015-12-31,"2015","12",NA,"New Orleans",NA
+-35,"Louisiana SPCA",2016,"Returned",2017-01-03,"2017","1",NA,NA,NA
+500,"Louisiana SPCA",2016,"Delivered",2015-12-31,"2015","12",NA,"New Orleans",NA
+500,"Louisiana SPCA",2016,"Delivered",2016-01-05,"2016","1",NA,NA,NA
+-17,"Louisiana SPCA",2016,"Returned",2017-01-05,"2017","1",NA,"New Orleans",NA
+-25,"Louisiana SPCA",2016,"Returned",2017-01-05,"2017","1",NA,NA,NA
+-50,"Louisiana SPCA",2016,"Returned",2017-01-05,"2017","1",NA,"New Orleans",NA
+-100,"Louisiana SPCA",2016,"Returned",2017-01-05,"2017","1",NA,NA,NA
+500,"Louisiana SPCA",2016,"Delivered",2016-02-12,"2016","2",NA,"New Orleans",NA
+50,"Benson Veterinary Care LLC",2016,"Delivered",2016-03-08,"2016","3","328 Octavia St.","New Orleans","70115"
+25,"Gretna Animal Hospital",2016,"Delivered",2016-10-31,"2016","10","714 Kepler St","Gretna","70053"
+25,"Vet-a-GoGo",2016,"Delivered",2016-03-01,"2016","3","3517 Chartres St","New Orleans","70117"
+100,"Marrero Veterinary Clinic",2016,"Delivered",2016-03-02,"2016","3","4001 Lapalco Blvd","Harvey","70058"
+100,"Dog Day Afternoon, LLC",2016,"Delivered",2016-03-08,"2016","3","831 Bordeaux St","New Orleans","70115"
+200,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-17,"2016","3",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+100,"Gretna Animal Hospital",2016,"Delivered",2016-05-31,"2016","5","714 Kepler St","Gretna","70053"
+-12,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+500,"Prytania Veterinary Hospital",2016,"Delivered",2016-03-04,"2016","3","201 Nashville Ave.","New Orleans","70115"
+500,"Lakeview Veterinary Hospital",2016,"Delivered",2016-03-04,"2016","3","6245 Memphis Ave","New Orleans","70124"
+500,"Magazine Street Animal Clinic",2016,"Delivered",2016-03-07,"2016","3","3458 Magazine St","New Orleans","70115"
+500,"Maple Small Animal Clinic",2016,"Delivered",2016-03-09,"2016","3","7608 Maple St","New Orleans","70118"
+300,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-14,"2016","3",NA,NA,NA
+63,"Dog Day Afternoon, LLC",2016,"Delivered",2016-11-14,"2016","11","831 Bordeaux St","New Orleans","70115"
+-63,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+-20,"Dog Day Afternoon, LLC",2016,"Returned",2017-06-15,"2017","6","831 Bordeaux St","New Orleans","70115"
+200,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-17,"2016","3",NA,NA,NA
+-39,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+39,"VCA Airline Animal Hospital",2016,"Delivered",2016-11-02,"2016","11","5105 Airline Drive","Metairie","70001"
+-100,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+100,"The Cat Hospital of Metairie",2016,"Delivered",2016-05-03,"2016","5","1500 Veterans Memorial Blvd.","Metairie","70005"
+300,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-18,"2016","3",NA,NA,NA
+-56,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+50,"Natural Pet Care",2016,"Delivered",2016-09-09,"2016","9","3825 Hessmer Ave","Metairie","70002"
+-36,"Natural Pet Care",2016,"Returned",2016-12-28,"2016","12","3825 Hessmer Ave","Metairie","70002"
+-2,"Natural Pet Care",2016,"Returned",2017-01-19,"2017","1","3825 Hessmer Ave","Metairie","70002"
+200,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-16,"2016","3",NA,NA,NA
+-67,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+66,"Hickory Knoll Veterinary Hospital",2016,"Delivered",2016-09-22,"2016","9","1625 Hickory Ave","Harahan","70123"
+-37,"Hickory Knoll Veterinary Hospital",2016,"Returned",2016-12-28,"2016","12","1625 Hickory Ave","Harahan","70123"
+300,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-15,"2016","3",NA,NA,NA
+27,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-23,"2016","3",NA,NA,NA
+26,"Healthy Paws",2016,"Delivered",2016-11-07,"2016","11","P.O. Box 6545","Metairie","70009"
+100,"Allstar Animal Clinic",2016,"Delivered",2016-04-21,"2016","4","4701 S Carrollton Ave","New Orleans","70119"
+100,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-23,"2016","3",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-18,"2016","3",NA,NA,NA
+-13,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+100,"Vet-a-GoGo",2016,"Delivered",2016-05-31,"2016","5","3517 Chartres St","New Orleans","70117"
+-26,"Vet-a-GoGo",2016,"Returned",2017-01-03,"2017","1","3517 Chartres St","New Orleans","70117"
+300,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-14,"2016","3",NA,NA,NA
+37,"Allstar Animal Clinic",2016,"Delivered",2016-11-14,"2016","11","4701 S Carrollton Ave","New Orleans","70119"
+-37,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+100,"Allstar Animal Clinic",2016,"Delivered",2016-04-21,"2016","4","4701 S Carrollton Ave","New Orleans","70119"
+-100,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+400,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-16,"2016","3",NA,NA,NA
+-82,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2016,"Delivered",2016-03-16,"2016","3",NA,NA,NA
+-54,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+-100,"Annual Rabies Vaccination Drive",2016,"Returned",2016-03-23,"2016","3",NA,NA,NA
+100,"Lake Animal Hospital",2016,"Delivered",2016-06-08,"2016","6","604 Veterans Memorial Blvd","Metairie","70005"
+500,"The French Quarter Vet",2016,"Delivered",2016-03-18,"2016","3","3041 N Rampart St","New Orleans","70116"
+500,"NOLA Animal Clinic",2016,"Delivered",2016-03-19,"2016","3","4554 Downman Rd","New Orleans","70126"
+500,"Louisiana SPCA",2016,"Delivered",2016-03-21,"2016","3",NA,NA,NA
+500,"Crescent City Veterinary Hospital",2016,"Delivered",2016-03-25,"2016","3","524 Jefferson Ave","New Orleans","70115"
+200,"Banfield 1034 (West Bank)",2016,"Delivered",2016-04-01,"2016","4","1321 Manhattan Blvd","Harvey","70058"
+200,"Southshore Animal Hospital",2016,"Delivered",2016-04-01,"2016","4","213 Live Oak St","Metairie","70005"
+-34,"Southshore Animal Hospital",2016,"Returned",2016-12-28,"2016","12","213 Live Oak St","Metairie","70005"
+100,"Ark Animal Hospital",2016,"Delivered",2016-06-27,"2016","6","4025 Jefferson Hwy","Jefferson","70121"
+500,"Louisiana SPCA",2016,"Delivered",2016-04-13,"2016","4",NA,NA,NA
+1000,"Southern Animal Foundation",2016,"Delivered",2016-04-15,"2016","4","1823 Magazine Street","New Orleans","70130"
+500,"Pet Care Center",2016,"Delivered",2016-04-18,"2016","4","2212 David Drive","Metairie","70003"
+500,"Algiers Animal Clinic",2016,"Delivered",2016-04-07,"2016","4","3807 General DeGaulle","Algiers","70114"
+500,"Midcity Veterinary Hospital",2016,"Delivered",2016-04-08,"2016","4","3821 Orleans Ave","New Orleans","70119"
+200,"Banfield 1175 (Veterans)",2016,"Delivered",2016-04-30,"2016","4","6851 Veterans Memorial Blvd","Metairie","70003"
+300,"Banfield 1023 (Elmwood)",2016,"Delivered",2016-06-02,"2016","6","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+1000,"Metairie Small Animal Hospital",2016,"Delivered",2016-05-04,"2016","5","101 Metairie Rd","Metairie","70005"
+500,"Prytania Veterinary Hospital",2016,"Delivered",2016-05-04,"2016","5","201 Nashville Ave.","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2016,"Delivered",2016-05-13,"2016","5","3458 Magazine St","New Orleans","70115"
+500,"Lakeview Veterinary Hospital",2016,"Delivered",2016-05-27,"2016","5","6245 Memphis Ave","New Orleans","70124"
+500,"NOLA Animal Clinic",2016,"Delivered",2016-05-25,"2016","5","4554 Downman Rd","New Orleans","70126"
+500,"Canal Street Veterinary Hospital",2016,"Delivered",2016-05-28,"2016","5","4022 Canal St","New Orleans","70119"
+500,"Maple Small Animal Clinic",2016,"Delivered",2016-06-02,"2016","6","7608 Maple St","New Orleans","70118"
+500,"Crescent City Veterinary Hospital",2016,"Delivered",2016-06-21,"2016","6","524 Jefferson Ave","New Orleans","70115"
+200,"Banfield 1034 (West Bank)",2016,"Delivered",2016-06-06,"2016","6","1321 Manhattan Blvd","Harvey","70058"
+100,"Uptown Veterinary Hospital",2016,"Delivered",2016-06-15,"2016","6","731 Nashville Ave","New Orleans","70115"
+100,"Midcity Veterinary Hospital",2016,"Delivered",2016-06-21,"2016","6","3821 Orleans Ave","New Orleans","70119"
+100,"Louisiana SPCA",2016,"Delivered",2016-06-20,"2016","6",NA,NA,NA
+300,"The Cat Practice",2016,"Delivered",2016-06-22,"2016","6","1809 Magazine St","New Orleans","70130"
+300,"Midcity Veterinary Hospital",2016,"Delivered",2016-06-21,"2016","6","3821 Orleans Ave","New Orleans","70119"
+300,"Elysian Fields Animal Clinic",2016,"Delivered",2016-06-24,"2016","6","4237 Elysian Fields Ave","New Orleans","70122"
+100,"Southshore Animal Hospital",2016,"Delivered",2016-06-28,"2016","6","213 Live Oak St","Metairie","70005"
+10,"Louisiana SPCA",2016,"Delivered",2016-06-23,"2016","6",NA,"New Orleans",NA
+100,"Allstar Animal Clinic",2016,"Delivered",2016-07-08,"2016","7","4701 S Carrollton Ave","New Orleans","70119"
+100,"Desoto Park Veterinary Clinic",2016,"Delivered",2016-07-21,"2016","7","2659 Desoto St","New Orleans","70119"
+200,"VCA Causeway Animal Hospital",2016,"Delivered",2016-08-17,"2016","8","1315 N. Causeway Blvd","Metairie","70001"
+-116,"VCA Causeway Animal Hospital",2016,"Returned",NA,"Unkno","Unkno","1315 N. Causeway Blvd","Metairie","70001"
+500,"Algiers Animal Clinic",2016,"Delivered",2016-06-29,"2016","6","3807 General DeGaulle","Algiers","70114"
+500,"Prytania Veterinary Hospital",2016,"Delivered",2016-06-30,"2016","6","201 Nashville Ave.","New Orleans","70115"
+500,"Louisiana SPCA",2016,"Delivered",2016-07-05,"2016","7",NA,NA,NA
+500,"Carrollton Veterinary Hospital",2016,"Delivered",2016-07-12,"2016","7","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Magazine Street Animal Clinic",2016,"Delivered",2016-07-15,"2016","7","3458 Magazine St","New Orleans","70115"
+1000,"Southern Animal Foundation",2016,"Delivered",2016-07-25,"2016","7","1823 Magazine Street","New Orleans","70130"
+500,"Lakeview Veterinary Hospital",2016,"Delivered",2016-07-28,"2016","7","6245 Memphis Ave","New Orleans","70124"
+200,"The Cat Practice",2016,"Delivered",2016-07-28,"2016","7","1809 Magazine St","New Orleans","70130"
+-33,"The Cat Practice",2016,"Returned",2017-01-15,"2017","1","1809 Magazine St","New Orleans","70130"
+-58,"The Cat Practice",2016,"Returned",2017-01-15,"2017","1","1809 Magazine St","New Orleans","70130"
+100,"Louisiana SPCA",2016,"Delivered",2016-07-29,"2016","7",NA,NA,NA
+200,"VCA Causeway Animal Hospital",2016,"Delivered",2016-08-17,"2016","8","1315 N. Causeway Blvd","Metairie","70001"
+-200,"VCA Causeway Animal Hospital",2016,"Returned",NA,"Unkno","Unkno","1315 N. Causeway Blvd","Metairie","70001"
+500,"Maple Small Animal Clinic",2016,"Delivered",2016-08-02,"2016","8","7608 Maple St","New Orleans","70118"
+500,"Crescent City Veterinary Hospital",2016,"Delivered",2016-08-04,"2016","8","524 Jefferson Ave","New Orleans","70115"
+500,"Pet Care Center",2016,"Delivered",2016-08-17,"2016","8","2212 David Drive","Metairie","70003"
+-98,"Pet Care Center",2016,"Returned",2016-12-29,"2016","12","2212 David Drive","Metairie","70003"
+-87,"Pet Care Center",2016,"Returned",2016-12-29,"2016","12","2212 David Drive","Metairie","70003"
+100,"Allstar Animal Clinic",2016,"Delivered",2016-08-19,"2016","8","4701 S Carrollton Ave","New Orleans","70119"
+400,"Louisiana SPCA",2016,"Delivered",2016-08-26,"2016","8",NA,"New Orleans",NA
+500,"Midcity Veterinary Hospital",2016,"Delivered",2016-08-25,"2016","8","3821 Orleans Ave","New Orleans","70119"
+500,"Louisiana SPCA",2016,"Delivered",2016-08-21,"2016","8",NA,"New Orleans",NA
+300,"Vetco @ Petco Mobile Clinic",2016,"Delivered",2016-09-02,"2016","9","17485 Opportunity Ave","Baton Rouge","70817"
+-77,"Vetco @ Petco Mobile Clinic",2016,"Returned",2017-02-23,"2017","2","17485 Opportunity Ave","Baton Rouge","70817"
+-55,"Vetco @ Petco Mobile Clinic",2016,"Returned",2017-02-23,"2017","2","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Fur De Lis Vet Services",2016,"Delivered",2016-09-20,"2016","9","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+-68,"Fur De Lis Vet Services",2016,"Returned",2017-01-05,"2017","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+100,"Uptown Veterinary Hospital",2016,"Delivered",2016-10-20,"2016","10","731 Nashville Ave","New Orleans","70115"
+500,"NOLA Animal Clinic",2016,"Delivered",2016-09-07,"2016","9","4554 Downman Rd","New Orleans","70126"
+500,"Magazine Street Animal Clinic",2016,"Delivered",2016-09-09,"2016","9","3458 Magazine St","New Orleans","70115"
+500,"Metairie Small Animal Hospital",2016,"Delivered",2016-09-15,"2016","9","101 Metairie Rd","Metairie","70005"
+-69,"Metairie Small Animal Hospital",2016,"Returned",2017-01-23,"2017","1","101 Metairie Rd","Metairie","70005"
+-41,"Metairie Small Animal Hospital",2016,"Returned",2017-01-23,"2017","1","101 Metairie Rd","Metairie","70005"
+500,"Prytania Veterinary Hospital",2016,"Delivered",2016-09-20,"2016","9","201 Nashville Ave.","New Orleans","70115"
+200,"Banfield 1023 (Elmwood)",2016,"Delivered",2016-10-05,"2016","10","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+-99,"Banfield 1023 (Elmwood)",2016,"Returned",2017-03-27,"2017","3","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+300,"Banfield - Remote",2016,"Delivered",2016-10-07,"2016","10",NA,NA,NA
+25,"Allstar Animal Clinic",2016,"Delivered",2016-12-12,"2016","12","4701 S Carrollton Ave","New Orleans","70119"
+-100,"Banfield - Remote",2016,"Returned",2016-11-01,"2016","11",NA,NA,NA
+-3,"Banfield - Remote",2016,"Returned",2017-02-01,"2017","2",NA,NA,NA
+25,"Gretna Animal Hospital",2016,"Delivered",2016-12-12,"2016","12","714 Kepler St","Gretna","70053"
+50,"Canal Street Veterinary Hospital",2016,"Delivered",2016-12-22,"2016","12","4022 Canal St","New Orleans","70119"
+-78,"Banfield - Remote",2016,"Returned",2016-11-01,"2016","11",NA,NA,NA
+65,"Lake Animal Hospital",2016,"Delivered",2016-11-22,"2016","11","604 Veterans Memorial Blvd","Metairie","70005"
+500,"Maple Small Animal Clinic",2016,"Delivered",2016-10-07,"2016","10","7608 Maple St","New Orleans","70118"
+-99,"VCA Causeway Animal Hospital",2016,"Returned",2017-01-04,"2017","1","1315 N. Causeway Blvd","Metairie","70001"
+500,"Louisiana SPCA",2016,"Delivered",2016-10-20,"2016","10",NA,NA,NA
+100,"Banfield 1034 (West Bank)",2016,"Delivered",2016-10-27,"2016","10","1321 Manhattan Blvd","Harvey","70058"
+200,"Elysian Fields Animal Clinic",2016,"Delivered",2016-10-21,"2016","10","4237 Elysian Fields Ave","New Orleans","70122"
+400,"Crescent City Veterinary Hospital",2016,"Delivered",2016-11-01,"2016","11","524 Jefferson Ave","New Orleans","70115"
+300,"NOLA Animal Clinic",2016,"Delivered",2016-11-14,"2016","11","4554 Downman Rd","New Orleans","70126"
+200,"Lakeview Veterinary Hospital",2016,"Delivered",2016-11-18,"2016","11","6245 Memphis Ave","New Orleans","70124"
+300,"Magazine Street Animal Clinic",2016,"Delivered",2016-11-18,"2016","11","3458 Magazine St","New Orleans","70115"
+200,"Algiers Animal Clinic",2016,"Delivered",2016-11-21,"2016","11","3807 General DeGaulle","Algiers","70114"
+-79,"Algiers Animal Clinic",2016,"Returned",2017-01-19,"2017","1","3807 General DeGaulle","Algiers","70114"
+200,"Louisiana SPCA",2016,"Delivered",2016-11-28,"2016","11",NA,"New Orleans",NA
+-13,"Louisiana SPCA",2016,"Returned",2016-12-30,"2016","12",NA,NA,NA
+100,"Midcity Veterinary Hospital",2016,"Delivered",2016-12-01,"2016","12","3821 Orleans Ave","New Orleans","70119"
+200,"Southern Animal Foundation",2016,"Delivered",2016-12-12,"2016","12","1823 Magazine Street","New Orleans","70130"
+-131,"Southern Animal Foundation",2016,"Returned",2017-02-22,"2017","2","1823 Magazine Street","New Orleans","70130"
+200,"Prytania Veterinary Hospital",2016,"Delivered",2016-12-12,"2016","12","201 Nashville Ave.","New Orleans","70115"
+-34,"Prytania Veterinary Hospital",2016,"Returned",2017-01-05,"2017","1","201 Nashville Ave.","New Orleans","70115"
+-99,"Prytania Veterinary Hospital",2016,"Returned",2017-01-05,"2017","1","201 Nashville Ave.","New Orleans","70115"
+100,"Louisiana SPCA",2016,"Delivered",2016-12-16,"2016","12",NA,"New Orleans",NA
+-38,"Louisiana SPCA",2016,"Returned",2017-01-05,"2017","1",NA,NA,NA
+50,"Southshore Animal Hospital",2016,"Delivered",2016-12-20,"2016","12","213 Live Oak St","Metairie","70005"
+-50,"Southshore Animal Hospital",2016,"Returned",2016-12-28,"2016","12","213 Live Oak St","Metairie","70005"
+50,"Ark Animal Hospital",2016,"Delivered",2016-12-20,"2016","12","4025 Jefferson Hwy","Jefferson","70121"
+-39,"Ark Animal Hospital",2016,"Returned",2016-12-02,"2016","12","4025 Jefferson Hwy","Jefferson","70121"
+100,"Louisiana SPCA",2016,"Delivered",2016-12-21,"2016","12",NA,"New Orleans",NA
+-100,"Louisiana SPCA",2016,"Returned",2017-01-03,"2017","1",NA,NA,NA
+500,"Louisiana SPCA",2016,"Delivered",2015-12-31,"2015","12",NA,"New Orleans",NA
+50,"Benson Veterinary Care LLC",2016,"VOID",NA,NA,NA,"328 Octavia St.","New Orleans","70115"
+-1,"Terry Parkway Animal Clinic",2016,"Returned",2017-12-20,"2017","12","636 Terry Parkway","Terrytown","70056"
+-4,"Terry Parkway Animal Clinic",2016,"Returned",2017-12-20,"2017","12","636 Terry Parkway","Terrytown","70056"
+50,"Acadiana West Animal Clinic",2017,"Delivered",2016-12-29,"2016","12","2600 Barataria Boulevard Suite E","Marrero","70072"
+-24,"Acadiana West Animal Clinic",2017,"Returned",2017-12-27,"2017","12","2600 Barataria Boulevard Suite E","Marrero","70072"
+500,"Algiers Animal Clinic",2017,"Delivered",2016-12-27,"2016","12","3807 General DeGaulle","Algiers","70114"
+500,"Algiers Animal Clinic",2017,"Delivered",2017-04-14,"2017","4","3807 General DeGaulle","Algiers","70114"
+500,"Algiers Animal Clinic",2017,"Delivered",2017-07-25,"2017","7","3807 General DeGaulle","Algiers","70114"
+25,"All Cats Mobile Clinic",2017,"Delivered",2017-01-24,"2017","1",NA,NA,NA
+200,"Allstar Animal Clinic",2017,"Delivered",2016-12-27,"2016","12","4701 S Carrollton Ave","New Orleans","70119"
+71,"Allstar Animal Clinic",2017,"Delivered",2017-11-10,"2017","11","4701 S Carrollton Ave","New Orleans","70119"
+-19,"Allstar Animal Clinic",2017,"Returned",2017-12-27,"2017","12","4701 S Carrollton Ave","New Orleans","70119"
+200,"Allstar Animal Clinic",2017,"Delivered",2017-04-14,"2017","4","4701 S Carrollton Ave","New Orleans","70119"
+200,"Allstar Animal Clinic",2017,"Delivered",2017-07-19,"2017","7","4701 S Carrollton Ave","New Orleans","70119"
+100,"Animal Care Center",2017,"Delivered",2016-12-27,"2016","12","313 David Dr.","Metairie","70003"
+-90,"Animal Care Center",2017,"Returned",2017-12-28,"2017","12","313 David Dr.","Metairie","70003"
+200,"Animal Medical & Surgical Hospital",2017,"Delivered",2016-12-28,"2016","12","3001 North Causeway Blvd","Metairie","70002"
+-39,"Animal Medical & Surgical Hospital",2017,"Returned",2017-12-28,"2017","12","3001 North Causeway Blvd","Metairie","70002"
+100,"Ark Animal Hospital",2017,"Delivered",2016-12-28,"2016","12","4025 Jefferson Hwy","Jefferson","70121"
+100,"Ark Animal Hospital",2017,"Delivered",2017-06-19,"2017","6","4025 Jefferson Hwy","Jefferson","70121"
+-8,"Ark Animal Hospital",2017,"Returned",2017-12-28,"2017","12","4025 Jefferson Hwy","Jefferson","70121"
+50,"At Home Veterinary Care",2017,"Delivered",2017-01-09,"2017","1","PO Box 231145","Harahan","70123"
+100,"Avenue Animal Wellness and Emergency",2017,"Delivered",2017-05-31,"2017","5","1401 St Charles Ave","New Orleans","70130"
+-61,"Avenue Animal Wellness and Emergency",2017,"Returned",2018-01-03,"2018","1","1401 St Charles Ave","New Orleans","70130"
+50,"Avian & Exotic Animal Hospital of Louisiana",2017,"Delivered",2017-01-19,"2017","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+200,"Banfield 1023 (Elmwood)",2017,"Delivered",2016-12-28,"2016","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+300,"Banfield 1023 (Elmwood)",2017,"Delivered",2017-03-27,"2017","3","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+200,"Banfield 1023 (Elmwood)",2017,"Delivered",2017-09-18,"2017","9","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+200,"Banfield 1034 (West Bank)",2017,"Delivered",2016-12-27,"2016","12","1321 Manhattan Blvd","Harvey","70058"
+200,"Banfield 1034 (West Bank)",2017,"Delivered",2017-04-17,"2017","4","1321 Manhattan Blvd","Harvey","70058"
+100,"Banfield 1034 (West Bank)",2017,"Delivered",1902-10-08,"1902","10","1321 Manhattan Blvd","Harvey","70058"
+100,"Banfield 1034 (West Bank)",2017,"Delivered",2017-08-18,"2017","8","1321 Manhattan Blvd","Harvey","70058"
+-61,"Banfield 1034 (West Bank)",2017,"Returned",2018-01-03,"2018","1","1321 Manhattan Blvd","Harvey","70058"
+200,"Banfield 1175 (Veterans)",2017,"Delivered",2016-12-28,"2016","12","6851 Veterans Memorial Blvd","Metairie","70003"
+100,"Banfield 1175 (Veterans)",2017,"Delivered",2017-07-11,"2017","7","6851 Veterans Memorial Blvd","Metairie","70003"
+100,"Banfield 1175 (Veterans)",2017,"Delivered",2017-09-18,"2017","9","6851 Veterans Memorial Blvd","Metairie","70003"
+100,"Banfield 1175 (Veterans)",2017,"Delivered",2017-10-20,"2017","10","6851 Veterans Memorial Blvd","Metairie","70003"
+-69,"Banfield 1175 (Veterans)",2017,"Returned",2017-12-28,"2017","12","6851 Veterans Memorial Blvd","Metairie","70003"
+101,"Banfield 1034 (West Bank)",2017,"Delivered",2017-10-27,"2017","10","1321 Manhattan Blvd","Harvey","70058"
+-64,"Banfield 1034 (West Bank)",2017,"Returned",2018-01-03,"2018","1","1321 Manhattan Blvd","Harvey","70058"
+100,"Batt Veterinary Services",2017,"Delivered",2017-06-13,"2017","6",NA,"Metairie",NA
+-1,"Batt Veterinary Services",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-36,"Batt Veterinary Services",2017,"Returned",2017-12-27,"2017","12",NA,"Metairie",NA
+50,"Benson Veterinary Care LLC",2017,"Delivered",2017-02-20,"2017","2","328 Octavia St.","New Orleans","70115"
+500,"Canal Street Veterinary Hospital",2017,"Delivered",2017-06-19,"2017","6","4022 Canal St","New Orleans","70119"
+500,"Canal Street Veterinary Hospital",2017,"Delivered",2016-12-27,"2016","12","4022 Canal St","New Orleans","70119"
+500,"Carrollton Veterinary Hospital",2017,"Delivered",2016-12-27,"2016","12","3501 S. Carrollton Ave","New Orleans","70118"
+200,"Carrollton Veterinary Hospital",2017,"Delivered",2017-08-01,"2017","8","3501 S. Carrollton Ave","New Orleans","70118"
+200,"Carrollton Veterinary Hospital",2017,"Delivered",2017-08-01,"2017","8","3501 S. Carrollton Ave","New Orleans","70118"
+100,"Chalmette Pet Wellness Clinic & Hospital",2017,"Delivered",2017-01-04,"2017","1","705 E. Judge Perez Drive","Chalmette","70043"
+-11,"Chalmette Pet Wellness Clinic & Hospital",2017,"Returned",2017-12-02,"2017","12","705 E. Judge Perez Drive","Chalmette","70043"
+-6,"Chalmette Pet Wellness Clinic & Hospital",2017,"Returned",2017-12-27,"2017","12","705 E. Judge Perez Drive","Chalmette","70043"
+-2,"Chalmette Pet Wellness Clinic & Hospital",2017,"Returned",2017-12-27,"2017","12","705 E. Judge Perez Drive","Chalmette","70043"
+100,"Clearview Veterinary Hospital",2017,"Delivered",2016-12-28,"2016","12","4713 Trenton Street","Metairie","70006"
+-63,"Clearview Veterinary Hospital",2017,"Returned",2017-12-28,"2017","12","4713 Trenton Street","Metairie","70006"
+15,"Louisiana SPCA",2017,"Delivered",2017-12-26,"2017","12",NA,"New Orleans",NA
+-1,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-11,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,"New Orleans",NA
+-16,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+20,"Louisiana SPCA",2017,"Delivered",2017-12-26,"2017","12",NA,"New Orleans",NA
+25,"Louisiana SPCA",2017,"Delivered",2017-12-22,"2017","12",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2016-12-30,"2016","12",NA,"New Orleans",NA
+1000,"Louisiana SPCA",2017,"Delivered",2017-02-08,"2017","2",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2017-03-22,"2017","3",NA,"New Orleans",NA
+43,"Louisiana SPCA",2017,"Delivered",2017-12-12,"2017","12",NA,NA,NA
+44,"Louisiana SPCA",2017,"Delivered",2017-12-31,"2017","12",NA,"New Orleans",NA
+200,"Louisiana SPCA",2017,"Delivered",2017-06-26,"2017","6",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2017-07-06,"2017","7",NA,"New Orleans",NA
+500,"Louisiana SPCA",2017,"Delivered",2017-08-21,"2017","8",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2017-10-06,"2017","10",NA,"New Orleans",NA
+200,"Louisiana SPCA",2017,"Delivered",2017-11-03,"2017","11",NA,NA,NA
+400,"Louisiana SPCA",2017,"Delivered",2017-07-03,"2017","7",NA,"New Orleans",NA
+-39,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-5,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,"New Orleans",NA
+-85,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-99,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,"New Orleans",NA
+50,"Convenient Home Veterinary Care",2017,"Delivered",2017-01-05,"2017","1","P.O. Box 1242","Harvey","70059"
+500,"Crescent City Veterinary Hospital",2017,"Delivered",2016-12-27,"2016","12","524 Jefferson Ave","New Orleans","70115"
+18,"Crescent City Veterinary Hospital",2017,"Delivered",2017-12-18,"2017","12","524 Jefferson Ave","New Orleans","70115"
+32,"Crescent City Veterinary Hospital",2017,"Delivered",2017-12-18,"2017","12","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2017,"Delivered",2017-03-31,"2017","3","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2017,"Delivered",2017-05-30,"2017","5","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2017,"Delivered",2017-08-08,"2017","8","524 Jefferson Ave","New Orleans","70115"
+200,"Crescent City Veterinary Hospital",2017,"Delivered",2017-11-09,"2017","11","524 Jefferson Ave","New Orleans","70115"
+500,"Desoto Park Veterinary Clinic",2017,"Delivered",2016-12-27,"2016","12","2659 Desoto St","New Orleans","70119"
+-196,"Desoto Park Veterinary Clinic",2017,"Returned",2017-12-29,"2017","12","2659 Desoto St","New Orleans","70119"
+500,"Dog Day Afternoon, LLC",2017,"Delivered",2017-01-02,"2017","1","831 Bordeaux St","New Orleans","70115"
+500,"Dr. Mike's Animal House",2017,"Delivered",2017-01-04,"2017","1","1120 N. Rampart Street","New Orleans",NA
+-100,"Dr. Mike's Animal House",2017,"Returned",2018-01-11,"2018","1","1120 N. Rampart Street","New Orleans",NA
+-51,"Dr. Mike's Animal House",2017,"Returned",2018-01-11,"2018","1","1120 N. Rampart Street","New Orleans",NA
+-300,"Dr. Mike's Animal House",2017,"Returned",2018-01-11,"2018","1","1120 N. Rampart Street","New Orleans",NA
+200,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-07,"2017","4",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-07,"2017","4",NA,NA,NA
+-3,"Annual Rabies Vaccination Drive",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-06,"2017","4",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-05,"2017","4",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-07,"2017","4",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-05,"2017","4",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-09,"2017","4",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-09,"2017","4",NA,NA,NA
+400,"Annual Rabies Vaccination Drive",2017,"Delivered",2017-04-05,"2017","4",NA,NA,NA
+500,"Elysian Fields Animal Clinic",2017,"Delivered",2016-12-27,"2016","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Elysian Fields Animal Clinic",2017,"Delivered",2017-05-30,"2017","5","4237 Elysian Fields Ave","New Orleans","70122"
+-90,"Elysian Fields Animal Clinic",2017,"Returned",2018-06-01,"2018","6","4237 Elysian Fields Ave","New Orleans","70122"
+200,"Fur De Lis Vet Services",2017,"Delivered",2017-01-10,"2017","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+-52,"Fur De Lis Vet Services",2017,"Returned",2018-02-22,"2018","2","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+25,"Geaux Nola Pets Mobile",2017,"Delivered",2017-11-13,"2017","11","2111 General Pershing","New Orleans","70115"
+200,"Gretna Animal Hospital",2017,"Delivered",2016-12-29,"2016","12","714 Kepler St","Gretna","70053"
+10,"Gretna Animal Hospital",2017,"Delivered",2017-12-22,"2017","12","714 Kepler St","Gretna","70053"
+-25,"Gretna Animal Hospital",2017,"Returned",NA,"Unkno","Unkno","714 Kepler St","Gretna","70053"
+100,"Gretna Animal Hospital",2017,"Delivered",2017-06-07,"2017","6","714 Kepler St","Gretna","70053"
+100,"Healthy Paws",2017,"Delivered",1945-02-01,"1945","2","P.O. Box 6545","Metairie","70009"
+75,"Healthy Paws",2017,"Delivered",2017-08-14,"2017","8","P.O. Box 6545","Metairie","70009"
+200,"Hickory Knoll Veterinary Hospital",2017,"Delivered",2016-12-28,"2016","12","1625 Hickory Ave","Harahan","70123"
+-79,"Hickory Knoll Veterinary Hospital",2017,"Returned",2017-12-28,"2017","12","1625 Hickory Ave","Harahan","70123"
+50,"Home Veterinary Services",2017,"Delivered",2016-12-27,"2016","12","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-27,"Home Veterinary Services",2017,"Returned",2018-01-03,"2018","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+25,"House Calls!",2017,"Delivered",2017-01-24,"2017","1",NA,NA,NA
+200,"Jester Veterinarian Clinic",2017,"Delivered",2016-12-27,"2016","12","4 Westbank Expressway","Westwego",NA
+-26,"Jester Veterinarian Clinic",2017,"Returned",2017-12-27,"2017","12","4 Westbank Expressway","Westwego",NA
+200,"Lake Animal Hospital",2017,"Delivered",2017-12-26,"2017","12","604 Veterans Memorial Blvd","Metairie","70005"
+200,"Lake Animal Hospital",2017,"Delivered",2017-05-12,"2017","5","604 Veterans Memorial Blvd","Metairie","70005"
+100,"Lake Animal Hospital",2017,"Delivered",2017-10-23,"2017","10","604 Veterans Memorial Blvd","Metairie","70005"
+-38,"Lake Animal Hospital",2017,"Returned",2017-12-27,"2017","12","604 Veterans Memorial Blvd","Metairie","70005"
+500,"Lakeview Veterinary Hospital",2017,"Delivered",2016-12-27,"2016","12","6245 Memphis Ave","New Orleans","70124"
+1000,"Lakeview Veterinary Hospital",2017,"Delivered",2017-02-22,"2017","2","6245 Memphis Ave","New Orleans","70124"
+800,"Lakeview Veterinary Hospital",2017,"Delivered",2017-08-01,"2017","8","6245 Memphis Ave","New Orleans","70124"
+-100,"Lakeview Veterinary Hospital",2017,"Returned",2017-12-27,"2017","12","6245 Memphis Ave","New Orleans","70124"
+-100,"Lakeview Veterinary Hospital",2017,"Returned",2017-12-27,"2017","12","6245 Memphis Ave","New Orleans","70124"
+400,"Louisiana SPCA",2017,"Delivered",2017-04-17,"2017","4",NA,"New Orleans",NA
+50,"Louisiana SPCA",2017,"Delivered",2017-12-10,"2017","12",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2016-12-20,"2016","12",NA,"New Orleans",NA
+100,"Louisiana SPCA",2017,"Delivered",2017-05-08,"2017","5",NA,NA,NA
+60,"Louisiana SPCA",2017,"Delivered",2017-12-10,"2017","12",NA,"New Orleans",NA
+400,"Louisiana SPCA",2017,"Delivered",2017-05-08,"2017","5",NA,NA,NA
+95,"Louisiana SPCA",2017,"Delivered",2017-12-28,"2017","12",NA,"New Orleans",NA
+-73,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+200,"Louisiana SPCA",2017,"Delivered",2017-09-07,"2017","9",NA,"New Orleans",NA
+100,"Louisiana SPCA",2017,"Delivered",2017-11-03,"2017","11",NA,NA,NA
+100,"Louisiana SPCA",2017,"Delivered",2017-11-20,"2017","11",NA,"New Orleans",NA
+500,"Louisiana SPCA",2017,"Delivered",2016-12-30,"2016","12",NA,NA,NA
+500,"Louisiana SPCA",2017,"Delivered",2017-12-29,"2017","12",NA,"New Orleans",NA
+-5,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-7,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,"New Orleans",NA
+-100,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,NA,NA
+-14,"Louisiana SPCA",2017,"Returned",2017-12-27,"2017","12",NA,"New Orleans",NA
+500,"Low Cost Animal Medical Center",2017,"Delivered",2017-03-01,"2017","3","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2017,"Delivered",2017-08-01,"2017","8","4300 Washington Ave.","New Orleans","70125"
+-100,"Low Cost Animal Medical Center",2017,"Returned",2018-03-15,"2018","3","4300 Washington Ave.","New Orleans","70125"
+-100,"Low Cost Animal Medical Center",2017,"Returned",2018-04-20,"2018","4","4300 Washington Ave.","New Orleans","70125"
+-89,"Low Cost Animal Medical Center",2017,"Returned",2018-03-15,"2018","3","4300 Washington Ave.","New Orleans","70125"
+-89,"Low Cost Animal Medical Center",2017,"Returned",2018-04-20,"2018","4","4300 Washington Ave.","New Orleans","70125"
+500,"Magazine Street Animal Clinic",2017,"Delivered",2017-06-26,"2017","6","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2017,"Delivered",2017-08-18,"2017","8","3458 Magazine St","New Orleans","70115"
+400,"Magazine Street Animal Clinic",2017,"Delivered",2017-11-02,"2017","11","3458 Magazine St","New Orleans","70115"
+-100,"Magazine Street Animal Clinic",2017,"Returned",2017-12-27,"2017","12","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2017,"Delivered",2016-12-26,"2016","12","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2017,"Delivered",2017-02-27,"2017","2","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2017,"Delivered",2017-05-01,"2017","5","3458 Magazine St","New Orleans","70115"
+500,"Manhattan Animal Clinic, LLC",2017,"Delivered",2016-12-27,"2016","12",NA,"Harvey",NA
+-2,"Manhattan Animal Clinic, LLC",2017,"Returned",2017-12-27,"2017","12",NA,"Harvey",NA
+-46,"Manhattan Animal Clinic, LLC",2017,"Returned",2017-12-27,"2017","12",NA,"Harvey",NA
+-400,"Manhattan Animal Clinic, LLC",2017,"Returned",2017-12-27,"2017","12",NA,"Harvey",NA
+500,"Maple Small Animal Clinic",2017,"Delivered",2016-12-27,"2016","12","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2017,"Delivered",2017-03-17,"2017","3","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2017,"Delivered",2017-05-30,"2017","5","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2017,"Delivered",2017-08-01,"2017","8","7608 Maple St","New Orleans","70118"
+400,"Maple Small Animal Clinic",2017,"Delivered",2017-10-20,"2017","10","7608 Maple St","New Orleans","70118"
+200,"Marrero Veterinary Clinic",2017,"Delivered",2017-01-04,"2017","1","4001 Lapalco Blvd","Harvey","70058"
+-19,"Marrero Veterinary Clinic",2017,"Returned",2017-12-27,"2017","12","4001 Lapalco Blvd","Harvey","70058"
+-98,"Marrero Veterinary Clinic",2017,"Returned",2017-12-27,"2017","12","4001 Lapalco Blvd","Harvey","70058"
+1000,"Metairie Small Animal Hospital",2017,"Delivered",2016-12-27,"2016","12","101 Metairie Rd","Metairie","70005"
+-59,"Metairie Small Animal Hospital",2017,"Returned",2017-12-27,"2017","12","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2017,"Delivered",2017-04-05,"2017","4","101 Metairie Rd","Metairie","70005"
+500,"Metairie Small Animal Hospital",2017,"Delivered",2017-08-08,"2017","8","101 Metairie Rd","Metairie","70005"
+500,"Metairie Small Animal Hospital",2017,"Delivered",2017-11-02,"2017","11","101 Metairie Rd","Metairie","70005"
+-45,"Metairie Small Animal Hospital",2017,"Returned",2017-12-27,"2017","12","101 Metairie Rd","Metairie","70005"
+-73,"Metairie Small Animal Hospital",2017,"Returned",2017-12-27,"2017","12","101 Metairie Rd","Metairie","70005"
+-100,"Metairie Small Animal Hospital",2017,"Returned",2017-12-27,"2017","12","101 Metairie Rd","Metairie","70005"
+-89,"Metairie Small Animal Hospital",2017,"Returned",2017-12-27,"2017","12","101 Metairie Rd","Metairie","70005"
+500,"Midcity Veterinary Hospital",2017,"Delivered",2016-12-27,"2016","12","3821 Orleans Ave","New Orleans","70119"
+82,"Midcity Veterinary Hospital",2017,"Delivered",2017-11-30,"2017","11","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2017,"Delivered",2017-05-31,"2017","5","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2017,"Delivered",2017-09-07,"2017","9","3821 Orleans Ave","New Orleans","70119"
+100,"Midcity Veterinary Hospital",2017,"Delivered",2017-11-30,"2017","11","3821 Orleans Ave","New Orleans","70119"
+-49,"Midcity Veterinary Hospital",2017,"Returned",2017-12-27,"2017","12","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2017,"Delivered",2017-03-29,"2017","3","3821 Orleans Ave","New Orleans","70119"
+100,"Natural Pet Care",2017,"Delivered",2016-12-28,"2016","12","3825 Hessmer Ave","Metairie","70002"
+-13,"Natural Pet Care",2017,"Returned",2018-12-26,"2018","12","3825 Hessmer Ave","Metairie","70002"
+500,"NOLA Animal Clinic",2017,"Delivered",2016-12-27,"2016","12","4554 Downman Rd","New Orleans","70126"
+50,"NOLA Animal Clinic",2017,"Delivered",2017-12-22,"2017","12","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2017,"Delivered",2017-03-17,"2017","3","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2017,"Delivered",2017-06-06,"2017","6","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2017,"Delivered",2017-09-07,"2017","9","4554 Downman Rd","New Orleans","70126"
+500,"Pet Care Center",2017,"Delivered",2016-12-22,"2016","12","2212 David Drive","Metairie","70003"
+500,"Pet Care Center",2017,"Delivered",2017-03-27,"2017","3","2212 David Drive","Metairie","70003"
+500,"Pet Care Center",2017,"Delivered",2017-06-06,"2017","6","2212 David Drive","Metairie","70003"
+300,"Pet Care Center",2017,"Delivered",2017-11-02,"2017","11","2212 David Drive","Metairie","70003"
+-300,"Pet Care Center",2017,"Returned",2018-04-01,"2018","4","2212 David Drive","Metairie","70003"
+-52,"Pet Care Center",2017,"Returned",2018-04-01,"2018","4","2212 David Drive","Metairie","70003"
+500,"Prytania Veterinary Hospital",2017,"Delivered",2016-12-26,"2016","12","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2017,"Delivered",2017-03-02,"2017","3","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2017,"Delivered",2017-05-07,"2017","5","201 Nashville Ave.","New Orleans","70115"
+100,"Prytania Veterinary Hospital",2017,"Delivered",2017-12-06,"2017","12","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2017,"Delivered",2017-07-11,"2017","7","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2017,"Delivered",2017-09-29,"2017","9","201 Nashville Ave.","New Orleans","70115"
+50,"Quality Pet Care",2017,"Delivered",2017-02-06,"2017","2","1600-B Belle Chasse Hwy","Gretna","70056"
+-33,"Quality Pet Care",2017,"Returned",2017-12-27,"2017","12","1600-B Belle Chasse Hwy","Gretna","70056"
+1000,"Southern Animal Foundation",2017,"Delivered",2016-12-26,"2016","12","1823 Magazine Street","New Orleans","70130"
+1000,"Southern Animal Foundation",2017,"Delivered",2017-04-26,"2017","4","1823 Magazine Street","New Orleans","70130"
+500,"Southern Animal Foundation",2017,"Delivered",2017-09-01,"2017","9","1823 Magazine Street","New Orleans","70130"
+500,"Southern Animal Foundation",2017,"Delivered",2017-11-02,"2017","11","1823 Magazine Street","New Orleans","70130"
+-200,"Southern Animal Foundation",2017,"Returned",2017-12-27,"2017","12","1823 Magazine Street","New Orleans","70130"
+200,"Southshore Animal Hospital",2017,"Delivered",2016-12-28,"2016","12","213 Live Oak St","Metairie","70005"
+200,"Southshore Animal Hospital",2017,"Delivered",2017-06-01,"2017","6","213 Live Oak St","Metairie","70005"
+200,"Southshore Animal Hospital",2017,"Delivered",2017-09-11,"2017","9","213 Live Oak St","Metairie","70005"
+-95,"Southshore Animal Hospital",2017,"Returned",2017-12-27,"2017","12","213 Live Oak St","Metairie","70005"
+100,"Terry Parkway Animal Clinic",2017,"Delivered",2016-12-29,"2016","12","636 Terry Parkway","Terrytown","70056"
+-45,"Terry Parkway Animal Clinic",2017,"Returned",2017-12-27,"2017","12","636 Terry Parkway","Terrytown","70056"
+200,"The Cat Hospital of Metairie",2017,"Delivered",2016-12-16,"2016","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+100,"The Cat Hospital of Metairie",2017,"Delivered",2017-07-21,"2017","7","1500 Veterans Memorial Blvd.","Metairie","70005"
+-80,"The Cat Hospital of Metairie",2017,"Returned",2017-12-27,"2017","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"The Cat Practice",2017,"Delivered",2016-12-26,"2016","12","1809 Magazine St","New Orleans","70130"
+300,"The Cat Practice",2017,"Delivered",2017-07-03,"2017","7","1809 Magazine St","New Orleans","70130"
+300,"The Cat Practice",2017,"Delivered",2017-09-21,"2017","9","1809 Magazine St","New Orleans","70130"
+-66,"The Cat Practice",2017,"Returned",2018-04-20,"2018","4","1809 Magazine St","New Orleans","70130"
+-44,"The Cat Practice",2017,"Returned",2018-04-20,"2018","4","1809 Magazine St","New Orleans","70130"
+-100,"The Cat Practice",2017,"Returned",2018-04-20,"2018","4","1809 Magazine St","New Orleans","70130"
+500,"The French Quarter Vet",2017,"Delivered",2016-12-29,"2016","12","3041 N Rampart St","New Orleans","70116"
+-68,"The French Quarter Vet",2017,"Returned",2018-01-03,"2018","1","3041 N Rampart St","New Orleans","70116"
+-92,"The French Quarter Vet",2017,"Returned",2018-01-03,"2018","1","3041 N Rampart St","New Orleans","70116"
+500,"The French Quarter Vet",2017,"Delivered",2017-04-05,"2017","4","3041 N Rampart St","New Orleans","70116"
+500,"Uptown Veterinary Hospital",2017,"Delivered",2016-12-26,"2016","12","731 Nashville Ave","New Orleans","70115"
+-100,"Uptown Veterinary Hospital",2017,"Returned",2017-12-27,"2017","12","731 Nashville Ave","New Orleans","70115"
+-79,"Uptown Veterinary Hospital",2017,"Returned",2017-12-27,"2017","12","731 Nashville Ave","New Orleans","70115"
+300,"VCA Airline Animal Hospital",2017,"Delivered",2016-12-27,"2016","12","5105 Airline Drive","Metairie","70001"
+-75,"VCA Airline Animal Hospital",2017,"Returned",2017-12-28,"2017","12","5105 Airline Drive","Metairie","70001"
+500,"VCA Causeway Animal Hospital",2017,"Delivered",2016-12-28,"2016","12","1315 N. Causeway Blvd","Metairie","70001"
+500,"VCA Causeway Animal Hospital",2017,"Delivered",2017-06-01,"2017","6","1315 N. Causeway Blvd","Metairie","70001"
+-24,"VCA Causeway Animal Hospital",2017,"Returned",2017-12-28,"2017","12","1315 N. Causeway Blvd","Metairie","70001"
+-36,"VCA Causeway Animal Hospital",2017,"Returned",2017-12-28,"2017","12","1315 N. Causeway Blvd","Metairie","70001"
+-400,"VCA Causeway Animal Hospital",2017,"Returned",2017-12-28,"2017","12","1315 N. Causeway Blvd","Metairie","70001"
+25,"Vet Pronto",2017,"Delivered",2017-02-10,"2017","2",NA,NA,NA
+100,"Vet Relief Foundation",2017,"Delivered",2017-03-09,"2017","3","2611 Florida St ",NA,NA
+200,"Vet-a-GoGo",2017,"Delivered",2017-01-05,"2017","1","3517 Chartres St","New Orleans","70117"
+-71,"Vet-a-GoGo",2017,"Returned",2017-10-05,"2017","10","3517 Chartres St","New Orleans","70117"
+1000,"Vetco @ Petco Mobile Clinic",2017,"Delivered",2017-01-04,"2017","1","17485 Opportunity Ave","Baton Rouge","70817"
+-48,"Vetco @ Petco Mobile Clinic",2017,"Returned",NA,"Unkno","Unkno","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Vetco @ Petco Mobile Clinic",2017,"Returned",NA,"Unkno","Unkno","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Vetco @ Petco Mobile Clinic",2017,"Returned",NA,"Unkno","Unkno","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Vetco @ Petco Mobile Clinic",2017,"Delivered",2017-11-24,"2017","11","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Vetco @ Petco Mobile Clinic",2017,"Returned",NA,"Unkno","Unkno","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Unknown",2017,"Delivered",2017-03-13,"2017","3",NA,NA,NA
+100,"Unknown",2017,"Delivered",2017-04-27,"2017","4",NA,NA,NA
+80,"Unknown",2017,"Delivered",2018-01-22,"2018","1",NA,NA,NA
+200,"Acadiana West Animal Clinic",2018,"Delivered",2017-12-29,"2017","12","2600 Barataria Boulevard Suite E","Marrero","70072"
+-72,"Acadiana West Animal Clinic",2018,"Returned",2019-01-05,"2019","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+-100,"Acadiana West Animal Clinic",2018,"Returned",2019-01-02,"2019","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+500,"Algiers Animal Clinic",2018,"Delivered",1903-05-13,"1903","5","3807 General DeGaulle","Algiers","70114"
+500,"Algiers Animal Clinic",2018,"Delivered",2018-04-04,"2018","4","3807 General DeGaulle","Algiers","70114"
+-2,"Algiers Animal Clinic",2018,"Returned",2018-12-27,"2018","12","3807 General DeGaulle","Algiers","70114"
+-1,"Algiers Animal Clinic",2018,"Returned",2018-12-27,"2018","12","3807 General DeGaulle","Algiers","70114"
+-1,"Algiers Animal Clinic",2018,"Returned",2018-12-27,"2018","12","3807 General DeGaulle","Algiers","70114"
+-8,"Algiers Animal Clinic",2018,"Returned",2018-12-27,"2018","12","3807 General DeGaulle","Algiers","70114"
+-4,"Algiers Animal Clinic",2018,"Returned",2018-12-27,"2018","12","3807 General DeGaulle","Algiers","70114"
+500,"Allstar Animal Clinic",2018,"Delivered",2017-12-26,"2017","12","4701 S Carrollton Ave","New Orleans","70119"
+75,"Allstar Animal Clinic",2018,"Delivered",2018-12-11,"2018","12","4701 S Carrollton Ave","New Orleans","70119"
+300,"Allstar Animal Clinic",2018,"Delivered",2018-08-02,"2018","8","4701 S Carrollton Ave","New Orleans","70119"
+100,"Animal Care Center",2018,"Delivered",2017-12-28,"2017","12","313 David Dr.","Metairie","70003"
+-89,"Animal Care Center",2018,"Returned",2018-12-26,"2018","12","313 David Dr.","Metairie","70003"
+200,"Animal Medical & Surgical Hospital",2018,"Delivered",2017-12-28,"2017","12","3001 North Causeway Blvd","Metairie","70002"
+-39,"Animal Medical & Surgical Hospital",2018,"Returned",2018-12-26,"2018","12","3001 North Causeway Blvd","Metairie","70002"
+200,"Ark Animal Hospital",2018,"Delivered",2017-12-28,"2017","12","4025 Jefferson Hwy","Jefferson","70121"
+-25,"Ark Animal Hospital",2018,"Returned",2018-12-26,"2018","12","4025 Jefferson Hwy","Jefferson","70121"
+25,"At Home Veterinary Care",2018,"Delivered",2018-01-11,"2018","1","PO Box 231145","Harahan","70123"
+100,"Avenue Animal Wellness and Emergency",2018,"Delivered",2018-01-02,"2018","1","1401 St Charles Ave","New Orleans","70130"
+45,"Avenue Animal Wellness and Emergency",2018,"Delivered",2018-10-10,"2018","10","1401 St Charles Ave","New Orleans","70130"
+-29,"Avenue Animal Wellness and Emergency",2018,"Returned",2018-12-27,"2018","12","1401 St Charles Ave","New Orleans","70130"
+26,"Avian & Exotic Animal Hospital of Louisiana",2018,"Delivered",2018-01-24,"2018","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+-22,"Avian & Exotic Animal Hospital of Louisiana",2018,"Returned",2019-01-07,"2019","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+200,"Banfield 1023 (Elmwood)",2018,"Delivered",2017-12-28,"2017","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+164,"Banfield 1023 (Elmwood)",2018,"Delivered",2018-08-10,"2018","8","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+200,"Banfield 1023 (Elmwood)",2018,"Delivered",2018-04-01,"2018","4","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+-185,"Banfield 1023 (Elmwood)",2018,"Returned",2018-12-26,"2018","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+200,"Banfield 1023 (Elmwood)",2018,"Delivered",2018-08-14,"2018","8","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+100,"Banfield 1023 (Elmwood)",2018,"Delivered",2018-11-02,"2018","11","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+500,"Banfield 1034 (West Bank)",2018,"Delivered",2017-12-29,"2017","12","1321 Manhattan Blvd","Harvey","70058"
+50,"Banfield 1034 (West Bank)",2018,"Delivered",2018-11-01,"2018","11","1321 Manhattan Blvd","Harvey","70058"
+-19,"Banfield 1034 (West Bank)",2018,"Returned",2018-12-26,"2018","12","1321 Manhattan Blvd","Harvey","70058"
+200,"Banfield 1175 (Veterans)",2018,"Delivered",2017-12-28,"2017","12","6851 Veterans Memorial Blvd","Metairie","70003"
+174,"Banfield 1175 (Veterans)",2018,"Delivered",2018-06-02,"2018","6","6851 Veterans Memorial Blvd","Metairie","70003"
+-58,"Banfield 1175 (Veterans)",2018,"Returned",2018-12-26,"2018","12","6851 Veterans Memorial Blvd","Metairie","70003"
+100,"Banfield 1175 (Veterans)",2018,"Delivered",2018-11-01,"2018","11","6851 Veterans Memorial Blvd","Metairie","70003"
+100,"Batt Veterinary Services",2018,"Delivered",2018-01-04,"2018","1",NA,NA,NA
+200,"Batt Veterinary Services",2018,"Delivered",2018-05-08,"2018","5",NA,"Metairie",NA
+75,"Benson Veterinary Care LLC",2018,"Delivered",2018-03-01,"2018","3","328 Octavia St.","New Orleans","70115"
+500,"Canal Street Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","4022 Canal St","New Orleans","70119"
+500,"Canal Street Veterinary Hospital",2018,"Delivered",2018-05-29,"2018","5","4022 Canal St","New Orleans","70119"
+500,"Carrollton Veterinary Hospital",2018,"Delivered",2017-12-27,"2017","12","3501 S. Carrollton Ave","New Orleans","70118"
+400,"Carrollton Veterinary Hospital",2018,"Delivered",2018-09-24,"2018","9","3501 S. Carrollton Ave","New Orleans","70118"
+-100,"Carrollton Veterinary Hospital",2018,"Returned",2018-12-26,"2018","12","3501 S. Carrollton Ave","New Orleans","70118"
+-31,"Carrollton Veterinary Hospital",2018,"Returned",2018-12-26,"2018","12","3501 S. Carrollton Ave","New Orleans","70118"
+-100,"Carrollton Veterinary Hospital",2018,"Returned",2018-12-26,"2018","12","3501 S. Carrollton Ave","New Orleans","70118"
+100,"Chalmette Pet Wellness Clinic & Hospital",2018,"Delivered",2018-01-02,"2018","1","705 E. Judge Perez Drive","Chalmette","70043"
+-21,"Chalmette Pet Wellness Clinic & Hospital",2018,"Returned",2019-01-05,"2019","1","705 E. Judge Perez Drive","Chalmette","70043"
+100,"Clearview Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","4713 Trenton Street","Metairie","70006"
+-48,"Clearview Veterinary Hospital",2018,"Returned",2019-01-23,"2019","1","4713 Trenton Street","Metairie","70006"
+1000,"Louisiana SPCA",2018,"Delivered",2018-01-02,"2018","1",NA,"New Orleans",NA
+-7,"Louisiana SPCA",2018,"Returned",2018-02-23,"2018","2",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-03-28,"2018","3",NA,"New Orleans",NA
+500,"Louisiana SPCA",2018,"Delivered",2018-05-08,"2018","5",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-06-18,"2018","6",NA,"New Orleans",NA
+100,"Louisiana SPCA",2018,"Delivered",2018-08-04,"2018","8",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-08-06,"2018","8",NA,"New Orleans",NA
+500,"Louisiana SPCA",2018,"Delivered",2018-09-06,"2018","9",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-12-05,"2018","12",NA,"New Orleans",NA
+-62,"Louisiana SPCA",2018,"Returned",2019-01-02,"2019","1",NA,NA,NA
+-82,"Louisiana SPCA",2018,"Returned",2019-01-02,"2019","1",NA,"New Orleans",NA
+-4,"Louisiana SPCA",2018,"Returned",2019-01-02,"2019","1",NA,NA,NA
+-100,"Louisiana SPCA",2018,"Returned",2019-01-03,"2019","1",NA,"New Orleans",NA
+50,"Convenient Home Veterinary Care",2018,"Delivered",2018-01-05,"2018","1","P.O. Box 1242","Harvey","70059"
+500,"Crescent City Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2018,"Delivered",2018-03-15,"2018","3","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2018,"Delivered",2018-06-04,"2018","6","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2018,"Delivered",2018-08-01,"2018","8","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2018,"Delivered",2018-10-26,"2018","10","524 Jefferson Ave","New Orleans","70115"
+-200,"Crescent City Veterinary Hospital",2018,"Returned",2018-12-27,"2018","12","524 Jefferson Ave","New Orleans","70115"
+500,"Desoto Park Veterinary Clinic",2018,"Delivered",2017-12-26,"2017","12","2659 Desoto St","New Orleans","70119"
+-187,"Desoto Park Veterinary Clinic",2018,"Returned",2018-12-27,"2018","12","2659 Desoto St","New Orleans","70119"
+200,"Dog Day Afternoon, LLC",2018,"Delivered",2017-12-26,"2017","12","831 Bordeaux St","New Orleans","70115"
+-9,"Dog Day Afternoon, LLC",2018,"Returned",2018-12-27,"2018","12","831 Bordeaux St","New Orleans","70115"
+100,"Dr. Mike's Animal House",2018,"Delivered",2018-01-08,"2018","1","1120 N. Rampart Street","New Orleans",NA
+200,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-146,"Annual Rabies Vaccination Drive",2018,"Returned",1900-07-18,"1900","7",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-88,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-153,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-55,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+200,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-102,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-158,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-94,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+300,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-164,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+500,"Elysian Fields Animal Clinic",2018,"Delivered",2017-12-26,"2017","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Elysian Fields Animal Clinic",2018,"Delivered",2018-06-05,"2018","6","4237 Elysian Fields Ave","New Orleans","70122"
+-100,"Elysian Fields Animal Clinic",2018,"Returned",2018-12-27,"2018","12","4237 Elysian Fields Ave","New Orleans","70122"
+-64,"Elysian Fields Animal Clinic",2018,"Returned",2018-12-27,"2018","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Elysian Fields Animal Clinic",2018,"Delivered",2018-11-12,"2018","11","4237 Elysian Fields Ave","New Orleans","70122"
+100,"Fur De Lis Vet Services",2018,"Delivered",2018-02-18,"2018","2","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+55,"Fur De Lis Vet Services",2018,"Delivered",1900-04-17,"1900","4","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+-19,"Fur De Lis Vet Services",2018,"Returned",2018-12-28,"2018","12","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+200,"Gretna Animal Hospital",2018,"Delivered",2017-12-29,"2017","12","714 Kepler St","Gretna","70053"
+102,"Gretna Animal Hospital",2018,"Delivered",2018-06-14,"2018","6","714 Kepler St","Gretna","70053"
+200,"Hickory Knoll Veterinary Hospital",2018,"Delivered",2017-12-28,"2017","12","1625 Hickory Ave","Harahan","70123"
+-100,"Hickory Knoll Veterinary Hospital",2018,"Returned",2019-01-05,"2019","1","1625 Hickory Ave","Harahan","70123"
+100,"Hickory Knoll Veterinary Hospital",2018,"Delivered",2018-11-09,"2018","11","1625 Hickory Ave","Harahan","70123"
+-90,"Hickory Knoll Veterinary Hospital",2018,"Returned",2019-01-04,"2019","1","1625 Hickory Ave","Harahan","70123"
+50,"Home Veterinary Services",2018,"Delivered",2018-01-03,"2018","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-37,"Home Veterinary Services",2018,"Returned",2019-01-09,"2019","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+50,"House Calls!",2018,"Delivered",2018-01-03,"2018","1",NA,NA,NA
+200,"Jester Veterinarian Clinic",2018,"Delivered",2017-12-29,"2017","12","4 Westbank Expressway","Westwego",NA
+-124,"Jester Veterinarian Clinic",2018,"Returned",2018-12-27,"2018","12","4 Westbank Expressway","Westwego",NA
+500,"Lake Animal Hospital",2018,"Delivered",2017-12-28,"2017","12","604 Veterans Memorial Blvd","Metairie","70005"
+-90,"Lake Animal Hospital",2018,"Returned",2018-12-26,"2018","12","604 Veterans Memorial Blvd","Metairie","70005"
+100,"Lakeside Animal Hospital",2018,"Delivered",2018-02-09,"2018","2","3838 Veterans Mem. Blvd.","Metairie","70002"
+100,"Lakeside Animal Hospital",2018,"Delivered",2018-09-13,"2018","9","3838 Veterans Mem. Blvd.","Metairie","70002"
+-80,"Lakeside Animal Hospital",2018,"Returned",2018-12-26,"2018","12","3838 Veterans Mem. Blvd.","Metairie","70002"
+1000,"Lakeview Veterinary Hospital",2018,"Delivered",2017-12-28,"2017","12","6245 Memphis Ave","New Orleans","70124"
+500,"Lakeview Veterinary Hospital",2018,"Delivered",2018-05-15,"2018","5","6245 Memphis Ave","New Orleans","70124"
+500,"Lakeview Veterinary Hospital",2018,"Delivered",2018-05-15,"2018","5","6245 Memphis Ave","New Orleans","70124"
+-100,"Lakeview Veterinary Hospital",2018,"Returned",2018-12-26,"2018","12","6245 Memphis Ave","New Orleans","70124"
+300,"Lakeview Veterinary Hospital",2018,"Delivered",2018-11-02,"2018","11","6245 Memphis Ave","New Orleans","70124"
+-100,"Lakeview Veterinary Hospital",2018,"Returned",2018-12-26,"2018","12","6245 Memphis Ave","New Orleans","70124"
+500,"Louisiana SPCA",2018,"Delivered",2018-06-15,"2018","6",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-01-02,"2018","1",NA,"New Orleans",NA
+500,"Louisiana SPCA",2018,"Delivered",2018-03-26,"2018","3",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-10-04,"2018","10",NA,"New Orleans",NA
+500,"Louisiana SPCA",2018,"Delivered",2018-01-02,"2018","1",NA,NA,NA
+-61,"Louisiana SPCA",2018,"Returned",2019-01-04,"2019","1",NA,"New Orleans",NA
+-500,"Louisiana SPCA",2018,"Returned",2019-01-04,"2019","1",NA,NA,NA
+500,"Louisiana SPCA",2018,"Delivered",2018-11-15,"2018","11",NA,"New Orleans",NA
+500,"Louisiana SPCA",2018,"Delivered",2018-01-02,"2018","1",NA,NA,NA
+-2,"Louisiana SPCA",2018,"Returned",2019-01-02,"2019","1",NA,"New Orleans",NA
+-171,"Louisiana SPCA",2018,"Returned",2018-12-31,"2018","12",NA,NA,NA
+200,"Low Cost Animal Medical Center",2018,"Delivered",2018-01-02,"2018","1","4300 Washington Ave.","New Orleans","70125"
+800,"Low Cost Animal Medical Center",2018,"Delivered",2018-02-14,"2018","2","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2018,"Delivered",2018-05-02,"2018","5","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2018,"Delivered",2018-06-25,"2018","6","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2018,"Delivered",2018-09-17,"2018","9","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2018,"Delivered",2018-11-09,"2018","11","4300 Washington Ave.","New Orleans","70125"
+-300,"Low Cost Animal Medical Center",2018,"Returned",2018-12-27,"2018","12","4300 Washington Ave.","New Orleans","70125"
+-100,"Low Cost Animal Medical Center",2018,"Returned",2018-12-27,"2018","12","4300 Washington Ave.","New Orleans","70125"
+-108,"Low Cost Animal Medical Center",2018,"Returned",2018-12-27,"2018","12","4300 Washington Ave.","New Orleans","70125"
+500,"Magazine Street Animal Clinic",2018,"Delivered",2017-12-26,"2017","12","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2018,"Delivered",2018-03-01,"2018","3","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2018,"Delivered",2018-07-10,"2018","7","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2018,"Delivered",2018-09-13,"2018","9","3458 Magazine St","New Orleans","70115"
+300,"Magazine Street Animal Clinic",2018,"Delivered",2018-11-28,"2018","11","3458 Magazine St","New Orleans","70115"
+200,"Manhattan Animal Clinic, LLC",2018,"Delivered",2017-12-29,"2017","12",NA,"Harvey",NA
+-152,"Manhattan Animal Clinic, LLC",2018,"Returned",2019-01-05,"2019","1",NA,"Harvey",NA
+500,"Maple Small Animal Clinic",2018,"Delivered",2017-12-26,"2017","12","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2018,"Delivered",2018-03-15,"2018","3","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2018,"Delivered",2018-05-30,"2018","5","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2018,"Delivered",2018-08-01,"2018","8","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2018,"Delivered",2018-10-24,"2018","10","7608 Maple St","New Orleans","70118"
+-67,"Maple Small Animal Clinic",2018,"Returned",2018-12-26,"2018","12","7608 Maple St","New Orleans","70118"
+-200,"Maple Small Animal Clinic",2018,"Returned",2018-12-26,"2018","12","7608 Maple St","New Orleans","70118"
+100,"Marrero Veterinary Clinic",2018,"Delivered",2017-12-29,"2017","12","4001 Lapalco Blvd","Harvey","70058"
+-34,"Marrero Veterinary Clinic",2018,"Returned",2019-01-05,"2019","1","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2018,"Returned",2019-01-05,"2019","1","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2018,"Returned",2019-01-05,"2019","1","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2018,"Returned",2019-01-05,"2019","1","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2018,"Returned",2019-01-05,"2019","1","4001 Lapalco Blvd","Harvey","70058"
+100,"MedVet New Orleans",2018,"Delivered",2018-09-24,"2018","9","2315 N CAUSEWAY BLVD","Metairie","70001"
+-98,"MedVet New Orleans",2018,"Returned",2019-05-25,"2019","5","2315 N CAUSEWAY BLVD","Metairie","70001"
+1000,"Metairie Small Animal Hospital",2018,"Delivered",2017-12-29,"2017","12","101 Metairie Rd","Metairie","70005"
+-67,"Metairie Small Animal Hospital",2018,"Returned",2019-01-23,"2019","1","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2018,"Delivered",2018-03-23,"2018","3","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2018,"Delivered",2018-07-03,"2018","7","101 Metairie Rd","Metairie","70005"
+-100,"Metairie Small Animal Hospital",2018,"Returned",2019-12-23,"2019","12","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2018,"Delivered",2018-11-09,"2018","11","101 Metairie Rd","Metairie","70005"
+-24,"Metairie Small Animal Hospital",2018,"Returned",2019-12-23,"2019","12","101 Metairie Rd","Metairie","70005"
+-93,"Metairie Small Animal Hospital",2018,"Returned",2019-12-23,"2019","12","101 Metairie Rd","Metairie","70005"
+-183,"Metairie Small Animal Hospital",2018,"Returned",2019-12-23,"2019","12","101 Metairie Rd","Metairie","70005"
+-500,"Metairie Small Animal Hospital",2018,"Returned",2019-01-23,"2019","1","101 Metairie Rd","Metairie","70005"
+-15,"Metairie Small Animal Hospital",2018,"Returned",2019-01-23,"2019","1","101 Metairie Rd","Metairie","70005"
+500,"Midcity Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2018,"Delivered",2018-02-22,"2018","2","3821 Orleans Ave","New Orleans","70119"
+300,"Midcity Veterinary Hospital",2018,"Delivered",2018-05-04,"2018","5","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2018,"Delivered",2018-07-18,"2018","7","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2018,"Delivered",2018-09-26,"2018","9","3821 Orleans Ave","New Orleans","70119"
+-59,"Midcity Veterinary Hospital",2018,"Returned",2019-01-09,"2019","1","3821 Orleans Ave","New Orleans","70119"
+200,"Natural Pet Care",2018,"Delivered",2017-12-28,"2017","12","3825 Hessmer Ave","Metairie","70002"
+-24,"Natural Pet Care",2018,"Returned",2018-12-26,"2018","12","3825 Hessmer Ave","Metairie","70002"
+-88,"Natural Pet Care",2018,"Returned",2018-12-26,"2018","12","3825 Hessmer Ave","Metairie","70002"
+100,"New Orleans Animal Health",2018,"Delivered",2018-01-08,"2018","1","2372 St. Claude Ave","New Orleans","70117"
+100,"New Orleans Animal Health",2018,"Delivered",2018-05-17,"2018","5","2372 St. Claude Ave","New Orleans","70117"
+100,"New Orleans Animal Health",2018,"Delivered",2018-11-16,"2018","11","2372 St. Claude Ave","New Orleans","70117"
+-87,"New Orleans Animal Health",2018,"Returned",2018-12-27,"2018","12","2372 St. Claude Ave","New Orleans","70117"
+500,"NOLA Animal Clinic",2018,"Delivered",2017-12-22,"2017","12","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2018,"Delivered",2018-03-21,"2018","3","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2018,"Delivered",2018-06-05,"2018","6","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2018,"Delivered",2018-08-22,"2018","8","4554 Downman Rd","New Orleans","70126"
+70,"NOLA Animal Clinic",2018,"Delivered",2019-01-14,"2019","1","4554 Downman Rd","New Orleans","70126"
+400,"Annual Rabies Vaccination Drive",2018,"Delivered",2018-03-23,"2018","3",NA,NA,NA
+-174,"Annual Rabies Vaccination Drive",2018,"Returned",2018-03-26,"2018","3",NA,NA,NA
+1000,"Pet Care Center",2018,"Delivered",2017-12-28,"2017","12","2212 David Drive","Metairie","70003"
+500,"Pet Care Center",2018,"Delivered",2018-05-29,"2018","5","2212 David Drive","Metairie","70003"
+500,"Pet Care Center",2018,"Delivered",2018-07-18,"2018","7","2212 David Drive","Metairie","70003"
+-25,"Pet Care Center",2018,"Returned",2019-05-14,"2019","5","2212 David Drive","Metairie","70003"
+-200,"Pet Care Center",2018,"Returned",2019-02-25,"2019","2","2212 David Drive","Metairie","70003"
+-32,"Pet Care Center",2018,"Returned",NA,"Unkno","Unkno","2212 David Drive","Metairie","70003"
+-40,"Pet Care Center",2018,"Returned",NA,"Unkno","Unkno","2212 David Drive","Metairie","70003"
+-41,"Pet Care Center",2018,"Returned",NA,"Unkno","Unkno","2212 David Drive","Metairie","70003"
+500,"Prytania Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2018,"Delivered",2018-03-01,"2018","3","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2018,"Delivered",2018-05-17,"2018","5","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2018,"Delivered",2018-07-10,"2018","7","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2018,"Delivered",2018-10-05,"2018","10","201 Nashville Ave.","New Orleans","70115"
+-33,"Prytania Veterinary Hospital",2018,"Returned",2018-12-27,"2018","12","201 Nashville Ave.","New Orleans","70115"
+50,"Quality Pet Care",2018,"Delivered",2018-01-24,"2018","1","1600-B Belle Chasse Hwy","Gretna","70056"
+-46,"Quality Pet Care",2018,"Returned",2019-01-05,"2019","1","1600-B Belle Chasse Hwy","Gretna","70056"
+1000,"Southern Animal Foundation",2018,"Delivered",2017-12-26,"2017","12","1823 Magazine Street","New Orleans","70130"
+1000,"Southern Animal Foundation",2018,"Delivered",2018-04-25,"2018","4","1823 Magazine Street","New Orleans","70130"
+1000,"Southern Animal Foundation",2018,"Delivered",2018-09-13,"2018","9","1823 Magazine Street","New Orleans","70130"
+-400,"Southern Animal Foundation",2018,"Returned",2018-12-27,"2018","12","1823 Magazine Street","New Orleans","70130"
+-53,"Southern Animal Foundation",2018,"Returned",2018-12-27,"2018","12","1823 Magazine Street","New Orleans","70130"
+500,"Southshore Animal Hospital",2018,"Delivered",2017-12-28,"2017","12","213 Live Oak St","Metairie","70005"
+-85,"Southshore Animal Hospital",2018,"Returned",2018-12-26,"2018","12","213 Live Oak St","Metairie","70005"
+100,"Terry Parkway Animal Clinic",2018,"Delivered",2017-12-29,"2017","12","636 Terry Parkway","Terrytown","70056"
+-62,"Terry Parkway Animal Clinic",2018,"Returned",2019-01-05,"2019","1","636 Terry Parkway","Terrytown","70056"
+100,"The Cat Hospital of Metairie",2018,"Delivered",2018-06-12,"2018","6","1500 Veterans Memorial Blvd.","Metairie","70005"
+-68,"The Cat Hospital of Metairie",2018,"Returned",2018-12-26,"2018","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+200,"The Cat Hospital of Metairie",2018,"Delivered",2017-12-28,"2017","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+-100,"The Cat Hospital of Metairie",2018,"Returned",2018-12-26,"2018","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+100,"The Cat Hospital of Metairie",2018,"Delivered",2018-06-12,"2018","6","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"The Cat Practice",2018,"Delivered",2017-12-26,"2017","12","1809 Magazine St","New Orleans","70130"
+500,"The Cat Practice",2018,"Delivered",2018-05-22,"2018","5","1809 Magazine St","New Orleans","70130"
+-29,"The Cat Practice",2018,"Returned",2019-03-14,"2019","3","1809 Magazine St","New Orleans","70130"
+-100,"The Cat Practice",2018,"Returned",2018-12-27,"2018","12","1809 Magazine St","New Orleans","70130"
+-62,"The Cat Practice",2018,"Returned",2019-03-14,"2019","3","1809 Magazine St","New Orleans","70130"
+500,"The French Quarter Vet",2018,"Delivered",2018-01-02,"2018","1","3041 N Rampart St","New Orleans","70116"
+-71,"The French Quarter Vet",2018,"Returned",2019-01-09,"2019","1","3041 N Rampart St","New Orleans","70116"
+300,"Uptown Veterinary Hospital",2018,"Delivered",2017-12-26,"2017","12","731 Nashville Ave","New Orleans","70115"
+-13,"Uptown Veterinary Hospital",2018,"Returned",2019-01-05,"2019","1","731 Nashville Ave","New Orleans","70115"
+200,"VCA Airline Animal Hospital",2018,"Delivered",2017-12-28,"2017","12","5105 Airline Drive","Metairie","70001"
+-3,"VCA Airline Animal Hospital",2018,"Returned",2018-12-26,"2018","12","5105 Airline Drive","Metairie","70001"
+-63,"VCA Airline Animal Hospital",2018,"Returned",2018-12-26,"2018","12","5105 Airline Drive","Metairie","70001"
+500,"VCA Causeway Animal Hospital",2018,"Delivered",2017-12-28,"2017","12","1315 N. Causeway Blvd","Metairie","70001"
+100,"VCA Causeway Animal Hospital",2018,"Delivered",2018-09-13,"2018","9","1315 N. Causeway Blvd","Metairie","70001"
+-50,"VCA Causeway Animal Hospital",2018,"Returned",2019-01-08,"2019","1","1315 N. Causeway Blvd","Metairie","70001"
+500,"Vetco @ Petco Mobile Clinic",2018,"Delivered",2018-01-03,"2018","1","17485 Opportunity Ave","Baton Rouge","70817"
+500,"Vetco @ Petco Mobile Clinic",2018,"Delivered",2018-03-28,"2018","3","17485 Opportunity Ave","Baton Rouge","70817"
+-500,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+500,"Vetco @ Petco Mobile Clinic",2018,"Delivered",2018-09-18,"2018","9","17485 Opportunity Ave","Baton Rouge","70817"
+-17,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-42,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-33,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-94,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-89,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-83,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+-23,"Vetco @ Petco Mobile Clinic",2018,"Returned",2019-01-11,"2019","1","17485 Opportunity Ave","Baton Rouge","70817"
+7,"Louisiana SPCA",2018,"Delivered",2018-02-24,"2018","2",NA,"New Orleans",NA
+50,"Westside Veterinary Hospital",2018,"Delivered",2018-10-31,"2018","10","91 Westbank Expressway Suite 540","Gretna","70053"
+-39,"Westside Veterinary Hospital",2018,"Returned",2019-01-05,"2019","1","91 Westbank Expressway Suite 540","Gretna","70053"
+100,"Westside Veterinary Hospital",2018,"Delivered",2018-06-19,"2018","6","91 Westbank Expressway Suite 540","Gretna","70053"
+25,"Unknown",2018,"Delivered",2018-01-22,"2018","1",NA,NA,NA
+-19,"Unknown",2018,"Returned",2019-02-11,"2019","2",NA,NA,NA
+200,"Acadiana West Animal Clinic",2019,"Delivered",2018-12-28,"2018","12","2600 Barataria Boulevard Suite E","Marrero","70072"
+-188,"Acadiana West Animal Clinic",2019,"Returned",2020-01-13,"2020","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+500,"Algiers Animal Clinic",2019,"Delivered",2018-12-26,"2018","12","3807 General DeGaulle","Algiers","70114"
+200,"Algiers Animal Clinic",2019,"Delivered",2019-05-21,"2019","5","3807 General DeGaulle","Algiers","70114"
+300,"Algiers Animal Clinic",2019,"Delivered",2019-07-11,"2019","7","3807 General DeGaulle","Algiers","70114"
+-160,"Algiers Animal Clinic",2019,"Returned",2020-12-30,"2020","12","3807 General DeGaulle","Algiers","70114"
+-10,"Algiers Animal Clinic",2019,"Returned",2020-01-01,"2020","1","3807 General DeGaulle","Algiers","70114"
+-27,"Algiers Animal Clinic",2019,"Returned",2020-12-30,"2020","12","3807 General DeGaulle","Algiers","70114"
+500,"Allstar Animal Clinic",2019,"Delivered",2018-12-28,"2018","12","4701 S Carrollton Ave","New Orleans","70119"
+25,"Allstar Animal Clinic",2019,"Delivered",2019-12-20,"2019","12","4701 S Carrollton Ave","New Orleans","70119"
+100,"Allstar Animal Clinic",2019,"Delivered",2019-10-17,"2019","10","4701 S Carrollton Ave","New Orleans","70119"
+200,"Allstar Animal Clinic",2019,"Delivered",2019-06-10,"2019","6","4701 S Carrollton Ave","New Orleans","70119"
+100,"Animal Care Center",2019,"Delivered",2018-12-26,"2018","12","313 David Dr.","Metairie","70003"
+-95,"Animal Care Center",2019,"Returned",2019-12-30,"2019","12","313 David Dr.","Metairie","70003"
+300,"Animal Medical & Surgical Hospital",2019,"Delivered",2018-12-26,"2018","12","3001 North Causeway Blvd","Metairie","70002"
+-39,"Animal Medical & Surgical Hospital",2019,"Returned",2019-12-30,"2019","12","3001 North Causeway Blvd","Metairie","70002"
+-15,"Animal Medical & Surgical Hospital",2019,"Returned",2019-12-30,"2019","12","3001 North Causeway Blvd","Metairie","70002"
+-80,"Animal Medical & Surgical Hospital",2019,"Returned",2019-12-30,"2019","12","3001 North Causeway Blvd","Metairie","70002"
+200,"Ark Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","4025 Jefferson Hwy","Jefferson","70121"
+25,"At Home Veterinary Care",2019,"Delivered",2019-01-24,"2019","1","PO Box 231145","Harahan","70123"
+100,"Avenue Animal Wellness and Emergency",2019,"Delivered",2018-12-27,"2018","12","1401 St Charles Ave","New Orleans","70130"
+100,"Avenue Animal Wellness and Emergency",2019,"Delivered",2019-05-15,"2019","5","1401 St Charles Ave","New Orleans","70130"
+200,"Avenue Animal Wellness and Emergency",2019,"Delivered",2019-09-27,"2019","9","1401 St Charles Ave","New Orleans","70130"
+-1,"Avenue Animal Wellness and Emergency",2019,"Returned",2019-12-30,"2019","12","1401 St Charles Ave","New Orleans","70130"
+-46,"Avenue Animal Wellness and Emergency",2019,"Returned",2019-12-30,"2019","12","1401 St Charles Ave","New Orleans","70130"
+25,"Avian & Exotic Animal Hospital of Louisiana",2019,"Delivered",2019-01-07,"2019","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+-8,"Avian & Exotic Animal Hospital of Louisiana",2019,"Returned",2019-12-30,"2019","12","3635 N I-10 Service Rd. W.","Metairie","70002"
+200,"Banfield 1023 (Elmwood)",2019,"Delivered",2018-12-26,"2018","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+300,"Banfield 1023 (Elmwood)",2019,"Delivered",2019-04-11,"2019","4","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+30,"Banfield 1023 (Elmwood)",2019,"Delivered",2019-12-20,"2019","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+200,"Banfield 1023 (Elmwood)",2019,"Delivered",2019-10-19,"2019","10","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+500,"Banfield 1034 (West Bank)",2019,"Delivered",2018-12-28,"2018","12","1321 Manhattan Blvd","Harvey","70058"
+300,"Banfield 1034 (West Bank)",2019,"Delivered",2019-06-10,"2019","6","1321 Manhattan Blvd","Harvey","70058"
+-300,"Banfield 1034 (West Bank)",2019,"Returned",2019-12-30,"2019","12","1321 Manhattan Blvd","Harvey","70058"
+200,"Banfield 1034 (West Bank)",2019,"Delivered",2019-09-27,"2019","9","1321 Manhattan Blvd","Harvey","70058"
+100,"Banfield 1034 (West Bank)",2019,"Delivered",2019-11-04,"2019","11","1321 Manhattan Blvd","Harvey","70058"
+200,"Banfield 1175 (Veterans)",2019,"Delivered",2018-12-26,"2018","12","6851 Veterans Memorial Blvd","Metairie","70003"
+200,"Banfield 1175 (Veterans)",2019,"Delivered",2019-05-02,"2019","5","6851 Veterans Memorial Blvd","Metairie","70003"
+200,"Batt Veterinary Services",2019,"Delivered",2018-12-26,"2018","12",NA,NA,NA
+200,"Batt Veterinary Services",2019,"Delivered",2019-04-23,"2019","4",NA,"Metairie",NA
+500,"Batt Veterinary Services",2019,"Delivered",2019-07-18,"2019","7",NA,NA,NA
+-58,"Batt Veterinary Services",2019,"Returned",2020-01-03,"2020","1",NA,"Metairie",NA
+-44,"Batt Veterinary Services",2019,"Returned",2020-01-03,"2020","1",NA,NA,NA
+10,"Benson Veterinary Care LLC",2019,"Delivered",2019-02-06,"2019","2","328 Octavia St.","New Orleans","70115"
+500,"Canal Street Veterinary Hospital",2019,"Delivered",2018-12-26,"2018","12","4022 Canal St","New Orleans","70119"
+500,"Canal Street Veterinary Hospital",2019,"Delivered",2019-05-21,"2019","5","4022 Canal St","New Orleans","70119"
+-80,"Canal Street Veterinary Hospital",2019,"Returned",2019-12-30,"2019","12","4022 Canal St","New Orleans","70119"
+500,"Carrollton Veterinary Hospital",2019,"Delivered",2018-12-26,"2018","12","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Carrollton Veterinary Hospital",2019,"Delivered",2019-08-07,"2019","8","3501 S. Carrollton Ave","New Orleans","70118"
+100,"Chalmette Pet Wellness Clinic & Hospital",2019,"Delivered",2018-12-28,"2018","12","705 E. Judge Perez Drive","Chalmette","70043"
+-44,"Chalmette Pet Wellness Clinic & Hospital",2019,"Returned",2020-01-02,"2020","1","705 E. Judge Perez Drive","Chalmette","70043"
+100,"Clearview Veterinary Hospital",2019,"Delivered",2019-01-23,"2019","1","4713 Trenton Street","Metairie","70006"
+-26,"Clearview Veterinary Hospital",2019,"Returned",2020-01-02,"2020","1","4713 Trenton Street","Metairie","70006"
+1000,"Louisiana SPCA",2019,"Delivered",2018-12-31,"2018","12",NA,NA,NA
+400,"Louisiana SPCA",2019,"Delivered",2019-04-04,"2019","4",NA,"New Orleans",NA
+-144,"Louisiana SPCA",2019,"Returned",2020-12-30,"2020","12",NA,NA,NA
+500,"Louisiana SPCA",2019,"Delivered",2019-05-02,"2019","5",NA,"New Orleans",NA
+500,"Louisiana SPCA",2019,"Delivered",2019-07-06,"2019","7",NA,NA,NA
+500,"Louisiana SPCA",2019,"Delivered",2019-08-22,"2019","8",NA,"New Orleans",NA
+400,"Louisiana SPCA",2019,"Delivered",2019-10-07,"2019","10",NA,NA,NA
+300,"Louisiana SPCA",2019,"Delivered",2019-11-20,"2019","11",NA,"New Orleans",NA
+100,"Louisiana SPCA",2019,"Delivered",2019-12-19,"2019","12",NA,NA,NA
+-14,"Louisiana SPCA",2019,"Returned",2020-01-30,"2020","1",NA,"New Orleans",NA
+50,"Convenient Home Veterinary Care",2019,"Delivered",2019-01-02,"2019","1","P.O. Box 1242","Harvey","70059"
+-20,"Convenient Home Veterinary Care",2019,"Returned",2020-01-03,"2020","1","P.O. Box 1242","Harvey","70059"
+500,"Crescent City Veterinary Hospital",2019,"Delivered",2018-12-27,"2018","12","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2019,"Delivered",2019-03-20,"2019","3","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2019,"Delivered",2019-05-15,"2019","5","524 Jefferson Ave","New Orleans","70115"
+500,"Crescent City Veterinary Hospital",2019,"Delivered",2019-07-30,"2019","7","524 Jefferson Ave","New Orleans","70115"
+300,"Crescent City Veterinary Hospital",2019,"Delivered",2019-11-11,"2019","11","524 Jefferson Ave","New Orleans","70115"
+50,"Crescent City Veterinary Hospital",2019,"Delivered",2019-01-06,"2019","1","524 Jefferson Ave","New Orleans","70115"
+500,"Desoto Park Veterinary Clinic",2019,"Delivered",2019-12-27,"2019","12","2659 Desoto St","New Orleans","70119"
+-100,"Desoto Park Veterinary Clinic",2019,"Returned",2019-12-30,"2019","12","2659 Desoto St","New Orleans","70119"
+-79,"Desoto Park Veterinary Clinic",2019,"Returned",2019-12-30,"2019","12","2659 Desoto St","New Orleans","70119"
+100,"Dog Day Afternoon, LLC",2019,"Delivered",2018-12-27,"2018","12","831 Bordeaux St","New Orleans","70115"
+48,"Dog Day Afternoon, LLC",2019,"Delivered",2019-08-16,"2019","8","831 Bordeaux St","New Orleans","70115"
+170,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-11,"2019","4",NA,NA,NA
+51,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-12,"2019","4",NA,NA,NA
+173,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-12,"2019","4",NA,NA,NA
+67,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-09,"2019","4",NA,NA,NA
+165,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-09,"2019","4",NA,NA,NA
+16,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-08,"2019","4",NA,NA,NA
+100,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-08,"2019","4",NA,NA,NA
+124,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-10,"2019","4",NA,NA,NA
+150,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-10,"2019","4",NA,NA,NA
+113,"Annual Rabies Vaccination Drive",2019,"Delivered",2019-04-08,"2019","4",NA,NA,NA
+500,"Elysian Fields Animal Clinic",2019,"Delivered",2018-12-27,"2018","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Elysian Fields Animal Clinic",2019,"Delivered",2019-04-01,"2019","4","4237 Elysian Fields Ave","New Orleans","70122"
+200,"Fur De Lis Vet Services",2019,"Delivered",2019-01-02,"2019","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+200,"Fur De Lis Vet Services",2019,"Delivered",2019-07-23,"2019","7","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+-52,"Fur De Lis Vet Services",2019,"Returned",2020-01-21,"2020","1","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+200,"Gretna Animal Hospital",2019,"Delivered",2018-12-28,"2018","12","714 Kepler St","Gretna","70053"
+100,"Gretna Animal Hospital",2019,"Delivered",2019-10-09,"2019","10","714 Kepler St","Gretna","70053"
+-80,"Gretna Animal Hospital",2019,"Returned",2020-01-02,"2020","1","714 Kepler St","Gretna","70053"
+100,"Hickory Knoll Veterinary Hospital",2019,"Delivered",2018-12-26,"2018","12","1625 Hickory Ave","Harahan","70123"
+25,"Home Veterinary Services",2019,"Delivered",2019-01-07,"2019","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-12,"Home Veterinary Services",2019,"Returned",2019-12-30,"2019","12","PO Box 11120, Jefferson, 10181-1120",NA,NA
+200,"Jester Veterinarian Clinic",2019,"Delivered",2018-12-27,"2018","12","4 Westbank Expressway","Westwego",NA
+-35,"Jester Veterinarian Clinic",2019,"Returned",2019-12-30,"2019","12","4 Westbank Expressway","Westwego",NA
+500,"Lake Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","604 Veterans Memorial Blvd","Metairie","70005"
+-50,"Lake Animal Hospital",2019,"Returned",2019-12-30,"2019","12","604 Veterans Memorial Blvd","Metairie","70005"
+100,"Lakeside Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","3838 Veterans Mem. Blvd.","Metairie","70002"
+100,"Lakeside Animal Hospital",2019,"Delivered",2019-07-25,"2019","7","3838 Veterans Mem. Blvd.","Metairie","70002"
+-49,"Lakeside Animal Hospital",2019,"Returned",2020-01-02,"2020","1","3838 Veterans Mem. Blvd.","Metairie","70002"
+1000,"Lakeview Veterinary Hospital",2019,"Delivered",2018-12-26,"2018","12","6245 Memphis Ave","New Orleans","70124"
+1000,"Lakeview Veterinary Hospital",2019,"Delivered",2019-05-15,"2019","5","6245 Memphis Ave","New Orleans","70124"
+300,"Lakeview Veterinary Hospital",2019,"Delivered",2019-11-21,"2019","11","6245 Memphis Ave","New Orleans","70124"
+-200,"Lakeview Veterinary Hospital",2019,"Returned",2019-12-30,"2019","12","6245 Memphis Ave","New Orleans","70124"
+100,"Levy Veterinary Hospital",2019,"Delivered",2019-05-16,"2019","5","2305 W Esplanade Ave Ste. W","Kenner","70065"
+-97,"Levy Veterinary Hospital",2019,"Returned",2020-01-02,"2020","1","2305 W Esplanade Ave Ste. W","Kenner","70065"
+500,"Louisiana SPCA",2019,"Delivered",2018-12-31,"2018","12",NA,"New Orleans",NA
+400,"Louisiana SPCA",2019,"Delivered",2019-04-12,"2019","4",NA,NA,NA
+500,"Louisiana SPCA",2019,"Delivered",2019-07-17,"2019","7",NA,"New Orleans",NA
+500,"Louisiana SPCA",2019,"Delivered",2019-10-07,"2019","10",NA,NA,NA
+-146,"Louisiana SPCA",2019,"Returned",2020-01-03,"2020","1",NA,"New Orleans",NA
+500,"Louisiana SPCA",2019,"Delivered",2018-12-31,"2018","12",NA,NA,NA
+-98,"Louisiana SPCA",2019,"Returned",2020-01-15,"2020","1",NA,"New Orleans",NA
+500,"Louisiana SPCA",2019,"Delivered",2018-12-21,"2018","12",NA,NA,NA
+-14,"Louisiana SPCA",2019,"Returned",2020-01-30,"2020","1",NA,"New Orleans",NA
+-200,"Louisiana SPCA",2019,"Returned",2020-01-07,"2020","1",NA,NA,NA
+1000,"Low Cost Animal Medical Center",2019,"Delivered",2018-12-27,"2018","12","4300 Washington Ave.","New Orleans","70125"
+1000,"Low Cost Animal Medical Center",2019,"Delivered",2019-04-10,"2019","4","4300 Washington Ave.","New Orleans","70125"
+1000,"Low Cost Animal Medical Center",2019,"Delivered",2019-08-01,"2019","8","4300 Washington Ave.","New Orleans","70125"
+500,"Low Cost Animal Medical Center",2019,"Delivered",2019-09-05,"2019","9","4300 Washington Ave.","New Orleans","70125"
+500,"Magazine Street Animal Clinic",2019,"Delivered",2018-12-27,"2018","12","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2019,"Delivered",2019-02-25,"2019","2","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2019,"Delivered",2019-05-13,"2019","5","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2019,"Delivered",2019-07-01,"2019","7","3458 Magazine St","New Orleans","70115"
+500,"Magazine Street Animal Clinic",2019,"Delivered",2019-09-05,"2019","9","3458 Magazine St","New Orleans","70115"
+300,"Magazine Street Animal Clinic",2019,"Delivered",2019-11-25,"2019","11","3458 Magazine St","New Orleans","70115"
+-49,"Magazine Street Animal Clinic",2019,"Returned",2019-12-30,"2019","12","3458 Magazine St","New Orleans","70115"
+100,"Manhattan Animal Clinic, LLC",2019,"Delivered",2018-12-28,"2018","12",NA,"Harvey",NA
+500,"Maple Small Animal Clinic",2019,"Delivered",2018-12-26,"2018","12","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2019,"Delivered",2019-02-20,"2019","2","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2019,"Delivered",2019-05-29,"2019","5","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2019,"Delivered",2019-07-19,"2019","7","7608 Maple St","New Orleans","70118"
+500,"Maple Small Animal Clinic",2019,"Delivered",2019-09-27,"2019","9","7608 Maple St","New Orleans","70118"
+-300,"Maple Small Animal Clinic",2019,"Returned",2019-12-30,"2019","12","7608 Maple St","New Orleans","70118"
+100,"Marrero Veterinary Clinic",2019,"Delivered",2018-12-28,"2018","12","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2019,"Returned",2020-01-03,"2020","1","4001 Lapalco Blvd","Harvey","70058"
+-1,"Marrero Veterinary Clinic",2019,"Returned",2020-01-03,"2020","1","4001 Lapalco Blvd","Harvey","70058"
+-14,"Marrero Veterinary Clinic",2019,"Returned",2020-01-03,"2020","1","4001 Lapalco Blvd","Harvey","70058"
+25,"MedVet New Orleans",2019,"Delivered",2019-06-04,"2019","6","2315 N CAUSEWAY BLVD","Metairie","70001"
+1000,"Metairie Small Animal Hospital",2019,"Delivered",2018-12-27,"2018","12","101 Metairie Rd","Metairie","70005"
+-61,"Metairie Small Animal Hospital",2019,"Returned",2020-01-13,"2020","1","101 Metairie Rd","Metairie","70005"
+500,"Metairie Small Animal Hospital",2019,"Delivered",2019-03-15,"2019","3","101 Metairie Rd","Metairie","70005"
+500,"Metairie Small Animal Hospital",2019,"Delivered",2019-03-15,"2019","3","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2019,"Delivered",2019-06-10,"2019","6","101 Metairie Rd","Metairie","70005"
+1000,"Metairie Small Animal Hospital",2019,"Delivered",2019-08-30,"2019","8","101 Metairie Rd","Metairie","70005"
+-25,"Metairie Small Animal Hospital",2019,"Returned",2020-01-13,"2020","1","101 Metairie Rd","Metairie","70005"
+-77,"Metairie Small Animal Hospital",2019,"Returned",2019-01-13,"2019","1","101 Metairie Rd","Metairie","70005"
+-58,"Metairie Small Animal Hospital",2019,"Returned",2020-01-13,"2020","1","101 Metairie Rd","Metairie","70005"
+-195,"Metairie Small Animal Hospital",2019,"Returned",2020-01-13,"2020","1","101 Metairie Rd","Metairie","70005"
+500,"Midcity Veterinary Hospital",2019,"Delivered",2018-12-27,"2018","12","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2019,"Delivered",2019-03-12,"2019","3","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2019,"Delivered",2019-05-22,"2019","5","3821 Orleans Ave","New Orleans","70119"
+500,"Midcity Veterinary Hospital",2019,"Delivered",2019-07-22,"2019","7","3821 Orleans Ave","New Orleans","70119"
+400,"Midcity Veterinary Hospital",2019,"Delivered",2019-10-12,"2019","10","3821 Orleans Ave","New Orleans","70119"
+100,"Midcity Veterinary Hospital",2019,"Delivered",2019-12-06,"2019","12","3821 Orleans Ave","New Orleans","70119"
+-58,"Midcity Veterinary Hospital",2019,"Returned",2019-12-30,"2019","12","3821 Orleans Ave","New Orleans","70119"
+-100,"Unknown",2019,"Returned",2020-01-14,"2020","1",NA,NA,NA
+200,"Natural Pet Care",2019,"Delivered",2018-12-26,"2018","12","3825 Hessmer Ave","Metairie","70002"
+-13,"Natural Pet Care",2019,"Returned",2020-01-02,"2020","1","3825 Hessmer Ave","Metairie","70002"
+-100,"Natural Pet Care",2019,"Returned",2021-01-04,"2021","1","3825 Hessmer Ave","Metairie","70002"
+-1,"Natural Pet Care",2019,"Returned",2021-01-04,"2021","1","3825 Hessmer Ave","Metairie","70002"
+200,"New Orleans Animal Health",2019,"Delivered",2018-12-27,"2018","12","2372 St. Claude Ave","New Orleans","70117"
+200,"New Orleans Animal Health",2019,"Delivered",2019-06-25,"2019","6","2372 St. Claude Ave","New Orleans","70117"
+500,"NOLA Animal Clinic",2019,"Delivered",2018-12-27,"2018","12","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2019,"Delivered",2019-03-27,"2019","3","4554 Downman Rd","New Orleans","70126"
+600,"NOLA Animal Clinic",2019,"Delivered",2019-06-05,"2019","6","4554 Downman Rd","New Orleans","70126"
+500,"NOLA Animal Clinic",2019,"Delivered",2019-09-23,"2019","9","4554 Downman Rd","New Orleans","70126"
+-50,"NOLA Animal Clinic",2019,"Returned",2019-12-30,"2019","12","4554 Downman Rd","New Orleans","70126"
+1000,"Pet Care Center",2019,"Delivered",2018-12-26,"2018","12","2212 David Drive","Metairie","70003"
+-23,"Pet Care Center",2019,"Returned",2020-02-18,"2020","2","2212 David Drive","Metairie","70003"
+-91,"Pet Care Center",2019,"Returned",2020-02-18,"2020","2","2212 David Drive","Metairie","70003"
+200,"Pet Care Center",2019,"Delivered",2019-06-04,"2019","6","2212 David Drive","Metairie","70003"
+500,"Pet Care Center",2019,"Delivered",2019-07-11,"2019","7","2212 David Drive","Metairie","70003"
+-54,"Pet Care Center",2019,"Returned",2020-02-18,"2020","2","2212 David Drive","Metairie","70003"
+-15,"Pet Care Center",2019,"Returned",2020-02-18,"2020","2","2212 David Drive","Metairie","70003"
+-1,"Pet Care Center",2019,"Returned",2020-02-18,"2020","2","2212 David Drive","Metairie","70003"
+100,"Primary Veterinary Care",2019,"Delivered",2019-09-05,"2019","9","90 West Bank Expressway","Gretna",NA
+500,"Prytania Veterinary Hospital",2019,"Delivered",2018-12-27,"2018","12","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2019,"Delivered",2019-03-04,"2019","3","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2019,"Delivered",2019-05-13,"2019","5","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2019,"Delivered",2019-07-02,"2019","7","201 Nashville Ave.","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2019,"Delivered",2019-09-27,"2019","9","201 Nashville Ave.","New Orleans","70115"
+100,"Quality Pet Care",2019,"Delivered",2018-12-28,"2018","12","1600-B Belle Chasse Hwy","Gretna","70056"
+-92,"Quality Pet Care",2019,"Returned",2020-01-03,"2020","1","1600-B Belle Chasse Hwy","Gretna","70056"
+1000,"Southern Animal Foundation",2019,"Delivered",2018-12-27,"2018","12","1823 Magazine Street","New Orleans","70130"
+900,"Southern Animal Foundation",2019,"Delivered",2019-03-07,"2019","3","1823 Magazine Street","New Orleans","70130"
+1000,"Southern Animal Foundation",2019,"Delivered",2019-09-11,"2019","9","1823 Magazine Street","New Orleans","70130"
+-62,"Southern Animal Foundation",2019,"Returned",2020-01-07,"2020","1","1823 Magazine Street","New Orleans","70130"
+-400,"Southern Animal Foundation",2019,"Returned",2020-01-07,"2020","1","1823 Magazine Street","New Orleans","70130"
+500,"Southshore Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","213 Live Oak St","Metairie","70005"
+-100,"Southshore Animal Hospital",2019,"Returned",2019-12-30,"2019","12","213 Live Oak St","Metairie","70005"
+200,"Terry Parkway Animal Clinic",2019,"Delivered",2018-12-28,"2018","12","636 Terry Parkway","Terrytown","70056"
+-154,"Terry Parkway Animal Clinic",2019,"Returned",2020-01-02,"2020","1","636 Terry Parkway","Terrytown","70056"
+200,"The Cat Hospital of Metairie",2019,"Delivered",2018-12-26,"2018","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+200,"The Cat Hospital of Metairie",2019,"Delivered",2019-08-22,"2019","8","1500 Veterans Memorial Blvd.","Metairie","70005"
+-85,"The Cat Hospital of Metairie",2019,"Returned",2019-12-30,"2019","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+-100,"The Cat Hospital of Metairie",2019,"Returned",2019-12-30,"2019","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+200,"The Cat Hospital of Metairie",2019,"Delivered",2019-07-02,"2019","7","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"The Cat Practice",2019,"Delivered",2018-12-27,"2018","12","1809 Magazine St","New Orleans","70130"
+500,"The Cat Practice",2019,"Delivered",2019-06-17,"2019","6","1809 Magazine St","New Orleans","70130"
+-35,"The Cat Practice",2019,"Returned",2020-01-07,"2020","1","1809 Magazine St","New Orleans","70130"
+-100,"The Cat Practice",2019,"Returned",2020-01-07,"2020","1","1809 Magazine St","New Orleans","70130"
+-23,"The Cat Practice",2019,"Returned",2020-01-07,"2020","1","1809 Magazine St","New Orleans","70130"
+-100,"The Cat Practice",2019,"Returned",2020-01-07,"2020","1","1809 Magazine St","New Orleans","70130"
+500,"The French Quarter Vet",2019,"Delivered",2018-12-27,"2018","12","3041 N Rampart St","New Orleans","70116"
+200,"The French Quarter Vet",2019,"Delivered",2019-06-04,"2019","6","3041 N Rampart St","New Orleans","70116"
+-18,"The French Quarter Vet",2019,"Returned",2020-01-03,"2020","1","3041 N Rampart St","New Orleans","70116"
+-2,"The Inner Pup",2019,"Returned",2020-01-21,"2020","1",NA,"New Orleans",NA
+-41,"The Inner Pup",2019,"Returned",2020-01-21,"2020","1",NA,NA,NA
+50,"The Inner Pup",2019,"Delivered",2019-10-16,"2019","10",NA,"New Orleans",NA
+100,"Thrive Affordable Vet Care (Midcity)",2019,"Delivered",2019-03-12,"2019","3",NA,NA,NA
+200,"Thrive Affordable Vet Care (Midcity)",2019,"Delivered",2019-10-02,"2019","10",NA,"New Orleans",NA
+-100,"Thrive Affordable Vet Care (Midcity)",2019,"Returned",2019-12-30,"2019","12",NA,NA,NA
+500,"Thrive Affordable Vet Care (Vets)",2019,"Delivered",2019-07-03,"2019","7","3520 Veterans Memorial Blvd.","Metairie","70002"
+-100,"Thrive Affordable Vet Care (Vets)",2019,"Returned",2019-12-30,"2019","12","3520 Veterans Memorial Blvd.","Metairie","70002"
+300,"Uptown Veterinary Hospital",2019,"Delivered",2018-12-27,"2018","12","731 Nashville Ave","New Orleans","70115"
+-66,"Uptown Veterinary Hospital",2019,"Returned",2019-12-30,"2019","12","731 Nashville Ave","New Orleans","70115"
+200,"VCA Airline Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","5105 Airline Drive","Metairie","70001"
+-2,"VCA Airline Animal Hospital",2019,"Returned",2020-01-09,"2020","1","5105 Airline Drive","Metairie","70001"
+-74,"VCA Airline Animal Hospital",2019,"Returned",2019-12-30,"2019","12","5105 Airline Drive","Metairie","70001"
+500,"VCA Causeway Animal Hospital",2019,"Delivered",2018-12-26,"2018","12","1315 N. Causeway Blvd","Metairie","70001"
+-9,"VCA Causeway Animal Hospital",2019,"Returned",2020-01-08,"2020","1","1315 N. Causeway Blvd","Metairie","70001"
+500,"Vetco @ Petco Mobile Clinic",2019,"Delivered",2018-12-27,"2018","12","17485 Opportunity Ave","Baton Rouge","70817"
+-35,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-66,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+500,"Vetco @ Petco Mobile Clinic",2019,"Delivered",2019-07-22,"2019","7","17485 Opportunity Ave","Baton Rouge","70817"
+-92,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-74,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-98,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-16,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-100,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-3,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+-22,"Vetco @ Petco Mobile Clinic",2019,"Returned",2020-01-07,"2020","1","17485 Opportunity Ave","Baton Rouge","70817"
+100,"Westside Veterinary Hospital",2019,"Delivered",2018-12-28,"2018","12","91 Westbank Expressway Suite 540","Gretna","70053"
+100,"Westside Veterinary Hospital",2019,"Delivered",2019-05-21,"2019","5","91 Westbank Expressway Suite 540","Gretna","70053"
+100,"Westside Veterinary Hospital",2019,"Delivered",2019-08-22,"2019","8","91 Westbank Expressway Suite 540","Gretna","70053"
+-6,"Westside Veterinary Hospital",2019,"Returned",2019-12-30,"2019","12","91 Westbank Expressway Suite 540","Gretna","70053"
+65,"Unknown",2019,"Delivered",2019-02-11,"2019","2",NA,NA,NA
+-61,"Unknown",2019,"Returned",2019-01-31,"2019","1",NA,NA,NA
+1000,"Southern Animal Foundation",2020,"Delivered",2019-12-19,"2019","12","1823 Magazine Street","New Orleans","70130"
+500,"Crescent City Veterinary Hospital",2020,"Delivered",2019-12-01,"2019","12","524 Jefferson Ave","New Orleans","70115"
+500,"The Cat Practice",2020,"Delivered",2019-12-19,"2019","12","1809 Magazine St","New Orleans","70130"
+200,"Banfield 1023 (Elmwood)",2020,"Delivered",2019-12-20,"2019","12","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+300,"Allstar Animal Clinic",2020,"Delivered",2019-12-20,"2019","12","4701 S Carrollton Ave","New Orleans","70119"
+1000,"Low Cost Animal Medical Center",2020,"Delivered",2019-12-20,"2019","12","4300 Washington Ave.","New Orleans","70125"
+500,"Louisiana SPCA",2020,"Delivered",2019-12-20,"2019","12",NA,NA,NA
+-2,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-1,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-1,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-400,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+200,"Louisiana SPCA",2020,"Delivered",2019-12-02,"2019","12",NA,"New Orleans",NA
+100,"Big Easy Animal Rescue",2020,"Delivered",2020-01-21,"2020","1","839 Spain St","New Orleans","70117"
+700,"Louisiana SPCA",2020,"Delivered",2020-03-09,"2020","3",NA,"New Orleans",NA
+500,"Louisiana SPCA",2020,"Delivered",2019-12-20,"2019","12",NA,NA,NA
+500,"Canal Street Veterinary Hospital",2020,"Delivered",2019-12-26,"2019","12","4022 Canal St","New Orleans","70119"
+1000,"Lakeview Veterinary Hospital",2020,"Delivered",2019-12-26,"2019","12","6245 Memphis Ave","New Orleans","70124"
+1000,"Pet Care Center",2020,"Delivered",2019-12-26,"2019","12","2212 David Drive","Metairie","70003"
+500,"Southshore Animal Hospital",2020,"Delivered",2019-12-26,"2019","12","213 Live Oak St","Metairie","70005"
+-47,"Southshore Animal Hospital",2020,"Returned",2021-01-04,"2021","1","213 Live Oak St","Metairie","70005"
+500,"Maple Small Animal Clinic",2020,"Delivered",2019-12-30,"2019","12","7608 Maple St","New Orleans","70118"
+500,"Midcity Veterinary Hospital",2020,"Delivered",2019-12-26,"2019","12","3821 Orleans Ave","New Orleans","70119"
+500,"Algiers Animal Clinic",2020,"Delivered",2019-12-30,"2019","12","3807 General DeGaulle","Algiers","70114"
+500,"VCA Causeway Animal Hospital",2020,"Delivered",2019-12-26,"2019","12","1315 N. Causeway Blvd","Metairie","70001"
+500,"NOLA Animal Clinic",2020,"Delivered",2019-12-26,"2019","12","4554 Downman Rd","New Orleans","70126"
+500,"Elysian Fields Animal Clinic",2020,"Delivered",2019-12-26,"2019","12","4237 Elysian Fields Ave","New Orleans","70122"
+500,"Prytania Veterinary Hospital",2020,"Delivered",2019-12-24,"2019","12","201 Nashville Ave.","New Orleans","70115"
+1000,"Metairie Small Animal Hospital",2020,"Delivered",2019-12-26,"2019","12","101 Metairie Rd","Metairie","70005"
+-89,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+200,"Banfield 1175 (Veterans)",2020,"Delivered",2019-12-26,"2019","12","6851 Veterans Memorial Blvd","Metairie","70003"
+300,"Banfield 1023 (Elmwood)",2020,"Delivered",2020-05-01,"2020","5","1000 S Clearview Prkwy Ste 1050","Harahan","70123"
+500,"Carrollton Veterinary Hospital",2020,"Delivered",2019-12-26,"2019","12","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Desoto Park Veterinary Clinic",2020,"Delivered",2019-12-26,"2019","12","2659 Desoto St","New Orleans","70119"
+-100,"Desoto Park Veterinary Clinic",2020,"Returned",2021-01-04,"2021","1","2659 Desoto St","New Orleans","70119"
+-80,"Desoto Park Veterinary Clinic",2020,"Returned",2021-01-04,"2021","1","2659 Desoto St","New Orleans","70119"
+500,"Lake Animal Hospital",2020,"Delivered",2019-12-26,"2019","12","604 Veterans Memorial Blvd","Metairie","70005"
+-26,"Lake Animal Hospital",2020,"Returned",2021-01-04,"2021","1","604 Veterans Memorial Blvd","Metairie","70005"
+500,"Louisiana SPCA",2020,"Delivered",2019-12-27,"2019","12",NA,"New Orleans",NA
+500,"Magazine Street Animal Clinic",2020,"Delivered",2019-12-27,"2019","12","3458 Magazine St","New Orleans","70115"
+-1,"Magazine Street Animal Clinic",2020,"Returned",2021-02-24,"2021","2","3458 Magazine St","New Orleans","70115"
+200,"The Cat Hospital of Metairie",2020,"Delivered",2019-12-26,"2019","12","1500 Veterans Memorial Blvd.","Metairie","70005"
+-31,"The Cat Hospital of Metairie",2020,"Returned",2021-01-04,"2021","1","1500 Veterans Memorial Blvd.","Metairie","70005"
+300,"Animal Medical & Surgical Hospital",2020,"Delivered",2019-12-26,"2019","12","3001 North Causeway Blvd","Metairie","70002"
+500,"Thrive Affordable Vet Care (Midcity)",2020,"Delivered",2019-12-26,"2019","12",NA,NA,NA
+500,"Vetco @ Petco Mobile Clinic",2020,"Delivered",2019-12-30,"2019","12","17485 Opportunity Ave","Baton Rouge","70817"
+-9,"Vetco @ Petco Mobile Clinic",2020,"Returned",2021-02-09,"2021","2","17485 Opportunity Ave","Baton Rouge","70817"
+-300,"Vetco @ Petco Mobile Clinic",2020,"Returned",2021-03-18,"2021","3","17485 Opportunity Ave","Baton Rouge","70817"
+-300,"Vetco @ Petco Mobile Clinic",2020,"Returned",2021-02-09,"2021","2","17485 Opportunity Ave","Baton Rouge","70817"
+300,"Banfield 1034 (West Bank)",2020,"Delivered",2020-02-17,"2020","2","1321 Manhattan Blvd","Harvey","70058"
+100,"Acadiana West Animal Clinic",2020,"Delivered",2020-01-13,"2020","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+-71,"Acadiana West Animal Clinic",2020,"Returned",2021-01-04,"2021","1","2600 Barataria Boulevard Suite E","Marrero","70072"
+100,"Dog Day Afternoon, LLC",2020,"Delivered",2020-02-27,"2020","2","831 Bordeaux St","New Orleans","70115"
+300,"Uptown Veterinary Hospital",2020,"Delivered",2019-12-27,"2019","12","731 Nashville Ave","New Orleans","70115"
+-38,"Uptown Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","731 Nashville Ave","New Orleans","70115"
+200,"The French Quarter Vet",2020,"Delivered",2020-01-02,"2020","1","3041 N Rampart St","New Orleans","70116"
+500,"Thrive Affordable Vet Care (Vets)",2020,"Delivered",2019-12-26,"2019","12","3520 Veterans Memorial Blvd.","Metairie","70002"
+-200,"Thrive Affordable Vet Care (Vets)",2020,"Returned",2021-01-04,"2021","1","3520 Veterans Memorial Blvd.","Metairie","70002"
+-34,"Thrive Affordable Vet Care (Vets)",2020,"Returned",2021-01-04,"2021","1","3520 Veterans Memorial Blvd.","Metairie","70002"
+200,"Ark Animal Hospital",2020,"Delivered",2020-02-03,"2020","2","4025 Jefferson Hwy","Jefferson","70121"
+-53,"Ark Animal Hospital",2020,"Returned",2021-01-04,"2021","1","4025 Jefferson Hwy","Jefferson","70121"
+-200,"Banfield 1175 (Veterans)",2020,"Returned",2019-12-30,"2019","12","6851 Veterans Memorial Blvd","Metairie","70003"
+200,"Banfield 1175 (Veterans)",2020,"Delivered",2019-12-30,"2019","12","6851 Veterans Memorial Blvd","Metairie","70003"
+25,"Home Veterinary Services",2020,"Delivered",2019-12-30,"2019","12","PO Box 11120, Jefferson, 10181-1120",NA,NA
+-13,"Home Veterinary Services",2020,"Returned",2021-01-04,"2021","1","PO Box 11120, Jefferson, 10181-1120",NA,NA
+200,"Batt Veterinary Services",2020,"Delivered",2019-12-30,"2019","12",NA,"Metairie",NA
+200,"Fur De Lis Vet Services",2020,"Delivered",2019-12-30,"2019","12","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+-20,"Fur De Lis Vet Services",2020,"Returned",2021-03-11,"2021","3","P.O. Box 791715   -   5045 Hastings Street","New Orleans - Metairie",NA
+200,"Gretna Animal Hospital",2020,"Delivered",2019-12-27,"2019","12","714 Kepler St","Gretna","70053"
+200,"Jester Veterinarian Clinic",2020,"Delivered",2019-12-27,"2019","12","4 Westbank Expressway","Westwego",NA
+-7,"Jester Veterinarian Clinic",2020,"Returned",2021-01-04,"2021","1","4 Westbank Expressway","Westwego",NA
+-41,"Jester Veterinarian Clinic",2020,"Returned",2021-01-04,"2021","1","4 Westbank Expressway","Westwego",NA
+-100,"Jester Veterinarian Clinic",2020,"Returned",2021-01-04,"2021","1","4 Westbank Expressway","Westwego",NA
+100,"Natural Pet Care",2020,"Delivered",2019-12-30,"2019","12","3825 Hessmer Ave","Metairie","70002"
+-23,"Natural Pet Care",2020,"Returned",2021-01-04,"2021","1","3825 Hessmer Ave","Metairie","70002"
+200,"New Orleans Animal Health",2020,"Delivered",2020-01-02,"2020","1","2372 St. Claude Ave","New Orleans","70117"
+200,"Terry Parkway Animal Clinic",2020,"Delivered",2020-01-02,"2020","1","636 Terry Parkway","Terrytown","70056"
+-31,"Terry Parkway Animal Clinic",2020,"Returned",2021-01-04,"2021","1","636 Terry Parkway","Terrytown","70056"
+-100,"Terry Parkway Animal Clinic",2020,"Returned",2021-01-04,"2021","1","636 Terry Parkway","Terrytown","70056"
+200,"Batt Veterinary Services",2020,"Delivered",2020-04-07,"2020","4",NA,"Metairie",NA
+200,"VCA Airline Animal Hospital",2020,"Delivered",2019-12-27,"2019","12","5105 Airline Drive","Metairie","70001"
+-59,"VCA Airline Animal Hospital",2020,"Returned",2021-01-04,"2021","1","5105 Airline Drive","Metairie","70001"
+100,"Animal Care Center",2020,"Delivered",2019-12-30,"2019","12","313 David Dr.","Metairie","70003"
+100,"Avenue Animal Wellness and Emergency",2020,"Delivered",2019-12-30,"2019","12","1401 St Charles Ave","New Orleans","70130"
+100,"Chalmette Pet Wellness Clinic & Hospital",2020,"Delivered",2019-12-30,"2019","12","705 E. Judge Perez Drive","Chalmette","70043"
+-1,"Chalmette Pet Wellness Clinic & Hospital",2020,"Returned",2021-01-04,"2021","1","705 E. Judge Perez Drive","Chalmette","70043"
+-2,"Chalmette Pet Wellness Clinic & Hospital",2020,"Returned",2021-01-04,"2021","1","705 E. Judge Perez Drive","Chalmette","70043"
+100,"Clearview Veterinary Hospital",2020,"Delivered",2019-12-30,"2019","12","4713 Trenton Street","Metairie","70006"
+-31,"Clearview Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","4713 Trenton Street","Metairie","70006"
+100,"Hickory Knoll Veterinary Hospital",2020,"Delivered",2019-12-27,"2019","12","1625 Hickory Ave","Harahan","70123"
+100,"Lakeside Animal Hospital",2020,"Delivered",2019-12-30,"2019","12","3838 Veterans Mem. Blvd.","Metairie","70002"
+100,"Levy Veterinary Hospital",2020,"Delivered",2019-12-30,"2019","12","2305 W Esplanade Ave Ste. W","Kenner","70065"
+-88,"Levy Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","2305 W Esplanade Ave Ste. W","Kenner","70065"
+100,"Manhattan Animal Clinic, LLC",2020,"Delivered",2020-01-02,"2020","1",NA,"Harvey",NA
+-39,"Manhattan Animal Clinic, LLC",2020,"Returned",2021-01-04,"2021","1",NA,"Harvey",NA
+100,"Dr. Mike's Animal House",2020,"Delivered",2020-01-09,"2020","1","1120 N. Rampart Street","New Orleans",NA
+100,"Marrero Veterinary Clinic",2020,"Delivered",2020-01-02,"2020","1","4001 Lapalco Blvd","Harvey","70058"
+-18,"Marrero Veterinary Clinic",2020,"Returned",2021-01-04,"2021","1","4001 Lapalco Blvd","Harvey","70058"
+100,"Westside Veterinary Hospital",2020,"Delivered",2020-04-21,"2020","4","91 Westbank Expressway Suite 540","Gretna","70053"
+100,"Quality Pet Care",2020,"Delivered",2020-01-02,"2020","1","1600-B Belle Chasse Hwy","Gretna","70056"
+-96,"Quality Pet Care",2020,"Returned",2021-01-04,"2021","1","1600-B Belle Chasse Hwy","Gretna","70056"
+100,"Westside Veterinary Hospital",2020,"Delivered",2019-12-27,"2019","12","91 Westbank Expressway Suite 540","Gretna","70053"
+100,"Avenue Animal Wellness and Emergency",2020,"Delivered",2020-06-16,"2020","6","1401 St Charles Ave","New Orleans","70130"
+65,"Unknown",2020,"Delivered",2019-12-26,"2019","12",NA,NA,NA
+-59,"Unknown",2020,"Returned",2021-01-20,"2021","1",NA,NA,NA
+-9,"Avian & Exotic Animal Hospital of Louisiana",2020,"Returned",2021-03-18,"2021","3","3635 N I-10 Service Rd. W.","Metairie","70002"
+25,"Avian & Exotic Animal Hospital of Louisiana",2020,"Delivered",2019-12-30,"2019","12","3635 N I-10 Service Rd. W.","Metairie","70002"
+-5,"Avian & Exotic Animal Hospital of Louisiana",2020,"Returned",2021-01-04,"2021","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+25,"At Home Veterinary Care",2020,"Delivered",2020-01-06,"2020","1","PO Box 231145","Harahan","70123"
+25,"Hickory Knoll Veterinary Hospital",2020,"Delivered",2020-10-07,"2020","10","1625 Hickory Ave","Harahan","70123"
+-1,"Hickory Knoll Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","1625 Hickory Ave","Harahan","70123"
+50,"Benson Veterinary Care LLC",2020,"Delivered",2020-01-03,"2020","1","328 Octavia St.","New Orleans","70115"
+-48,"Benson Veterinary Care LLC",2020,"Returned",2021-01-04,"2021","1","328 Octavia St.","New Orleans","70115"
+50,"Convenient Home Veterinary Care",2020,"Delivered",2020-01-03,"2020","1","P.O. Box 1242","Harvey","70059"
+-25,"Convenient Home Veterinary Care",2020,"Returned",2021-01-04,"2021","1","P.O. Box 1242","Harvey","70059"
+50,"Hickory Knoll Veterinary Hospital",2020,"Delivered",2020-12-15,"2020","12","1625 Hickory Ave","Harahan","70123"
+-50,"Hickory Knoll Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","1625 Hickory Ave","Harahan","70123"
+-24,"Unknown",2020,"Returned",2021-03-18,"2021","3",NA,NA,NA
+25,"Avian & Exotic Animal Hospital of Louisiana",2020,"Delivered",2020-08-17,"2020","8","3635 N I-10 Service Rd. W.","Metairie","70002"
+-24,"Avian & Exotic Animal Hospital of Louisiana",2020,"Returned",2021-01-04,"2021","1","3635 N I-10 Service Rd. W.","Metairie","70002"
+50,"The Street Dog Coalition",2020,"Delivered",2021-10-20,"2021","10",NA,"New Orleans",NA
+-37,"The Street Dog Coalition",2020,"Returned",2021-03-18,"2021","3",NA,NA,NA
+900,"Metairie Small Animal Hospital",2020,"Delivered",2020-01-02,"2020","1","101 Metairie Rd","Metairie","70005"
+500,"Crescent City Veterinary Hospital",2020,"Delivered",2020-02-26,"2020","2","524 Jefferson Ave","New Orleans","70115"
+500,"Maple Small Animal Clinic",2020,"Delivered",2020-03-03,"2020","3","7608 Maple St","New Orleans","70118"
+500,"Magazine Street Animal Clinic",2020,"Delivered",2020-03-03,"2020","3","3458 Magazine St","New Orleans","70115"
+-1,"Magazine Street Animal Clinic",2020,"Returned",2021-02-24,"2021","2","3458 Magazine St","New Orleans","70115"
+500,"Louisiana SPCA",2020,"Delivered",2020-03-03,"2020","3",NA,NA,NA
+-87,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-52,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-200,"Louisiana SPCA",2020,"Returned",2021-03-18,"2021","3",NA,"New Orleans",NA
+500,"Prytania Veterinary Hospital",2020,"Delivered",2020-03-06,"2020","3","201 Nashville Ave.","New Orleans","70115"
+500,"Midcity Veterinary Hospital",2020,"Delivered",2020-03-14,"2020","3","3821 Orleans Ave","New Orleans","70119"
+500,"NOLA Animal Clinic",2020,"Delivered",2020-03-24,"2020","3","4554 Downman Rd","New Orleans","70126"
+500,"Louisiana SPCA",2020,"Delivered",2020-03-26,"2020","3",NA,"New Orleans",NA
+1000,"Low Cost Animal Medical Center",2020,"Delivered",2020-04-14,"2020","4","4300 Washington Ave.","New Orleans","70125"
+-91,"Unknown",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+300,"Banfield 1034 (West Bank)",2020,"Delivered",2020-04-28,"2020","4","1321 Manhattan Blvd","Harvey","70058"
+200,"Batt Veterinary Services",2020,"Delivered",2020-06-05,"2020","6",NA,NA,NA
+500,"Crescent City Veterinary Hospital",2020,"Delivered",2020-05-08,"2020","5","524 Jefferson Ave","New Orleans","70115"
+1000,"Metairie Small Animal Hospital",2020,"Delivered",2020-05-08,"2020","5","101 Metairie Rd","Metairie","70005"
+500,"Allstar Animal Clinic",2020,"Delivered",2020-05-08,"2020","5","4701 S Carrollton Ave","New Orleans","70119"
+500,"Thrive Affordable Vet Care (Midcity)",2020,"Delivered",2020-05-13,"2020","5",NA,NA,NA
+500,"NOLA Animal Clinic",2020,"Delivered",2020-05-13,"2020","5","4554 Downman Rd","New Orleans","70126"
+500,"Midcity Veterinary Hospital",2020,"Delivered",2020-05-18,"2020","5","3821 Orleans Ave","New Orleans","70119"
+500,"Magazine Street Animal Clinic",2020,"Delivered",2020-05-18,"2020","5","3458 Magazine St","New Orleans","70115"
+500,"Prytania Veterinary Hospital",2020,"Delivered",2020-05-27,"2020","5","201 Nashville Ave.","New Orleans","70115"
+500,"Maple Small Animal Clinic",2020,"Delivered",2020-06-02,"2020","6","7608 Maple St","New Orleans","70118"
+500,"Algiers Animal Clinic",2020,"Delivered",2020-06-03,"2020","6","3807 General DeGaulle","Algiers","70114"
+1000,"Lakeview Veterinary Hospital",2020,"Delivered",2020-06-05,"2020","6","6245 Memphis Ave","New Orleans","70124"
+1000,"Southern Animal Foundation",2020,"Delivered",2020-06-16,"2020","6","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-1,"Southern Animal Foundation",2020,"Returned",2021-01-04,"2021","1","1823 Magazine Street","New Orleans","70130"
+-69,"The Cat Practice",2020,"Returned",2021-01-04,"2021","1","1809 Magazine St","New Orleans","70130"
+500,"The Cat Practice",2020,"Delivered",2020-06-16,"2020","6","1809 Magazine St","New Orleans","70130"
+-22,"The Cat Practice",2020,"Returned",2021-01-04,"2021","1","1809 Magazine St","New Orleans","70130"
+-100,"The Cat Practice",2020,"Returned",2021-01-04,"2021","1","1809 Magazine St","New Orleans","70130"
+500,"Louisiana SPCA",2020,"Delivered",2021-06-17,"2021","6",NA,NA,NA
+-56,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-93,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-500,"Banfield 1034 (West Bank)",2020,"Returned",2020-06-22,"2020","6","1321 Manhattan Blvd","Harvey","70058"
+500,"Banfield 1034 (West Bank)",2020,"Delivered",2020-06-22,"2020","6","1321 Manhattan Blvd","Harvey","70058"
+500,"Canal Street Veterinary Hospital",2020,"Delivered",2020-06-30,"2020","6","4022 Canal St","New Orleans","70119"
+500,"Louisiana SPCA",2020,"Delivered",2020-07-02,"2020","7",NA,NA,NA
+500,"Elysian Fields Animal Clinic",2020,"Delivered",2021-07-07,"2021","7","4237 Elysian Fields Ave","New Orleans","70122"
+-100,"Elysian Fields Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4237 Elysian Fields Ave","New Orleans","70122"
+-26,"Elysian Fields Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4237 Elysian Fields Ave","New Orleans","70122"
+-100,"Elysian Fields Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4237 Elysian Fields Ave","New Orleans","70122"
+200,"Gretna Animal Hospital",2020,"Delivered",2021-07-02,"2021","7","714 Kepler St","Gretna","70053"
+-10,"Gretna Animal Hospital",2020,"Returned",2021-01-04,"2021","1","714 Kepler St","Gretna","70053"
+-100,"Gretna Animal Hospital",2020,"Returned",2021-01-04,"2021","1","714 Kepler St","Gretna","70053"
+300,"Westside Veterinary Hospital",2020,"Delivered",2020-07-08,"2020","7","91 Westbank Expressway Suite 540","Gretna","70053"
+-78,"Westside Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","91 Westbank Expressway Suite 540","Gretna","70053"
+-1,"Westside Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","91 Westbank Expressway Suite 540","Gretna","70053"
+500,"Magazine Street Animal Clinic",2020,"Delivered",2020-07-03,"2020","7","3458 Magazine St","New Orleans","70115"
+500,"NOLA Animal Clinic",2020,"Delivered",2020-07-08,"2020","7","4554 Downman Rd","New Orleans","70126"
+500,"Crescent City Veterinary Hospital",2020,"Delivered",2020-07-08,"2020","7","524 Jefferson Ave","New Orleans","70115"
+100,"Pet Care Center",2020,"Delivered",2020-07-10,"2020","7","2212 David Drive","Metairie","70003"
+100,"Lakeside Animal Hospital",2020,"Delivered",2020-07-14,"2020","7","3838 Veterans Mem. Blvd.","Metairie","70002"
+-29,"Lakeside Animal Hospital",2020,"Returned",2021-01-04,"2021","1","3838 Veterans Mem. Blvd.","Metairie","70002"
+200,"Banfield 1175 (Veterans)",2020,"Delivered",2020-07-14,"2020","7","6851 Veterans Memorial Blvd","Metairie","70003"
+-45,"Banfield 1175 (Veterans)",2020,"Returned",2021-01-04,"2021","1","6851 Veterans Memorial Blvd","Metairie","70003"
+-200,"The Cat Hospital of Metairie",2020,"Returned",2021-01-04,"2021","1","1500 Veterans Memorial Blvd.","Metairie","70005"
+200,"The Cat Hospital of Metairie",2020,"Delivered",2020-07-14,"2020","7","1500 Veterans Memorial Blvd.","Metairie","70005"
+500,"Midcity Veterinary Hospital",2020,"Delivered",2020-07-22,"2020","7","3821 Orleans Ave","New Orleans","70119"
+100,"Big Easy Animal Rescue",2020,"Delivered",2020-07-16,"2020","7","839 Spain St","New Orleans","70117"
+200,"Batt Veterinary Services",2020,"Delivered",2020-08-18,"2020","8",NA,NA,NA
+100,"Dog Day Afternoon, LLC",2020,"Delivered",2020-08-18,"2020","8","831 Bordeaux St","New Orleans","70115"
+100,"Avenue Animal Wellness and Emergency",2020,"Delivered",2020-09-01,"2020","9","1401 St Charles Ave","New Orleans","70130"
+1000,"Low Cost Animal Medical Center",2020,"Delivered",2020-07-29,"2020","7","4300 Washington Ave.","New Orleans","70125"
+500,"Prytania Veterinary Hospital",2020,"Delivered",2020-07-29,"2020","7","201 Nashville Ave.","New Orleans","70115"
+1000,"Metairie Small Animal Hospital",2020,"Delivered",2020-07-30,"2020","7","101 Metairie Rd","Metairie","70005"
+500,"Maple Small Animal Clinic",2020,"Delivered",2020-08-18,"2020","8","7608 Maple St","New Orleans","70118"
+1000,"Pet Care Center",2020,"Delivered",2020-08-24,"2020","8","2212 David Drive","Metairie","70003"
+500,"Magazine Street Animal Clinic",2020,"Delivered",2020-08-27,"2020","8","3458 Magazine St","New Orleans","70115"
+-1,"Magazine Street Animal Clinic",2020,"Returned",2021-02-24,"2021","2","3458 Magazine St","New Orleans","70115"
+1000,"Louisiana SPCA",2020,"Delivered",2020-08-27,"2020","8",NA,"New Orleans",NA
+-20,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+500,"Carrollton Veterinary Hospital",2020,"Delivered",2021-07-05,"2021","7","3501 S. Carrollton Ave","New Orleans","70118"
+-5,"Carrollton Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","3501 S. Carrollton Ave","New Orleans","70118"
+-300,"Carrollton Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","3501 S. Carrollton Ave","New Orleans","70118"
+500,"Crescent City Veterinary Hospital",2020,"Delivered",2020-09-04,"2020","9","524 Jefferson Ave","New Orleans","70115"
+500,"Thrive Affordable Vet Care (Midcity)",2020,"Delivered",2020-09-09,"2020","9",NA,NA,NA
+-62,"Thrive Affordable Vet Care (Midcity)",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-300,"Thrive Affordable Vet Care (Midcity)",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+500,"Midcity Veterinary Hospital",2020,"Delivered",2020-09-25,"2020","9","3821 Orleans Ave","New Orleans","70119"
+500,"NOLA Animal Clinic",2020,"Delivered",2020-09-28,"2020","9","4554 Downman Rd","New Orleans","70126"
+500,"Prytania Veterinary Hospital",2020,"Delivered",2020-02-28,"2020","2","201 Nashville Ave.","New Orleans","70115"
+-11,"Prytania Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","201 Nashville Ave.","New Orleans","70115"
+1000,"Low Cost Animal Medical Center",2020,"Delivered",2020-10-07,"2020","10","4300 Washington Ave.","New Orleans","70125"
+-69,"Low Cost Animal Medical Center",2020,"Returned",2021-01-04,"2021","1","4300 Washington Ave.","New Orleans","70125"
+-100,"Low Cost Animal Medical Center",2020,"Returned",2021-01-04,"2021","1","4300 Washington Ave.","New Orleans","70125"
+-100,"Low Cost Animal Medical Center",2020,"Returned",2021-01-04,"2021","1","4300 Washington Ave.","New Orleans","70125"
+1000,"Metairie Small Animal Hospital",2020,"Delivered",2020-10-08,"2020","10","101 Metairie Rd","Metairie","70005"
+-34,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+-3,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+-64,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+-100,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+-96,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+-200,"Metairie Small Animal Hospital",2020,"Returned",2021-01-04,"2021","1","101 Metairie Rd","Metairie","70005"
+500,"Magazine Street Animal Clinic",2020,"Delivered",2020-10-07,"2020","10","3458 Magazine St","New Orleans","70115"
+-1,"Magazine Street Animal Clinic",2020,"Returned",2021-02-24,"2021","2","3458 Magazine St","New Orleans","70115"
+-1,"Magazine Street Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3458 Magazine St","New Orleans","70115"
+-9,"Magazine Street Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3458 Magazine St","New Orleans","70115"
+-4,"Magazine Street Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3458 Magazine St","New Orleans","70115"
+100,"VCA Causeway Animal Hospital",2020,"Delivered",2020-10-12,"2020","10","1315 N. Causeway Blvd","Metairie","70001"
+-53,"VCA Causeway Animal Hospital",2020,"Returned",2021-01-04,"2021","1","1315 N. Causeway Blvd","Metairie","70001"
+200,"Batt Veterinary Services",2020,"Delivered",2020-10-16,"2020","10",NA,"Metairie",NA
+-36,"Batt Veterinary Services",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-99,"Banfield 1034 (West Bank)",2020,"Returned",2021-01-04,"2021","1","1321 Manhattan Blvd","Harvey","70058"
+100,"Banfield 1034 (West Bank)",2020,"Delivered",2020-10-22,"2020","10","1321 Manhattan Blvd","Harvey","70058"
+-100,"Lake Animal Hospital",2020,"Returned",2021-01-04,"2021","1","604 Veterans Memorial Blvd","Metairie","70005"
+100,"Lake Animal Hospital",2020,"Delivered",2020-11-10,"2020","11","604 Veterans Memorial Blvd","Metairie","70005"
+500,"Algiers Animal Clinic",2020,"Delivered",2020-10-16,"2020","10","3807 General DeGaulle","Algiers","70114"
+-1,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-21,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+500,"Prytania Veterinary Hospital",2020,"Delivered",2020-12-21,"2020","12","201 Nashville Ave.","New Orleans","70115"
+-1,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-200,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+100,"Allstar Animal Clinic",2020,"Delivered",2020-11-16,"2020","11","4701 S Carrollton Ave","New Orleans","70119"
+300,"Maple Small Animal Clinic",2020,"Delivered",2020-11-16,"2020","11","7608 Maple St","New Orleans","70118"
+-93,"Maple Small Animal Clinic",2020,"Returned",2021-01-04,"2021","1","7608 Maple St","New Orleans","70118"
+-100,"Maple Small Animal Clinic",2020,"Returned",2021-01-04,"2021","1","7608 Maple St","New Orleans","70118"
+200,"Lakeview Veterinary Hospital",2020,"Delivered",2020-11-25,"2020","11","6245 Memphis Ave","New Orleans","70124"
+-1,"Lakeview Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","6245 Memphis Ave","New Orleans","70124"
+-49,"Lakeview Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","6245 Memphis Ave","New Orleans","70124"
+-100,"Big Easy Animal Rescue",2020,"Returned",2021-01-04,"2021","1","839 Spain St","New Orleans","70117"
+100,"Big Easy Animal Rescue",2020,"Delivered",2020-12-21,"2020","12","839 Spain St","New Orleans","70117"
+300,"Crescent City Veterinary Hospital",2020,"Delivered",2021-11-19,"2021","11","524 Jefferson Ave","New Orleans","70115"
+-84,"Crescent City Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","524 Jefferson Ave","New Orleans","70115"
+-200,"Crescent City Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","524 Jefferson Ave","New Orleans","70115"
+-100,"Allstar Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4701 S Carrollton Ave","New Orleans","70119"
+100,"Allstar Animal Clinic",2020,"Delivered",2021-01-04,"2021","1","4701 S Carrollton Ave","New Orleans","70119"
+100,"Southern Animal Foundation",2020,"Delivered",2020-12-14,"2020","12","1823 Magazine Street","New Orleans","70130"
+300,"Midcity Veterinary Hospital",2020,"Delivered",2020-12-08,"2020","12","3821 Orleans Ave","New Orleans","70119"
+-100,"Midcity Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","3821 Orleans Ave","New Orleans","70119"
+-33,"Midcity Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","3821 Orleans Ave","New Orleans","70119"
+-100,"NOLA Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4554 Downman Rd","New Orleans","70126"
+200,"NOLA Animal Clinic",2020,"Delivered",2020-12-28,"2020","12","4554 Downman Rd","New Orleans","70126"
+-200,"Prytania Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","201 Nashville Ave.","New Orleans","70115"
+-100,"Prytania Veterinary Hospital",2020,"Returned",2021-03-18,"2021","3","201 Nashville Ave.","New Orleans","70115"
+-57,"Plaquemines",2020,"Returned",2021-01-04,"2021","1",NA,"Plaquemines",NA
+-97,"Plaquemines",2020,"Returned",2021-02-13,"2021","2",NA,"Plaquemines",NA
+-300,"Plaquemines",2020,"Returned",2021-02-13,"2021","2",NA,"Plaquemines",NA
+-3,"Low Cost Animal Medical Center",2020,"Returned",2021-01-04,"2021","1","4300 Washington Ave.","New Orleans","70125"
+-8,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-3,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,"New Orleans",NA
+-21,"Louisiana SPCA",2020,"Returned",2021-01-04,"2021","1",NA,NA,NA
+-11,"Westside Veterinary Hospital",2020,"Returned",2021-01-04,"2021","1","91 Westbank Expressway Suite 540","Gretna","70053"
+-33,"Big Easy Animal Rescue",2020,"Returned",2021-01-04,"2021","1","839 Spain St","New Orleans","70117"
+-4,"Low Cost Animal Medical Center",2020,"Returned",2021-01-04,"2021","1","4300 Washington Ave.","New Orleans","70125"
+-1,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-17,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-39,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-15,"Algiers Animal Clinic",2020,"Returned",2021-01-04,"2021","1","3807 General DeGaulle","Algiers","70114"
+-51,"NOLA Animal Clinic",2020,"Returned",2021-01-04,"2021","1","4554 Downman Rd","New Orleans","70126"
